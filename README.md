@@ -657,9 +657,9 @@ Parameter	Value (integer)	Description
 
 # Behaviors
 
-| behavior_id | Hex  | behavior_name | Description    | 
-| --- | --- | ---  | ---  | 
-| 1  | 0x0000000---  |  | Zone violation for car or pedestrian  | 	 
+| behavior_id | Hex | behavior_name | Description | 
+| --- | --- | --- | --- | 
+| 1  | 0x0000000 |  | Zone violation for car or pedestrian  | 	 
 | 2  | 0x00000002 | Parking spot detection  | 
 | 4  | 0x00000004 | Parking violation  | 	 
 | 8 | 0x00000008 | Traffic flow  | 	 
@@ -667,7 +667,7 @@ Parameter	Value (integer)	Description
 | 128  | 0x00000080 | Turn left violation  | 	 
 | 32  | 0x00000020 | Turn right  | 	 
 | 256  | 0x00000100 | Turn right violation  | 	 
-| 512  |  | U-turn violations  | 	 
+| 512  | 0x00000200 | U-turn violations  | 	 
 | 64  | 0x00000040 | Wrong way  | 	 
 | 1677216  | 0x10000000 | Queuing  | 	 
 | 	 |  | Speeding  | 	   | 
@@ -675,8 +675,7 @@ Parameter	Value (integer)	Description
 |  | 0x00000800 | Run the red light (left)	  | 
 |  | 0x00001000 | Run the red light (right)  | 	
 |  | 0x00010000 | No mask detection  | 
-
-## Loitering detection	 
+|  |   | Loitering detection | 	 
 
 Parameters of Counting:
 behavior_id	behavior_name	Description
