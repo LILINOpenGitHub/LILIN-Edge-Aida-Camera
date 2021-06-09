@@ -670,7 +670,7 @@ Parameter	Value (integer)	Description
 | 512  | 0x00000200 | U-turn violations  | 	 
 | 64  | 0x00000040 | Wrong way  | 	 
 | 1677216  | 0x10000000 | Queuing  | 	 
-|  | Speeding  | 	   | 
+|  |  | Speeding   | 
 |  | 0x00000400 | Run the red light (Straight)  | 	
 |  | 0x00000800 | Run the red light (left)	  | 
 |  | 0x00001000 | Run the red light (right)  | 	
