@@ -658,7 +658,7 @@ Parameter	Value (integer)	Description
 # Behaviors
 
 | behavior_id | Hex  | behavior_name | Description    | 
-| ---  | ---  | ---  | 
+| --- | --- | ---  | ---  | 
 | 1  | 0x0000000---  |  | Zone violation for car or pedestrian  | 	 
 | 2  | 0x00000002 | Parking spot detection  | 
 | 4  | 0x00000004 | Parking violation  | 	 
