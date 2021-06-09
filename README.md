@@ -85,7 +85,7 @@ Parameters:
 # Alarm detection zones
 For alarm detection zone, the view setting is at 889 x 500.  The detection zone is based on the tab_view_size setting 889x500 and number of zones are in active is in  count_zone.
 
-![](https://github.com/LILINOpenGitHub/LILIN-Aida-Camera-SDK/blob/main/edgeai2.jpg)
+![image](https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/edgeai2.jpg)
 	
 ### Get configurations for Aida engine 
 ```
