@@ -37,7 +37,7 @@ UnlockingKey=s7cHLj54kGRJlhDALKaR5xyIXfR4ddDYLxBkEPRmfe9Hsswj+LIpiGLqKiJPeBwlsFn
 Parameter
 | Parameter | Description | Note |
 | --- | --- | --- |
-| LicenseType 	| 1: No license |
+| LicenseType 	| 1: No license |  |
 		| 2: Traffic detection  | GYNet_Traffic_Label.names |
 | 		| 3: Poker pattern recognition | (reserved) |
 | 		| 4: Human: Mask detection | GYNet_Human_Label.names |
