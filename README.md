@@ -834,11 +834,9 @@ Face
 Half_mask
 Mask
 
-Chapter 3.7  HTTP post
+### HTTP post
 HTTP Post can be configured via Aida software for behavior HTTP Post notification.  It can consist of 
 Profile: Behavior, [Speed], Color, Object, [Number Plate], [dwell], [Count]
-
- 
 
 The tokens in Aida software can be:
 Token		Description
