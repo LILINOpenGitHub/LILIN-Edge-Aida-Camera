@@ -35,22 +35,23 @@ UnlockingKey=s7cHLj54kGRJlhDALKaR5xyIXfR4ddDYLxBkEPRmfe9Hsswj+LIpiGLqKiJPeBwlsFn
 --boundary END
 
 Parameter
-Parameter	Type	Description	Note
-LicenseType		1: No license
-2: Traffic detection
-GYNet_Traffic_Label.names
-3: Poker pattern recognition 
+| Parameter | Description | Note |
+| --- | --- | --- |
+| LicenseType 	| 1: No license |
+| 		 | 2: Traffic detection  |
+| GYNet_Traffic_Label.names
+| 3: Poker pattern recognition 
 (reserved)
-4: Human: Mask detection
+| 4: Human: Mask detection
 GYNet_Human_Label.names
-5: LED digits recognition 
+| 5: LED digits recognition 
 (reserved)
-6: Sport shoes detection  
+| 6: Sport shoes detection  
 (reserved)
-7: Pose:  Human detection 
+| 7: Pose:  Human detection 
 (reserved)
-8: ANPR AI Number plate recognition
-9: Car logos 
+| 8: ANPR AI Number plate recognition
+| 9: Car logos 
 GYNet_LOG_Label.names	
 LicenseStatus		1: Invalid license
 2: Licensed
