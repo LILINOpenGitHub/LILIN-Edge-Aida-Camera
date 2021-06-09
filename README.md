@@ -22,9 +22,10 @@ http://192.168.0.200:8592/getconfig?ch=about_box&unlocking key=all
 ### Query Aida serer status
 Get Aida engine status including system ID, version, and unlocking key.
 
+```
 Syntax:
-
 http://<serverIP:8592>/server
+```
 
 Return:
 DeviceName=GYNet 
@@ -72,8 +73,6 @@ Parameters:
 ### Alarm detection zones
 For alarm detection zone, the view setting is at 889 x 500.  The detection zone is based on the tab_view_size setting 889x500 and number of zones are in active is in  count_zone.
 
- 
-
 ### Get configurations for Aida engine 
 
 ```
@@ -116,10 +115,10 @@ detection_time
 link_to_counter		
 
 ###  Set configurations for Aida engine 
-
+```
 Syntax: 
 http://<serverIP:8592>/setconfig?ch=all
-
+```
 http://<serverIP:8592>/setconfig?ch=<ch_id>&detection_zone=<zone ID>
 
 Example:
@@ -184,10 +183,10 @@ enable_tripwire		Reserve for future use
 
 ###  Save and reload configurations for Aida engine (GYNet.exe) 
 Once the configurations are set, call the reload CGI to make the settings active.
-
+```
 Syntax: 
 http://<serverIP:8592>/getconfig?reload=1
-
+```
 ### Factory default
 Set default settings of a camera including event setting, detection zone setting and HTTP post.
 
@@ -204,13 +203,13 @@ http://192.168.0.200:8592/system?default=all
 
 ###  Get recognition results
 Get run-time recognition results.  Both HTTP based and websocket are supported.
-
+```
 Syntax: 
 http://<serverIP:8592>/getalarmmotion
-
+```
 Syntax: 
 ws://<serverIP:8592>/getalarmmotion
-
+```
 
 --myboundary
 \r\n
