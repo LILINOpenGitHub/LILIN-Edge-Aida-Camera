@@ -683,7 +683,7 @@ CountCar
 CountHuman		
 
 ## Mask detection results by Aida engine
-
+```
 {"AiEngine":
 [
 {
@@ -799,7 +799,7 @@ counter_count":
 ],
 "Count":7
 }
-
+```
 Parameters of Mask:
 Parameter	Value (integer)	Description
 class_id"
