@@ -80,6 +80,7 @@ Syntax:
 http://<serverIP:8592>/getconfig?ch=all'
 ```
 ```
+Syntax: 
 http://<serverIP:8592>/getconfig?ch=<ch_id>&detection_zone=<zone ID>
 ```
 Example:
@@ -128,9 +129,8 @@ http://<serverIP:8592>/setconfig?ch=<ch_id>&detection_zone=<zone ID>
 Example:
 
 http://192.168.0.200:8592/setconfig?ch=1&detection_zone=0&trigger_events=1&checked=1
-
-Syntax: 
 ```
+Syntax: 
 http://<serverIP:8592>/setconfig?ch=<ch_id>&detection_zone=all
 ```
 Example:
