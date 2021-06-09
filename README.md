@@ -11,7 +11,7 @@ The default HTTP communication port number is 8592.
 ## HTTP API      
 ### License keys
 
-##E Set license key
+### Set license key
 
 http://192.168.0.200:8592/setconfig?ch=about_box&<unlocking key>
 
@@ -191,7 +191,7 @@ Once the configurations are set, call the reload CGI to make the settings active
 Syntax: 
 http://<serverIP:8592>/getconfig?reload=1
 
-Chapter 3.2.6  Factory default
+### Factory default
 Set default settings of a camera including event setting, detection zone setting and HTTP post.
 
 Syntax: 
@@ -259,9 +259,7 @@ CamTime: 2019-09-27 00:53:48
 
 (Next  multipart boundary content)
 
-
-
-Chapter 3.5.  Meta data of Aida engine
+###  Meta data of Aida engine
 LILIN defines meta data as JSON profile which contains:
 
 Profile: Object Name, Color, Behavior, [Speed], [Number Plate], [Count]
