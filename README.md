@@ -37,20 +37,20 @@ UnlockingKey=s7cHLj54kGRJlhDALKaR5xyIXfR4ddDYLxBkEPRmfe9Hsswj+LIpiGLqKiJPeBwlsFn
 Parameter
 | Parameter | Description | Note |
 | --- | --- | --- |
-| LicenseType 	| 1: No license |  |
-| 		| 2: Traffic detection  | GYNet_Traffic_Label.names |
-| 		| 3: Poker pattern recognition | (reserved) |
-| 		| 4: Human: Mask detection | GYNet_Human_Label.names |
-| 		| 5: LED digits recognition | (reserved) |
-| 		| 6: Sport shoes detection  | (reserved) |
-| 		| 7: Pose:  Human detection | (reserved) |
+| LicenseType 	| 1: No license |  			|
+| 		| 2: Traffic detection  		| GYNet_Traffic_Label.names |
+| 		| 3: Poker pattern recognition 		| (reserved) |
+| 		| 4: Human: Mask detection 		| GYNet_Human_Label.names |
+| 		| 5: LED digits recognition 		| (reserved) |
+| 		| 6: Sport shoes detection  		| (reserved) |
+| 		| 7: Pose:  Human detection 		| (reserved) |
 |		| 8: ANPR AI Number plate recognition | |
 | 		| 9: Car logos | GYNet_LOG_Label.names	|
-| LicenseStatus	| 1: Invalid license | 	|
-| 2: Licensed	| 	|
-| 3: License mismatch the system ID 	| 	|
-| 4: License not initialized 	| 	|
-| 5: License expired		| 	|
+| LicenseStatus	| 1: Invalid license 			| 	|
+| 		| 2: Licensed				| 	|
+| 		| 3: License mismatch the system ID 	| 	|
+| 		| 4: License not initialized 		| 	|
+| 		| 5: License expired			| 	|
 
 ### Set and get configurations for Aida engine 
 The database of the camera, config.json, can be set and get via HTTP CGI file.  See the CGIs below:
