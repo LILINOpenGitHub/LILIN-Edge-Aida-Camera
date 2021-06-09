@@ -842,6 +842,7 @@ Profile: Behavior, [Speed], Color, Object, [Number Plate], [dwell], [Count]
 
 The tokens in Aida software can be:
 |Token | Description|
+---------------------
 |<%name%>| Name of the object|
 |<%confidence%>| Confidence of the object|
 |<%left_x%>		Bonding box of X
