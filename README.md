@@ -1,6 +1,6 @@
 # LILIN-Edge-Aida-Camera
 
-## Overview
+# Overview
 This document, HTTPAPI, specifies the HTTP-based application-programming interface (API) for AI/Deep Learning of Merit LILIN Aida cameras.  Application developers can use this document to develop applications for Aida deep learning camera.  
 
 # HTTP status returned codes
@@ -19,7 +19,7 @@ HTTP code and text meanings are described as the followings:
 ## Default Port Number
 The default HTTP communication port number is 8592.
 
-## HTTP API      
+# HTTP API      
 ### License keys
 
 ### Set license key
@@ -85,11 +85,11 @@ Parameters:
 For alarm detection zone, the view setting is at 889 x 500.  The detection zone is based on the tab_view_size setting 889x500 and number of zones are in active is in  count_zone.
 
 ### Get configurations for Aida engine 
-
 ```
 Syntax: 
 http://<serverIP:8592>/getconfig?ch=all'
 ```
+
 ```
 Syntax: 
 http://<serverIP:8592>/getconfig?ch=<ch_id>&detection_zone=<zone ID>
@@ -106,8 +106,11 @@ http://192.168.0.200:8592/getconfig?ch=1&detection_zone=0
 Syntax:
 http://<serverIP:8592>/getconfig?ch=<ch_id>&detection_zone=all
 ```
-/getconfig?detection_zone=all
 
+```
+Syntax:
+/getconfig?detection_zone=all
+```
 The setting of detection_zone
 Parameters:
 Parameter	Value (integer)	Description
@@ -226,6 +229,7 @@ Get run-time recognition results.  Both HTTP based and websocket are supported.
 Syntax: 
 http://<serverIP:8592>/getalarmmotion
 ```
+
 ```
 Syntax: 
 ws://<serverIP:8592>/getalarmmotion
@@ -706,19 +710,15 @@ behavior_id	behavior_name	Description
 0x00001000	Run the red light (right)
 	
 0x00010000	No mask detection
-	 
 
-	Loitering detection	 
-
-
-
+## Loitering detection	 
 
 Parameters of Counting:
 behavior_id	behavior_name	Description
 CountCar		
 CountHuman		
 
-### Mask detection results by Aida engine
+## Mask detection results by Aida engine
 
 {"AiEngine":
 [
@@ -848,7 +848,7 @@ Face
 Half_mask
 Mask
 
-### HTTP post
+# HTTP post
 HTTP Post can be configured via Aida software for behavior HTTP Post notification.  It can consist of 
 Profile: Behavior, [Speed], Color, Object, [Number Plate], [dwell], [Count]
 
