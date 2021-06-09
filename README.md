@@ -9,9 +9,9 @@ This document, HTTPAPI, specifies the HTTP-based application-programming interfa
 The default HTTP communication port number is 8592.
 
 ## HTTP API      
-## License keys
+### License keys
 
-## Set license key
+##E Set license key
 
 http://192.168.0.200:8592/setconfig?ch=about_box&<unlocking key>
 
@@ -58,7 +58,7 @@ LicenseStatus		1: Invalid license
 4: License not initialized
 5: License expired	
 
-Chapter 3.2.  Set and get configurations for Aida engine 
+### Set and get configurations for Aida engine 
 The database of the camera, config.json, can be set and get via HTTP CGI file.  See the CGIs below:
 In general, there are number plate recognition and 4 alarm detection zones for AI.
 
@@ -118,7 +118,7 @@ distance_violation_count		Reserve for future use
 detection_time		
 link_to_counter		
 
-Chapter 3.2.2  Set configurations for Aida engine 
+###  Set configurations for Aida engine 
 
 Syntax: 
 http://<serverIP:8592>/setconfig?ch=all
@@ -165,7 +165,7 @@ Parameter	Value (integer)	Description
 res_height		
 res_width		
 
-Chapter 3.2.4  Set cold object areas 
+###  Set cold object areas 
 If you experience false detection of an object, you are able to decrease the recognition rate of the object at the specific area.  We name it as cold object areas.  There are up to 8 objects can be stored in the configuration for suppress the recognition of the object.
 
 http://<serverIP:8592>/setconfig?coldobjects&x=1900&y=4&w=2&h=2&Object=car
@@ -174,10 +174,8 @@ Example:
 
 http://192.168.0.200:8592/setconfig?coldobjects&x=3&y=3&w=2&h=2&Object=bicycle
 
-Chapter 3.2.4 Tripwire
+### Tripwire
 For setting about the tripwire, please set “enable_direction1” and “direction1”.
-
- 
  
 Parameter:
 Parameter	Value (integer)	Description
@@ -187,7 +185,7 @@ direction1	1, 2, 3, 4
 direction2		Reserve for future use
 enable_tripwire		Reserve for future use
 
-Chapter 3.2.5  Save and reload configurations for Aida engine (GYNet.exe) 
+###  Save and reload configurations for Aida engine (GYNet.exe) 
 Once the configurations are set, call the reload CGI to make the settings active.
 
 Syntax: 
@@ -207,7 +205,7 @@ Example: Manufacture default including license key
 
 http://192.168.0.200:8592/system?default=all
 
-Chapter 3.3  Get recognition results
+###  Get recognition results
 Get run-time recognition results.  Both HTTP based and websocket are supported.
 
 Syntax: 
@@ -281,7 +279,7 @@ Car, blue color, parked, plate ABC123, 3 minutes
 
 LILIN meta data is determined by JSON protocol for describing a behavior of an object and explained below:
 
-Chapter 3.5.1  Number plates recognition results by Aida engine
+###  Number plates recognition results by Aida engine
 
 {"AiEngine":
 	 [
@@ -486,7 +484,7 @@ obj_type
 2: States/Countries/Provinces
 3: Number: The digits of the plates
 
-Chapter 3.5.2  Traffic object detection results by Aida engine
+###  Traffic object detection results by Aida engine
 {"AiEngine"
 	 [
 		{
@@ -548,7 +546,7 @@ Chapter 3.5.2  Traffic object detection results by Aida engine
 	“Count”:6
 }
 
-Chapter 3.5.3  Behavior detection results by Aida engine
+###  Behavior detection results by Aida engine
 {
 	"AiEngineBeh":
 	 [
