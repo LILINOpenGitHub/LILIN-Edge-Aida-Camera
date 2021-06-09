@@ -842,27 +842,27 @@ Profile: Behavior, [Speed], Color, Object, [Number Plate], [dwell], [Count]
 
 The tokens in Aida software can be:
 
-|Token | Description|
+| Token | Description |
 ---------------------
-|<%name%>| Name of the object|
-|<%confidence%>| Confidence of the object|
-|<%left_x%>		Bonding box of X
-|<%top_y%>		Bonding box of Y
-|<%width%>		Bonding box of width
-|<%height%>		Bonding box of height
-|<%center_x%>		Bonding box center X
-|<%center_y%>		Bonding box center Y
-|<%behavior_id%>		Behavior ID
-|<%color%>		Color of the object
-|<%linked_plate%>		Plate in the object
-|<%plate%>		Number plate
-|<%country%>		USA
-|<%logo%>		Car make
-|<%area%>		California, state name
-|<%full_image%>		Picture of the behavior
-|<%crop_image%>		Picture of the bounding box
-|<%pip_image%>		Picture of the behavior with bonding box
-|<%counter_count%> 	Counting
+| <%name%> | Name of the object |
+| <%confidence%> | Confidence of the object |
+| <%left_x%> | Bonding box of X |
+| <%top_y%> | Bonding box of Y |
+| <%width%> | Bonding box of width |
+| <%height%> | Bonding box of height |
+| <%center_x%> | Bonding box center X |
+| <%center_y%> | Bonding box center Y |
+| <%behavior_id%> | Behavior ID |
+| <%color%> | Color of the object |
+| <%linked_plate%> | Plate in the object |
+| <%plate%> | Number plate |
+| <%country%> | SA |
+| <%logo%> | Car make |
+| <%area%> | California, state name |
+| <%full_image%> | Picture of the behavior |
+| <%crop_image%> | Picture of the bounding box |
+| <%pip_image%> | Picture of the behavior with bonding box |
+| <%counter_count%> | Counting |
 
 Example (Pedestrian flow)
 [
