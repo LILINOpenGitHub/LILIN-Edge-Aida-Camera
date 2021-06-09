@@ -639,9 +639,7 @@ The color text
 Parameters:
 Parameter	Value (integer)	Description
 
-# Color detection
-
-
+# Color detection ID
 | color_id | Color text | 
 | ---  | --- | 
 | 1  | Red | 
@@ -655,8 +653,7 @@ Parameter	Value (integer)	Description
 | 9 | White | 
 | 10 | Silver | 
 
-# Behaviors
-
+# Behavior detection ID
 | behavior_id | Hex | behavior_name | 
 | --- | --- | --- | 
 | 1  | 0x0000000 |  Zone violation for car or pedestrian  | 	 
