@@ -76,10 +76,10 @@ For alarm detection zone, the view setting is at 889 x 500.  The detection zone 
 
 ### Get configurations for Aida engine 
 
-'''
+```
 Syntax: 
 http://<serverIP:8592>/getconfig?ch=all'
-'''
+```
 
 http://<serverIP:8592>/getconfig?ch=<ch_id>&detection_zone=<zone ID>
 
