@@ -79,7 +79,7 @@ For alarm detection zone, the view setting is at 889 x 500.  The detection zone 
 
  
 
-Chapter 3.2.1  Get configurations for Aida engine 
+### Get configurations for Aida engine 
 
 Syntax: 
 http://<serverIP:8592>/getconfig?ch=all
@@ -137,7 +137,7 @@ Example:
 
 /setconfig?detection_zone&zone=1&x1=290&y1=100&x2=290&y2=250&x3=290&y3=400&x4=581&y4=400&x5=581&y5=250&x6=581&y6=100&zone=2&x1=290&y1=100&x2=290&y2=250&x3=290&y3=400&x4=581&y4=400&x5=581&y5=250&x6=581&y6=100&zone=3&x1=290&y1=100&x2=290&y2=250&x3=290&y3=400&x4=581&y4=400&x5=581&y5=250&x6=581&y6=100&zone=4&x1=290&y1=100&x2=290&y2=250&x3=290&y3=400&x4=581&y4=400&x5=581&y5=250&x6=581&y6=100
 
-Chapter 3.2.3  Get cold object areas 
+###  Get cold object areas 
 
 http://<serverIP:8592>/getconfig?coldobjects=all
 
