@@ -730,12 +730,12 @@ CountHuman
 }
 ```
 Parameters of Mask:
-| Parameter | Value (integer) | Description | 
-| ---  | ----  |  -----  |  
-| class_id"  |   | 
-| 80 Face  |   | 
-| 81 Half_mask  |   | 
-| 82 Mask  |   | 
+| Parameter 	| Value (integer) 	| Description |	 
+| ---  		| ----  		|  -----  	|  
+| class_id"  	|   			| 
+| | 80   | Face | 
+| | 81   | Half_mask | 
+| | 82  | Mask   | 
 
 
 # HTTP post
