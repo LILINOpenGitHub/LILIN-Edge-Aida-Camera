@@ -19,7 +19,7 @@ Example: Get license key
 
 http://192.168.0.200:8592/getconfig?ch=about_box&unlocking key=all
 
-Chapter 3.2.  Query Aida serer status
+### Query Aida serer status
 Get Aida engine status including system ID, version, and unlocking key.
 
 Syntax:
@@ -69,7 +69,7 @@ Parameters:
 | confidence4 | Reserve for future use |
 | enable_lpr_db | Enable LPR database and snapshots |
 
-Alarm detection zones
+### Alarm detection zones
 For alarm detection zone, the view setting is at 889 x 500.  The detection zone is based on the tab_view_size setting 889x500 and number of zones are in active is in  count_zone.
 
  
@@ -128,7 +128,7 @@ http://<serverIP:8592>/setconfig?ch=<ch_id>&detection_zone=all
 
 Example:
 
-	http://192.168.0.200:8592/setconfig?ch=1&detection_zone=0&enable_direction1=No
+http://192.168.0.200:8592/setconfig?ch=1&detection_zone=0&enable_direction1=No
 
 /setconfig?detection_zone&zone=1&x1=290&y1=100&x2=290&y2=250&x3=290&y3=400&x4=581&y4=400&x5=581&y5=250&x6=581&y6=100&zone=2&x1=290&y1=100&x2=290&y2=250&x3=290&y3=400&x4=581&y4=400&x5=581&y5=250&x6=581&y6=100&zone=3&x1=290&y1=100&x2=290&y2=250&x3=290&y3=400&x4=581&y4=400&x5=581&y5=250&x6=581&y6=100&zone=4&x1=290&y1=100&x2=290&y2=250&x3=290&y3=400&x4=581&y4=400&x5=581&y5=250&x6=581&y6=100
 
@@ -435,8 +435,6 @@ engine_type
 0x100000
 
 0x200000	
-
-	
 
 TWN: Taiwan
 GYNet_LPD_Label_TWN.names
