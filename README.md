@@ -638,40 +638,22 @@ The color text
 
 Parameters:
 Parameter	Value (integer)	Description
-color_id 
 
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10	
+# Color detection
 
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10	color_text
 
-1: Red
-2: Orange
-3: Yellow
-4: Green
-5: Blue
-6: Indigo
-7: Purple
-8: Black
-9: White
-10: Silver
+| color_id | Color text | 
+| ---  | --- | 
+| 1  | Red | 
+| 2 | Orange | 
+| 3 | Yellow | 
+| 4 | Green  | 
+| 5 | Blue | 
+| 6 | Indigo | 
+| 7 | Purple | 
+| 8 | Black | 
+| 9 | White | 
+| 10 | Silver | 
 
 Behaviors are defined below:
 behavior_id	behavior_name	Description
