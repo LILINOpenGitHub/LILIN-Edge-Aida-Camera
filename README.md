@@ -686,118 +686,118 @@ CountHuman
 ```
 {"AiEngine":
 [
-{
-"id":0,
-"confidence":45,
-"engine_type":4,
-"label_name":"mask",
-"class_id":82,
-"obj_type":0,
-"obj_tracking_id":90,
-"obj_dwell_time":8,
-"color_id":3,
-"color":"Yellow",
-"behavior_id":65536,
-"x":229,"y":310,"w":109,"h":188,
-"parent_idx":-1,
-"world_distance":[]
-},
-{
-"id":1,
-"confidence":98,
-"engine_type":4,
-"label_name":"face",
-"class_id":80,
-"obj_type":0,
-"obj_tracking_id":92,
-"obj_dwell_time":1,
-"color_id":3,
-"color":"Yellow",
-"behavior_id":0,
-"x":534,"y":453,"w":229,"h":245,
-"parent_idx":-1,
-"world_distance":[]
-},
-{
-"id":2,
-"confidence":99,
-"engine_type":4,
-"label_name":"mask",
-"class_id":82,"obj_type":0,
-"obj_tracking_id":89,
-"obj_dwell_time":9,
-"color_id":10,
-"color":"Silver",
-"behavior_id":65536,"x":635,"y":135,"w":115,"h":136,
-"parent_idx":-1,"world_distance":[[90,5.26]]
-},
-{
-"id":3,
-"confidence":47,
-"engine_type":4,
-"label_name":"half_mask",
-"class_id":81,
-"obj_type":0,
-"obj_tracking_id":66,
-"obj_dwell_time":47,
-"color_id":3,
-"color":"Yellow",
-"behavior_id":0,
-"x":1040,"y":196,"w":187,"h":168,
-"parent_idx":-1,
-"world_distance":[]
-},
-{
-"id":4,
-"confidence":98,
-"engine_type":4,
-"label_name":"mask",
-"class_id":82,"obj_type":0,
-"obj_tracking_id":91,
-"obj_dwell_time":5,
-"color_id":4,"color":"Green",
-"behavior_id":65536,
-"x":1460,"y":214,"w":93,"h":72,
-"parent_idx":-1,
-"world_distance":[[90,7.16],[89,3.58]]
-},
-{
-"id":5,
-"confidence":97,
-"engine_type":4,
-"label_name":"face",
-"class_id":80,
-"obj_type":0,
-"obj_tracking_id":84,
-"obj_dwell_time":16,
-"color_id":3,"color":"Yellow",
-"behavior_id":0,
-"x":1598,"y":402,"w":163,"h":175,
-"parent_idx":-1,
-"world_distance":[]
-},
-{
-"id":6,
-"confidence":100,
-"engine_type":8388608,
-"label_name":"counter count","class_id":0,
-"obj_type":7,"obj_tracking_id":0,"obj_dwell_time":0,
-"color_id":0,
-"color":"",
-"behavior_id":0,
-"x":0,"y":0,"w":0,"h":0,
-"parent_idx":-1,
-"world_distance":[],
-"properties":
-{"
-counter_count":
- [
-0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-]
-}
-}
+	{
+		"id":0,
+		"confidence":45,
+		"engine_type":4,
+		"label_name":"mask",
+		"class_id":82,
+		"obj_type":0,
+		"obj_tracking_id":90,
+		"obj_dwell_time":8,
+		"color_id":3,
+		"color":"Yellow",
+		"behavior_id":65536,
+		"x":229,"y":310,"w":109,"h":188,
+		"parent_idx":-1,
+		"world_distance":[]
+	},
+	{
+		"id":1,
+		"confidence":98,
+		"engine_type":4,
+		"label_name":"face",
+		"class_id":80,
+		"obj_type":0,
+		"obj_tracking_id":92,
+		"obj_dwell_time":1,
+		"color_id":3,
+		"color":"Yellow",
+		"behavior_id":0,
+		"x":534,"y":453,"w":229,"h":245,
+		"parent_idx":-1,
+		"world_distance":[]
+	},
+	{
+		"id":2,
+		"confidence":99,
+		"engine_type":4,
+		"label_name":"mask",
+		"class_id":82,"obj_type":0,
+		"obj_tracking_id":89,
+		"obj_dwell_time":9,
+		"color_id":10,
+		"color":"Silver",
+		"behavior_id":65536,"x":635,"y":135,"w":115,"h":136,
+		"parent_idx":-1,"world_distance":[[90,5.26]]
+	},
+	{
+		"id":3,
+		"confidence":47,
+		"engine_type":4,
+		"label_name":"half_mask",
+		"class_id":81,
+		"obj_type":0,
+		"obj_tracking_id":66,
+		"obj_dwell_time":47,
+		"color_id":3,
+		"color":"Yellow",
+		"behavior_id":0,
+		"x":1040,"y":196,"w":187,"h":168,
+		"parent_idx":-1,
+		"world_distance":[]
+	},
+	{
+		"id":4,
+		"confidence":98,
+		"engine_type":4,
+		"label_name":"mask",
+		"class_id":82,"obj_type":0,
+		"obj_tracking_id":91,
+		"obj_dwell_time":5,
+		"color_id":4,"color":"Green",
+		"behavior_id":65536,
+		"x":1460,"y":214,"w":93,"h":72,
+		"parent_idx":-1,
+		"world_distance":[[90,7.16],[89,3.58]]
+	},
+	{
+		"id":5,
+		"confidence":97,
+		"engine_type":4,
+		"label_name":"face",
+		"class_id":80,
+		"obj_type":0,
+		"obj_tracking_id":84,
+		"obj_dwell_time":16,
+		"color_id":3,"color":"Yellow",
+		"behavior_id":0,
+		"x":1598,"y":402,"w":163,"h":175,
+		"parent_idx":-1,
+		"world_distance":[]
+	},
+	{
+		"id":6,
+		"confidence":100,
+		"engine_type":8388608,
+		"label_name":"counter count","class_id":0,
+		"obj_type":7,"obj_tracking_id":0,"obj_dwell_time":0,
+		"color_id":0,
+		"color":"",
+		"behavior_id":0,
+		"x":0,"y":0,"w":0,"h":0,
+		"parent_idx":-1,
+		"world_distance":[],
+		"properties":
+		{"
+		counter_count":
+			 [
+			0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+			]
+		}
+	}
 ],
-"Count":7
+	"Count":7
 }
 ```
 Parameters of Mask:
