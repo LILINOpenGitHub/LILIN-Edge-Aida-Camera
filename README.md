@@ -65,14 +65,15 @@ In general, there are number plate recognition and 4 alarm detection zones for A
 Number plate recognition setting:
 
 Parameters:
-Parameter	Value (integer)	Description
-min_characters	4	
-max_characters	10	
-confidence		Number plate recognition
-confidence2		Object detection
-confidence3		Reserve for future use
-confidence4		Reserve for future use
-enable_lpr_db		Enable LPR database and snapshots
+| Parameter Value (integer) | Description |
+|--- | ---  |
+| min_characters | 4 |
+| max_characters | 10 |	
+| confidence | Number plate recognition |
+| confidence2 | Object detection |
+| confidence3 | Reserve for future use |
+| confidence4 | Reserve for future use |
+| enable_lpr_db | Enable LPR database and snapshots |
 
 Alarm detection zones
 For alarm detection zone, the view setting is at 889 x 500.  The detection zone is based on the tab_view_size setting 889x500 and number of zones are in active is in  count_zone.
