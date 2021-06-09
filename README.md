@@ -4,42 +4,14 @@
 This document, HTTPAPI, specifies the HTTP-based application-programming interface (API) for AI/Deep Learning of Merit LILIN Aida cameras.  Application developers can use this document to develop applications for Aida deep learning camera.  
 
 
-Chapter 1.1.  Software versions
-The support for this HTTPAPI document is highly dependent on the product release. Please make sure that the functions, you want, are provided by the release of your product.  
 
-Chapter 2.  HOW TO USE THIS MANUAL
-This section contains information about general usages of this document.
-
-Chapter 2.1.  General notations
-Chapter 2.1.1.  General abbreviations
-CGI : Common Gateway Interface – a standardized way to communicate between a client (e.g., a web browser) and a server (e.g., a web server).
-N/A : Not applicable – a feature/parameter/value is not used in a specific task.
- 
-Chapter 2.2. Convention of this document
-In URL syntax and in descriptions of CGI parameters, text in italic within angle brackets denotes that is to be replaced with either a value or a string. When replacing the text string, the angle brackets shall also be replaced. 
-
-Chapter 2.3  HTTP status returned codes
-The built-in Web server uses the standard HTTP status codes.  The syntax of returned HTTP status is as following format:
-
-HTTP/1.0 <HTTP code> <HTTP text> \r\n
-
-HTTP code and text meanings are described as the followings:
-
-HTTP Code	HTTP Text	Description
-200	OK	The request has succeeded.
-204	No Content	Server has received the request but there is no information returned, and the client should stay in the same document view. This is mainly to allow inputting scripts without changing the document at the same time.
-400	Bad Request	The request had bad syntax or was inherently impossible to be satisfied.
-401	Unauthorized	The parameter to this message gives a specification of authorization schemes that are acceptable. The client should retry the request with a suitable Authorization header.
-403	Forbidden	The request is for an action that is forbidden.
-404	Not Found	The server has not found anything matching the given URL.
-
-Chapter 2.4  Default Port Number
+## Default Port Number
 The default HTTP communication port number is 8592.
 
-Chapter 3.  HTTP API      
-Chapter 3.1.  License keys
+## HTTP API      
+## License keys
 
-Example: Set license key
+## Set license key
 
 http://192.168.0.200:8592/setconfig?ch=about_box&<unlocking key>
 
