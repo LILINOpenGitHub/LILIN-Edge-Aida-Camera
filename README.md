@@ -68,7 +68,7 @@ Parameter
 The database of the camera, config.json, can be set and get via HTTP CGI file.  See the CGIs below:
 In general, there are number plate recognition and 4 alarm detection zones for AI.
 
-Number plate recognition setting:
+# Number plate recognition setting
 
 Parameters:
 | Parameter Value (integer) | Description |
@@ -81,9 +81,11 @@ Parameters:
 | confidence4 | Reserve for future use |
 | enable_lpr_db | Enable LPR database and snapshots |
 
-### Alarm detection zones
+# Alarm detection zones
 For alarm detection zone, the view setting is at 889 x 500.  The detection zone is based on the tab_view_size setting 889x500 and number of zones are in active is in  count_zone.
 
+![](https://github.com/LILINOpenGitHub/LILIN-Aida-Camera-SDK/blob/main/edgeai2.jpg)
+	
 ### Get configurations for Aida engine 
 ```
 Syntax: 
