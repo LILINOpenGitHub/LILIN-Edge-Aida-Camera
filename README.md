@@ -3,7 +3,18 @@
 ## Overview
 This document, HTTPAPI, specifies the HTTP-based application-programming interface (API) for AI/Deep Learning of Merit LILIN Aida cameras.  Application developers can use this document to develop applications for Aida deep learning camera.  
 
+# HTTP status returned codes
+The built-in Web server uses the standard HTTP status codes.  The syntax of returned HTTP status is as following format:
 
+HTTP code and text meanings are described as the followings:
+| HTTP Code	  | HTTP Text	| Description | 
+| ------  | ------ | --- | 
+| 200		  |  OK		| The request has succeeded. | 
+| 204		  | No Content	| Server has received the request but there is no information returned, and the client should stay in the same document view. This is mainly to allow inputting scripts without changing the document at the same time. | 
+| 400		  | Bad Request	| The request had bad syntax or was inherently impossible to be satisfied.   | 
+| 401		  | nauthorized	| The parameter to this message gives a specification of authorization schemes that are acceptable. The client should retry the request with a suitable Authorization header. <BR><BR> | 
+| 403		  | Forbidden	| The request is for an action that is forbidden. <BR><BR> | 
+| 404		  | Not Found	| The server has not found anything matching the given URL. <BR> | 
 
 ## Default Port Number
 The default HTTP communication port number is 8592.
