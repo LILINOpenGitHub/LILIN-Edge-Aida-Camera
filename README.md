@@ -428,77 +428,6 @@ LILIN meta data is determined by JSON protocol for describing a behavior of an o
 	“Count”:9
 }
 
-Parameters:
-Parameter	Value (integer)	Description
-engine_type 
-
-0x0100
-
-0x0200
-
-0x0400
-
-0x0800
-
-0x1000
-
-0x2000
-
-0x4000
-
-0x8000
-
-0x10000
-
-0x20000
-
-0x40000
-
-0x80000
-
-0x100000
-
-0x200000	
-
-TWN: Taiwan
-GYNet_LPD_Label_TWN.names
-EUR: Europe
-GYNet_OCR_Label_EUR.names
-SEA: 
-GYNet_OCR_Label_SEA.names
-CNA: China
-(reserved)
-MEA
-GYNet_OCR_Label_MEA.names
-USA
-GYNet_OCR_Label_USA.names
-AUS: Australia
-GYNet_OCR_Label_AUS.names
-GBR: UK
-GYNet_OCR_Label_EUR.names
-IDN: Indonesia
-GYNet_OCR_Label_IDN.names
-JPN
-GYNet_OCR_Label_JPN.names
-IND: India
-GYNet_OCR_Label_IND.names
-THA: Thailand
-Laos
-GYNet_LPD_Label_LAO.names
-BGD: Bangladesh
-GYNet_OCR_Label_BGD.names
-
-Parameters:
-Parameter	Value (integer)	Description
-obj_type 
-	0
-1
-2
-3	0: Plate: A plate is detected.
-1: Logo: A logo is detected (reserved).
-2: States/Countries/Provinces
-3: Number: The digits of the plates
-
 ###  Traffic object detection results by Aida engine
 {"AiEngine"
 	 [
@@ -801,16 +730,13 @@ CountHuman
 }
 ```
 Parameters of Mask:
-Parameter	Value (integer)	Description
-class_id"
-80
-81
-82
-	
-	
-Face
-Half_mask
-Mask
+| Parameter | Value (integer) | Description | 
+| ---  | ----  |  -----  |  
+| class_id"  |   | 
+| 80 Face  |   | 
+| 81 Half_mask  |   | 
+| 82 Mask  |   | 
+
 
 # HTTP post
 HTTP Post can be configured via Aida software for behavior HTTP Post notification.  It can consist of 
