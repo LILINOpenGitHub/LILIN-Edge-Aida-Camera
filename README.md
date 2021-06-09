@@ -79,9 +79,9 @@ For alarm detection zone, the view setting is at 889 x 500.  The detection zone 
 Syntax: 
 http://<serverIP:8592>/getconfig?ch=all'
 ```
-
+```
 http://<serverIP:8592>/getconfig?ch=<ch_id>&detection_zone=<zone ID>
-
+```
 Example:
 
 http://192.168.0.200:8592/getconfig?ch=1&detection_zone=0&trigger_events=0
@@ -90,8 +90,10 @@ Example:
 
 http://192.168.0.200:8592/getconfig?ch=1&detection_zone=0
 
+```
+Syntax:
 http://<serverIP:8592>/getconfig?ch=<ch_id>&detection_zone=all
-
+```
 /getconfig?detection_zone=all
 
 The setting of detection_zone
@@ -119,14 +121,18 @@ link_to_counter
 Syntax: 
 http://<serverIP:8592>/setconfig?ch=all
 ```
+```
+Syntax: 
 http://<serverIP:8592>/setconfig?ch=<ch_id>&detection_zone=<zone ID>
-
+```
 Example:
 
 http://192.168.0.200:8592/setconfig?ch=1&detection_zone=0&trigger_events=1&checked=1
 
+Syntax: 
+```
 http://<serverIP:8592>/setconfig?ch=<ch_id>&detection_zone=all
-
+```
 Example:
 
 http://192.168.0.200:8592/setconfig?ch=1&detection_zone=0&enable_direction1=No
@@ -134,9 +140,10 @@ http://192.168.0.200:8592/setconfig?ch=1&detection_zone=0&enable_direction1=No
 /setconfig?detection_zone&zone=1&x1=290&y1=100&x2=290&y2=250&x3=290&y3=400&x4=581&y4=400&x5=581&y5=250&x6=581&y6=100&zone=2&x1=290&y1=100&x2=290&y2=250&x3=290&y3=400&x4=581&y4=400&x5=581&y5=250&x6=581&y6=100&zone=3&x1=290&y1=100&x2=290&y2=250&x3=290&y3=400&x4=581&y4=400&x5=581&y5=250&x6=581&y6=100&zone=4&x1=290&y1=100&x2=290&y2=250&x3=290&y3=400&x4=581&y4=400&x5=581&y5=250&x6=581&y6=100
 
 ###  Get cold object areas 
-
+```
+Syntax:
 http://<serverIP:8592>/getconfig?coldobjects=all
-
+```
 Example:
 
 http://192.168.0.200:8592/getconfig?coldobjects=all
@@ -163,9 +170,10 @@ res_width
 
 ###  Set cold object areas 
 If you experience false detection of an object, you are able to decrease the recognition rate of the object at the specific area.  We name it as cold object areas.  There are up to 8 objects can be stored in the configuration for suppress the recognition of the object.
-
+```
+Syntax:
 http://<serverIP:8592>/setconfig?coldobjects&x=1900&y=4&w=2&h=2&Object=car
-
+```
 Example:
 
 http://192.168.0.200:8592/setconfig?coldobjects&x=3&y=3&w=2&h=2&Object=bicycle
@@ -189,10 +197,10 @@ http://<serverIP:8592>/getconfig?reload=1
 ```
 ### Factory default
 Set default settings of a camera including event setting, detection zone setting and HTTP post.
-
+```
 Syntax: 
 http://<serverIP:8592>/system?default=1
-
+```
 Example: Manufacture default without license key
 
 http://192.168.0.200:8592/system?default=1
@@ -206,6 +214,7 @@ Get run-time recognition results.  Both HTTP based and websocket are supported.
 ```
 Syntax: 
 http://<serverIP:8592>/getalarmmotion
+```
 ```
 Syntax: 
 ws://<serverIP:8592>/getalarmmotion
