@@ -119,11 +119,11 @@ The setting of detection_zone
 
 | Parameter	 	| Value  	| Description			 |
 | --- 			| ---	 	| --- 				| 
-| enable_direction1	|		| Enable directional detection |
+| enable_direction1	|Yes / No	| Enable directional detection |
 | enable_direction2	| 		| Reserve for future use 	|
-| direction1		|  		| 				| 
+| direction1		|1, 2, 3, 4	| 				| 
 | direction2		| 		| Reserve for future use 	|
-| enable_tripwire	|	 	| 				| 
+| enable_tripwire	|Yes / No	 	| 				| 
 | enable_traffic_light	| 		| Reserve for future use 	|
 | enable_social_distance | 		| 	Reserve for future use |
 | set_distance		| 		| Reserve for future use |
