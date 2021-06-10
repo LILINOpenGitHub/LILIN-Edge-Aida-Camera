@@ -17,7 +17,7 @@ HTTP code and text meanings are described as the followings:
 | 404		  | Not Found	| The server has not found anything matching the given URL. <BR> | 
 
 ## Default Port Number
-The default HTTP communication port number is 8592.
+The default camera’s HTTP port number is at http://192.168.0.200:80.  Use LILIN [IPScan tool](https://www.meritlilin.com/index.php/en/support/file/type/6) can find the camera via Windows PC.  The default HTTP communication port number is 8592.
 
 # HTTP API      
 ### License keys
