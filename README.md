@@ -116,24 +116,25 @@ Syntax:
 /getconfig?detection_zone=all
 ```
 The setting of detection_zone
-Parameters:
-Parameter	Value (integer)	Description
-enable_direction1		Enable directional detection
-enable_direction2		Reserve for future use
-direction1		
-direction2		Reserve for future use
-enable_tripwire		
-enable_traffic_light		Reserve for future use
-enable_social_distance		Reserve for future use
-set_distance		Reserve for future use
-world_distance_unit		Reserve for future use
-metadata1		Car, Truck for detection purpose
-Metadata2		Reserve for future use
-no_parking_time		
-queuing_count		Reserve for future use
-distance_violation_count		Reserve for future use
-detection_time		
-link_to_counter		
+
+| Parameter	 	| Value (integer) | 	Description |
+| --- | --- | --- | 
+| enable_direction1	| 	| Enable directional detection |
+| enable_direction2	| 	| Reserve for future use |
+| direction1		|  |
+| direction2		Reserve for future use |
+| enable_tripwire	 |	 |
+| enable_traffic_light	| 	| Reserve for future use |
+| enable_social_distance | 	| 	Reserve for future use |
+| set_distance	| 	| Reserve for future use |
+| world_distance_unit	| | 	Reserve for future use |
+| metadata1 | 	| 	Car, Truck for detection purpose |
+| Metadata2	| | 	Reserve for future use |
+| no_parking_time | 	| 	 |
+| queuing_count	| 	| Reserve for future use |
+| distance_violation_count | 	| 	Reserve for future use |
+| detection_time | 	|  | 	
+link_to_counter	 | 	|  | 
 
 #  Set configurations for Aida engine 
 ```
