@@ -196,13 +196,13 @@ http://192.168.0.200:8592/setconfig?coldobjects&x=3&y=3&w=2&h=2&Object=bicycle
 ### Tripwire
 For setting about the tripwire, please set “enable_direction1” and “direction1”.
  
-Parameter:
-Parameter	Value (integer)	Description
-enable_direction1		Enable directional detection
-enable_direction2		Reserve for future use
-direction1	1, 2, 3, 4	
-direction2		Reserve for future use
-enable_tripwire		Reserve for future use
+| Parameter	 	| Value 	| 	Description | 
+| ---  |  ---  |  ---  |  
+| enable_direction1  	| 		| 	Enable directional detection | 
+| enable_direction2 	| 	 	| 	Reserve for future use | 
+| direction1		| 1, 2, 3, 4  	| 	 		| 
+| direction2	 	| 	 	| Reserve for future use | 
+| enable_tripwire 	| 		| Reserve for future use | 
 
 ###  Save and reload configurations for Aida engine (GYNet.exe) 
 Once the configurations are set, call the reload CGI to make the settings active.
