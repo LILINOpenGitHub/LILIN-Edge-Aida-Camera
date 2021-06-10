@@ -136,7 +136,7 @@ The setting of detection_zone
 | detection_time	 | 		|  				| 	
 | link_to_counter	 	| 		| 				 | 
 
-#  Set configurations for Aida engine 
+###  Set configurations for Aida engine 
 ```
 Syntax: 
 http://<serverIP:8592>/setconfig?ch=all
@@ -156,7 +156,8 @@ http://192.168.0.200:8592/setconfig?ch=1&detection_zone=0&enable_direction1=No
 
 /setconfig?detection_zone&zone=1&x1=290&y1=100&x2=290&y2=250&x3=290&y3=400&x4=581&y4=400&x5=581&y5=250&x6=581&y6=100&zone=2&x1=290&y1=100&x2=290&y2=250&x3=290&y3=400&x4=581&y4=400&x5=581&y5=250&x6=581&y6=100&zone=3&x1=290&y1=100&x2=290&y2=250&x3=290&y3=400&x4=581&y4=400&x5=581&y5=250&x6=581&y6=100&zone=4&x1=290&y1=100&x2=290&y2=250&x3=290&y3=400&x4=581&y4=400&x5=581&y5=250&x6=581&y6=100
 
-###  Get cold object areas 
+# Cold Zones
+###  Get cold object zones
 ```
 Syntax:
 http://<serverIP:8592>/getconfig?coldobjects=all
@@ -164,25 +165,27 @@ http://<serverIP:8592>/getconfig?coldobjects=all
 Example:
 http://192.168.0.200:8592/getconfig?coldobjects=all
 
+```
 {
-"res_height":1080,
-"res_width":1920,
-"cold_objects":[
-{"X":0,"Y":0,"W":0,"H":0,"Object":"car","Index":1},
-{"X":0,"Y":0,"W":0,"H":0,"Object":"people","Index":2},
-{"X":0,"Y":0,"W":0,"H":0,"Object":" car ","Index":3},
-{"X":0,"Y":0,"W":0,"H":0,"Object":" car ","Index":4},
-{"X":0,"Y":0,"W":0,"H":0,"Object":" car ","Index":5},
-{"X":0,"Y":0,"W":0,"H":0,"Object":" car ","Index":6},
-{"X":0,"Y":0,"W":0,"H":0,"Object":" car ","Index":7},
-{"X":0,"Y":0,"W":0,"H":0,"Object":" car ","Index":8}
-]
+	"res_height":1080,
+	"res_width":1920,
+	"cold_objects":[
+		{"X":0,"Y":0,"W":0,"H":0,"Object":"car","Index":1},
+		{"X":0,"Y":0,"W":0,"H":0,"Object":"people","Index":2},
+		{"X":0,"Y":0,"W":0,"H":0,"Object":" car ","Index":3},
+		{"X":0,"Y":0,"W":0,"H":0,"Object":" car ","Index":4},
+		{"X":0,"Y":0,"W":0,"H":0,"Object":" car ","Index":5},
+		{"X":0,"Y":0,"W":0,"H":0,"Object":" car ","Index":6},
+		{"X":0,"Y":0,"W":0,"H":0,"Object":" car ","Index":7},
+		{"X":0,"Y":0,"W":0,"H":0,"Object":" car ","Index":8}
+	]
 }
+```
 
-Parameters:
-Parameter	Value (integer)	Description
-res_height		
-res_width		
+| Parameter	| Value  | 	Description| 
+| ---		| --- 	| --- | 
+| res_height	| 	| 	| 
+| res_width	| 	| 	| 
 
 ###  Set cold object areas 
 If you experience false detection of an object, you are able to decrease the recognition rate of the object at the specific area.  We name it as cold object areas.  There are up to 8 objects can be stored in the configuration for suppress the recognition of the object.
