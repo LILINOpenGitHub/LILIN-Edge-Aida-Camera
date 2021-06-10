@@ -275,6 +275,7 @@ CamTime: <TimeStamp>\r\n
 | TimeStamp	| String | Date & time info, eg. 2019-09-27 00:53:48| 
 
 Example: 
+```
 --myboundary
 \r\n
 Content-Length: 1188
@@ -288,7 +289,7 @@ CamTime: 2019-09-27 00:53:48
 \r\n	
 
 (Next  multipart boundary content)
-
+```
 ###  Meta data of Aida engine
 LILIN defines meta data as JSON profile which contains:
 
@@ -296,13 +297,13 @@ Profile: Object Name, Color, Behavior, [Speed], [Number Plate], [Count]
 
 To describe a behavior of an object, it could explain the following situation:
 
-1.	Three people in red color, blue color, and white color turned left in the paste.  In short, they are:
+1. Three people in red color, blue color, and white color turned left in the paste.  In short, they are:
 
 Person #1, red, turned left, 
 Person #2, blue, turned left,
 Person #3, white, turned left
 
-2.	A Car in blue color parked there with number plate ABC123 over 3 minutes.  In short, they are:
+2. A Car in blue color parked there with number plate ABC123 over 3 minutes.  In short, they are:
 
 Car, blue color, parked, plate ABC123, 3 minutes
 
@@ -315,30 +316,30 @@ LILIN meta data is determined by JSON protocol for describing a behavior of an o
 		{
 			"id": 0,
 			"confidence": 93,
-                                             “engine_type”: 256,
-                                             “class_id”: 0,
-                                             “obj_type”: 0,
+                        “engine_type”: 256,
+                        “class_id”: 0,
+                        “obj_type”: 0,
 			“label_name": “License Plate”,
 			"x": 773,
 			"y": 363,
 			"w": 349,
 			"h": 182,
 			“parent_idx”:-1,
-                                             "properties":
-                                             {
-                                                 “plate”: “BMW5957”,
-                                                 “country”: “USA”,
-                                                 “area”: “California”,
-			“area_id”: 43,
-                                             }
-		},
-                              {
+			"properties":
+			{
+				“plate”: “BMW5957”,
+				“country”: “USA”,
+				“area”: “California”,
+				“area_id”: 43,
+			}
+			},
+		{
 			"id": 1,
 			"confidence": 78,
-                                             “engine_type”: 256,
-                                             “class_id”: 45,
-                                             “obj_type”: 2,
-                                             “label_name": “California”,
+			“engine_type”: 256,
+			“class_id”: 45,
+			“obj_type”: 2,
+			“label_name": “California”,
 			"x": 848,
 			"y": 391,
 			"w": 60,
@@ -348,10 +349,10 @@ LILIN meta data is determined by JSON protocol for describing a behavior of an o
 		{
 			"id": 2,
 			"confidence": 75,
-                                             “engine_type”: 256,
-                                             “class_id”: 11,
-                                             “obj_type”: 3,
-                                             “label_name": “B”,
+			“engine_type”: 256,
+			“class_id”: 11,
+			“obj_type”: 3,
+			“label_name": “B”,
 			"x": 793,
 			"y": 381,
 			"w": 30,
@@ -361,10 +362,10 @@ LILIN meta data is determined by JSON protocol for describing a behavior of an o
 		{
 			"id": 3,
 			"confidence": 54,
-                                             “engine_type”: 256,
-                                             “class_id”: 22,
+			“engine_type”: 256,
+			“class_id”: 22,
 			“obj_type”: 3,
-                                             “label_name": “M”,
+			“label_name": “M”,
 			"x": 702,
 			"y": 313,
 			"w": 28,
@@ -374,10 +375,10 @@ LILIN meta data is determined by JSON protocol for describing a behavior of an o
 		{
 			"id": 4,
 			"confidence": 43,
-                                             “engine_type”: 256,
-                                             “class_id”: 32,
-                                             “obj_type”: 3,
-                                             “label_name": “W”,
+			“engine_type”: 256,
+			“class_id”: 32,
+			“obj_type”: 3,
+			“label_name": “W”,
 			"x": 813,
 			"y": 400,
 			"w": 26,
@@ -387,10 +388,10 @@ LILIN meta data is determined by JSON protocol for describing a behavior of an o
 		{
 			"id": 5,
 			"confidence": 78,
-                                             “engine_type”: 256,
-                                             “class_id”: 4,
-                                             “obj_type”: 3,
-                                            	“label_name": “5”,
+			“engine_type”: 256,
+			“class_id”: 4,
+			“obj_type”: 3,
+			“label_name": “5”,
 			"x": 822,
 			"y": 422,
 			"w": 31,
@@ -400,10 +401,10 @@ LILIN meta data is determined by JSON protocol for describing a behavior of an o
 		{
 			"id": 6,
 			"confidence": 91,
-                                             “engine_type”: 256,
-                                             “class_id”: 8,
-                                             “obj_type”: 3,
-                                             “label_name": “9”,
+			“engine_type”: 256,
+			“class_id”: 8,
+			“obj_type”: 3,
+			“label_name": “9”,
 			"x": 831,
 			"y": 430,
 			"w": 33,
@@ -413,10 +414,10 @@ LILIN meta data is determined by JSON protocol for describing a behavior of an o
 		{
 			"id": 7,
 			"confidence": 88,
-                                             “engine_type”: 256,
-                                             “class_id”: 4,
-                                             “obj_type”: 3,
-                                             “label_name": “5”,
+			“engine_type”: 256,
+			“class_id”: 4,
+			“obj_type”: 3,
+			“label_name": “5”,
 			"x": 843,
 			"y": 439,
 			"w": 29,
@@ -426,10 +427,10 @@ LILIN meta data is determined by JSON protocol for describing a behavior of an o
 		{
 			"id": 8,
 			"confidence": 77,
-                                             “engine_type”: 256,
-                                             “class_id”: 6,
-                                             “obj_type”: 3,
-                                             “label_name": “7”,
+			“engine_type”: 256,
+			“class_id”: 6,
+			“obj_type”: 3,
+			“label_name": “7”,
 			"x": 866,
 			"y": 448,
 			"w": 29,
@@ -446,12 +447,12 @@ LILIN meta data is determined by JSON protocol for describing a behavior of an o
 		{
 			"id": 1,
 			"confidence": 94,
-                                             “engine_type”: 1,
-                                             “class_id”: 10,
+			“engine_type”: 1,
+			“class_id”: 10,
 			“obj_tracking_id”: 237
 			“dwell_time”: 23
-                                             “obj_type”: 0,
-                                             “label_name": “truck”,
+			“obj_type”: 0,
+			“label_name": “truck”,
 			“color_id”: “8”,
 			“color_text”: “black”,
 			"x": 5,
@@ -463,12 +464,12 @@ LILIN meta data is determined by JSON protocol for describing a behavior of an o
 		{
 			"id": 2,
 			"confidence": 97,
-                                             “engine_type”: 1,
-                                             “class_id”: 19,
+			“engine_type”: 1,
+			“class_id”: 19,
 			“obj_tracking_id”: 238
 			“dwell_time”: 23
-                                             “obj_type”: 0,
-                                             “label_name": “human”,
+			“obj_type”: 0,
+			“label_name": “human”,
 			“color_id”: “8”,
 			“color_text”: “black”,
 			"x": 20,
@@ -480,12 +481,12 @@ LILIN meta data is determined by JSON protocol for describing a behavior of an o
 		{
 			"id": 3,
 			"confidence": 49,
-                                             “engine_type”: 1,
-                                             “class_id”: 17,
+			“engine_type”: 1,
+			“class_id”: 17,
 			“zone_id”: 1
 			“obj_tracking_id”: 239
-                                             “obj_type”: 0,
-                                            	“label_name": “trailer”,
+			“obj_type”: 0,
+			“label_name": “trailer”,
 			“behavior_id”: “0x00000001”,
 			“behavior”: “Parking”,
 			“color_id”: “8”,
@@ -496,8 +497,6 @@ LILIN meta data is determined by JSON protocol for describing a behavior of an o
 			"h": 105,
 			“parent_idx”:-1
 		},
-		
-		
 	],
 	“Count”:6
 }
@@ -510,11 +509,11 @@ LILIN meta data is determined by JSON protocol for describing a behavior of an o
 		{
 			"id": 3,
 			"confidence": 49,
-                                             “engine_type”: 1,
-                                             “class_id”: 17,
+			“engine_type”: 1,
+			“class_id”: 17,
 			“obj_tracking_id”: 239
-                                             “obj_type”: 0,
-                                            	“label_name": “trailer”,
+			“obj_type”: 0,
+			“label_name": “trailer”,
 			“behavior_id”: “0x00000001”,
 			“behavior”: “Parking”,
 			“color_id”: “8”,
@@ -528,11 +527,11 @@ LILIN meta data is determined by JSON protocol for describing a behavior of an o
 		{
 			"id": 4,
 			"confidence": 42,
-                                             “engine_type”: 1,
-                                             “class_id”: 18,
+			“engine_type”: 1,
+			“class_id”: 18,
 			“obj_tracking_id”: 239
-                                             “obj_type”: 0,
-                                             “label_name": “human”,
+			“obj_type”: 0,
+			“label_name": “human”,
 			"x": 570,
 			"y": 347
 			"w": 135,
@@ -542,11 +541,11 @@ LILIN meta data is determined by JSON protocol for describing a behavior of an o
 		{
 			"id": 5,
 			"confidence": 82,
-                                             “engine_type”: 1,
-                                             “class_id”: 0,
+			“engine_type”: 1,
+			“class_id”: 0,
 			“obj_tracking_id”: 240
-                                             “obj_type”: 0,
-                                             “label_name": “person”,
+			“obj_type”: 0,
+			“label_name": “person”,
 			"x": 579,
 			"y": 298,
 			"w": 381,
@@ -569,7 +568,7 @@ behavior
 color_id
 color_text	
 
-	Confidence of the recognition
+Confidence of the recognition
 Engine type
 The object ID
 The object tracking ID
