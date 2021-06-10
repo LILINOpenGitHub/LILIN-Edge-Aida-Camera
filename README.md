@@ -75,15 +75,15 @@ In general, there are number plate recognition and 4 alarm detection zones for A
 ### Confidence rate
 
 Parameters:
-| Parameter Value (integer) | Description |
-|--- | ---  |
-| min_characters | 4 |
-| max_characters | 10 |	
-| confidence | Confident rate of ANPR engine |
-| confidence2 | Confident rate of human & car engine |
-| confidence3 | Confident rate of logo engine |
-| confidence4 | Confident rate of human, mask, helmet engine |
-| enable_lpr_db | Enable LPR database and snapshots |
+| Parameter 	| Value  	| Description 	|
+|--- 		| ---  		|---  		|
+| min_characters | 4 |	|
+| max_characters | 10 |	 |
+| confidence | 0~99 | Confident rate of ANPR engine |
+| confidence2 | 0~99 | Confident rate of human & car engine |
+| confidence3 | 0~99 | Confident rate of logo engine |
+| confidence4 | 0~99 | Confident rate of human, mask, helmet engine |
+| enable_lpr_db | 0~99 | Enable LPR database and snapshots |
 
 ### Alarm detection zones
 For alarm detection zone, the view setting is at 889 x 500.  The detection zone is based on the tab_view_size setting 889x500 and number of zones are in active is in  count_zone.
