@@ -777,6 +777,7 @@ The tokens in Aida software can be:
 | <%pip_image%> | Picture of the behavior with bonding box |
 | <%counter_count%> | Counting |
 
+```
 Example (Pedestrian flow)
 [
   {
@@ -798,8 +799,9 @@ Content-Disposition: form-data; name="meta"
     "<%color%>"
   ]
 }
+
 Content-Disposition: form-data; name="img"
 Content-Type: image/jpeg
 
 <%full_image%>
-
+```
