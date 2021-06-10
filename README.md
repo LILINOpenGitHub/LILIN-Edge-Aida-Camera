@@ -226,7 +226,7 @@ Manufacture default including license key
 
 http://192.168.0.200:8592/system?default=all
 
-###  Get recognition results
+#  Get recognition results
 Get run-time recognition results.  Both HTTP based and websocket are supported.
 ```
 Syntax: 
@@ -237,7 +237,8 @@ http://<serverIP:8592>/getalarmmotion
 Syntax: 
 ws://<serverIP:8592>/getalarmmotion
 ```
-
+	
+```
 --myboundary
 \r\n
 Content-Length: <CLength>
@@ -260,12 +261,12 @@ CamTime: <TimeStamp>\r\n
 {
 "AiEngine":<JSON>
 }
-……
+```
 
-Parameters:
-Parameter	Value (integer)	Description
-CLength	Integer	HTTP content length
-TimeStamp	String	Date & time info, eg. 2019-09-27 00:53:48
+| Parameter	| Value  | Description | 
+| --- |  --- |  --- | 
+| CLength	| Integer| HTTP content length| 
+| TimeStamp	| String | Date & time info, eg. 2019-09-27 00:53:48| 
 
 Example: 
 --myboundary
@@ -296,12 +297,13 @@ Person #2, blue, turned left,
 Person #3, white, turned left
 
 2.	A Car in blue color parked there with number plate ABC123 over 3 minutes.  In short, they are:
+
 Car, blue color, parked, plate ABC123, 3 minutes
 
 LILIN meta data is determined by JSON protocol for describing a behavior of an object and explained below:
 
-###  Number plates recognition results by Aida engine
-
+#  Number plates recognition results by Aida engine
+```
 {"AiEngine":
 	 [
 		{
@@ -431,8 +433,8 @@ LILIN meta data is determined by JSON protocol for describing a behavior of an o
 	],
 	“Count”:9
 }
-
-###  Traffic object detection results by Aida engine
+```
+#  Traffic object detection results by Aida engine
 {"AiEngine"
 	 [
 		{
@@ -494,7 +496,8 @@ LILIN meta data is determined by JSON protocol for describing a behavior of an o
 	“Count”:6
 }
 
-###  Behavior detection results by Aida engine
+#  Behavior detection results by Aida engine
+```
 {
 	"AiEngineBeh":
 	 [
@@ -547,8 +550,8 @@ LILIN meta data is determined by JSON protocol for describing a behavior of an o
 	],
 	“Count”:6
 }
-
-Parameters:
+```
+	
 Parameter	Value (integer)	Description
 confidence
 engine_type                                         class_id
@@ -572,8 +575,6 @@ The name of the behavior
 The color ID
 The color text
 
-Parameters:
-Parameter	Value (integer)	Description
 
 # Color detection ID
 | color_id | Color text | 
