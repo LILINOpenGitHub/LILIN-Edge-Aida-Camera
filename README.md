@@ -78,10 +78,10 @@ Parameters:
 |--- | ---  |
 | min_characters | 4 |
 | max_characters | 10 |	
-| confidence | Number plate recognition |
-| confidence2 | Object detection |
-| confidence3 | Reserve for future use |
-| confidence4 | Reserve for future use |
+| confidence | Confident rate of ANPR engine |
+| confidence2 | Confident rate of human & car engine |
+| confidence3 | Confident rate of logo engine |
+| confidence4 | Confident rate of human, mask, helmet engine |
 | enable_lpr_db | Enable LPR database and snapshots |
 
 # Alarm detection zones
