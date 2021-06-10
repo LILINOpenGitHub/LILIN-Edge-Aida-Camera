@@ -31,6 +31,8 @@ Get license key
 
 http://192.168.0.200:8592/getconfig?ch=about_box&unlocking_key=all
 
+![image](https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/edgeai3.jpg)
+	
 ### Query Aida serer status
 Get Aida engine status including system ID, version, and unlocking key.
 
