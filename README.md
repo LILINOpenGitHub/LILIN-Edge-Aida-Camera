@@ -77,13 +77,13 @@ In general, there are number plate recognition and 4 alarm detection zones for A
 Parameters:
 | Parameter 	| Value  	| Description 	|
 |--- 		| ---  		|---  		|
-| min_characters | 4 |	|
-| max_characters | 10 |	 |
-| confidence | 0~99 | Confident rate of ANPR engine |
-| confidence2 | 0~99 | Confident rate of human & car engine |
-| confidence3 | 0~99 | Confident rate of logo engine |
-| confidence4 | 0~99 | Confident rate of human, mask, helmet engine |
-| enable_lpr_db | 0~99 | Enable LPR database and snapshots |
+| min_characters | 4 		|		|
+| max_characters | 10 		|		|
+| confidence 	| 0~99 		| Confident rate of ANPR engine |
+| confidence2 	| 0~99 		| Confident rate of human & car engine |
+| confidence3 	| 0~99 		| Confident rate of logo engine |
+| confidence4 	| 0~99 		| Confident rate of human, mask, helmet engine |
+| enable_lpr_db | Yes/No 	| Enable LPR database and snapshots |
 
 ### Alarm detection zones
 For alarm detection zone, the view setting is at 889 x 500.  The detection zone is based on the tab_view_size setting 889x500 and number of zones are in active is in  count_zone.
@@ -117,24 +117,24 @@ Syntax:
 ```
 The setting of detection_zone
 
-| Parameter	 	| Value (integer) | 	Description |
-| --- | --- | --- | 
-| enable_direction1	| 	| Enable directional detection |
-| enable_direction2	| 	| Reserve for future use |
-| direction1		|  |
-| direction2		Reserve for future use |
-| enable_tripwire	 |	 |
-| enable_traffic_light	| 	| Reserve for future use |
-| enable_social_distance | 	| 	Reserve for future use |
-| set_distance	| 	| Reserve for future use |
-| world_distance_unit	| | 	Reserve for future use |
-| metadata1 | 	| 	Car, Truck for detection purpose |
-| Metadata2	| | 	Reserve for future use |
-| no_parking_time | 	| 	 |
-| queuing_count	| 	| Reserve for future use |
-| distance_violation_count | 	| 	Reserve for future use |
-| detection_time | 	|  | 	
-link_to_counter	 | 	|  | 
+| Parameter	 	| Value  	| Description			 |
+| --- 			| ---	 	| --- 				| 
+| enable_direction1	|		| Enable directional detection |
+| enable_direction2	| 		| Reserve for future use 	|
+| direction1		|  		| 				| 
+| direction2		| 		| Reserve for future use 	|
+| enable_tripwire	|	 	| 				| 
+| enable_traffic_light	| 		| Reserve for future use 	|
+| enable_social_distance | 		| 	Reserve for future use |
+| set_distance		| 		| Reserve for future use |
+| world_distance_unit	| 		| 	Reserve for future use |
+| metadata1		| 		| 	Car, Truck for detection purpose |
+| Metadata2		|		| 	Reserve for future use |
+| no_parking_time 	| 		| 		 |
+| queuing_count		| 		| 	Reserve for future use |
+| distance_violation_count | 		| 	Reserve for future use |
+| detection_time	 | 		|  				| 	
+| link_to_counter	 	| 		| 				 | 
 
 #  Set configurations for Aida engine 
 ```
