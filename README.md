@@ -1,4 +1,5 @@
 # LILIN-Edge-Aida-Camera
+LILIN edge Aida camera is able to perform object classification, color detection, behavior detection, and number plate recognition.  This document explains how to obtain above recognition results.  The SDK is able to set a detection zone and tripwire via HTTPAPI.
 
 # Overview
 This document, HTTPAPI, specifies the HTTP-based application-programming interface (API) for AI/Deep Learning of Merit LILIN Aida cameras.  Application developers can use this document to develop applications for Aida deep learning camera.  
