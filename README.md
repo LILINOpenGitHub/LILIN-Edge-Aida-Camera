@@ -23,9 +23,10 @@ The default HTTP communication port number is 8592.
 ### License keys
 
 ### Set license key
-
-http://192.168.0.200:8592/setconfig?ch=about_box&<unlocking key>
-
+```
+Syntax:
+http://<serverIP:8592>/setconfig?ch=about_box&<unlocking key>
+```
 Example: 
 Get license key
 
