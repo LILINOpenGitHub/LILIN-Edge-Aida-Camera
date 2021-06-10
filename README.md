@@ -609,12 +609,12 @@ The color text
 | 512  | 0x00000200 | U-turn violations  | 	 
 | 64  | 0x00000040 | Wrong way  | 	 
 | 1677216  | 0x10000000 | Queuing  | 	 
-|  |  | Speeding   | 
-|  | 0x00000400 | Run the red light (Straight)  | 	
-|  | 0x00000800 | Run the red light (left)	  | 
-|  | 0x00001000 | Run the red light (right)  | 	
-|  | 0x00010000 | No mask detection  | 
-|  |   | Loitering detection | 	 
+| Reserved |  | Speeding   | 
+| 1024 | 0x00000400 | Run the red light (Straight)  | 	
+| 2048 | 0x00000800 | Run the red light (left)	  | 
+| 4096 | 0x00001000 | Run the red light (right)  | 	
+| 65536 | 0x00010000 | No mask detection  | 
+| Reserved |   | Loitering detection | 	 
 
 Parameters of Counting:
 behavior_id	behavior_name	Description
@@ -740,9 +740,8 @@ CountHuman
 }
 ```
 Parameters of Mask:
-| Parameter 	|  Description 	|	 
+| class_id	|  Description 	|	 
 | ---  		|  -----  	|  
-| class_id"  	|   		| 
 | 80   		| Face 		| 
 | 81  		| Half_mask 	| 
 | 82  		| Mask   	| 
