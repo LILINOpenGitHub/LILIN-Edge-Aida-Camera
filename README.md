@@ -1,5 +1,5 @@
 # LILIN-Edge-Aida-Camera
-LILIN edge Aida camera is able to perform object classification, color detection, [behavior detection](https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/tree/main/behaviorID), and number plate recognition.  This document explains how to obtain above recognition results.  The SDK is able to set a detection zone and tripwire via HTTPAPI.
+LILIN edge Aida camera is able to perform object classification, color detection, [behavior detection](https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/behaviorID/behaviorID.json), and number plate recognition.  This document explains how to obtain above recognition results.  The SDK is able to set a detection zone and tripwire via HTTPAPI.
 
 ![image](https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/images/cameras.jpg)
 
