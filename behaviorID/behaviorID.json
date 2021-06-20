@@ -1,0 +1,151 @@
+﻿{
+    "Trigger event ID": [
+        {
+            "Trigger event": "TRIGGER_ZONE_VIOLATION",
+            "behavior ID (hex)": "0x00000001",
+            "behavior ID (dec)": "1",
+            "Description (Eng)": "ZONE VIOLATION",
+            "Description (Chi)": "禁區偵測"
+        },
+        {
+            "Trigger event": "TRIGGER_SPOT_COUNTING",
+            "behavior ID (hex)": "0x00000002",
+            "behavior ID (dec)": "2",
+            "Description (Eng)": "SPOT COUNTING",
+            "Description (Chi)": "停車格數量偵測"
+        },
+        {
+            "Trigger event": "TRIGGER_PARKING_VIOLATION",
+            "behavior ID (hex)": "0x00000004",
+            "behavior ID (dec)": "4",
+            "Description (Eng)": "PARKING VIOLATION",
+            "Description (Chi)": "違規停車"
+        },
+        {
+            "Trigger event": "TRIGGER_GO_STRAIGHT",
+            "behavior ID (hex)": "0x00000008",
+            "behavior ID (dec)": "8",
+            "Description (Eng)": "GO STRAIGHT",
+            "Description (Chi)": "直行偵測"
+        },
+        {
+            "Trigger event": "TRIGGER_TURN_LEFT",
+            "behavior ID (hex)": "0x00000010",
+            "behavior ID (dec)": "16",
+            "Description (Eng)": "TURN LEFT",
+            "Description (Chi)": "左轉偵測"
+        },
+        {
+            "Trigger event": "TRIGGER_TURN_RIGHT",
+            "behavior ID (hex)": "0x00000020",
+            "behavior ID (dec)": "32",
+            "Description (Eng)": "TURN RIGHT",
+            "Description (Chi)": "右轉偵測"
+        },
+        {
+            "Trigger event": "TRIGGER_WRONG_WAY",
+            "behavior ID (hex)": "0x00000040",
+            "behavior ID (dec)": "64",
+            "Description (Eng)": "WRONG WAY",
+            "Description (Chi)": "逆向偵測"
+        },
+        {
+            "Trigger event": "TRIGGER_TURN_LEFT_VIOLATION",
+            "behavior ID (hex)": "0x00000080",
+            "behavior ID (dec)": "128",
+            "Description (Eng)": "TURN LEFT VIOLATION",
+            "Description (Chi)": "違規左轉"
+        },
+        {
+            "Trigger event": "TRIGGER_TURN_RIGHT_VIOLATION",
+            "behavior ID (hex)": "0x00000100",
+            "behavior ID (dec)": "256",
+            "Description (Eng)": "TURN RIGHT VIOLATION",
+            "Description (Chi)": "違規右轉"
+        },
+        {
+            "Trigger event": "TRIGGER_U_TURN_VIOLATION",
+            "behavior ID (hex)": "0x00000200",
+            "behavior ID (dec)": "512",
+            "Description (Eng)": "U TURN VIOLATION",
+            "Description (Chi)": "違規迴轉"
+        },
+        {
+            "Trigger event": "TRIGGER_GO_STRAIGHT_RED_LIGHT",
+            "behavior ID (hex)": "0x00000400",
+            "behavior ID (dec)": "1024",
+            "Description (Eng)": "GO STRAIGHT RED LIGHT",
+            "Description (Chi)": "闖紅燈偵測"
+        },
+        {
+            "Trigger event": "TRIGGER_TURN_LEFT_RED_LIGHT",
+            "behavior ID (hex)": "0x00000800",
+            "behavior ID (dec)": "2048",
+            "Description (Eng)": "TURN LEFT RED LIGHT",
+            "Description (Chi)": "紅燈左轉"
+        },
+        {
+            "Trigger event": "TRIGGER_TURN_RIGHT_RED_LIGHT",
+            "behavior ID (hex)": "0x00001000",
+            "behavior ID (dec)": "4096",
+            "Description (Eng)": "TURN RIGHT RED LIGHT",
+            "Description (Chi)": "紅燈右轉"
+        },
+        {
+            "Trigger event": "TRIGGER_MASK",
+            "behavior ID (hex)": "0x00010000",
+            "behavior ID (dec)": "65536",
+            "Description (Eng)": "MASK",
+            "Description (Chi)": "戴口罩"
+        },
+        {
+            "Trigger event": "TRIGGER_NO_MASK_VIOLATION",
+            "behavior ID (hex)": "0x00020000",
+            "behavior ID (dec)": "131072",
+            "Description (Eng)": "NO MASK VIOLATION",
+            "Description (Chi)": "未戴口罩"
+        },
+        {
+            "Trigger event": "TRIGGER_DISTANCE_VIOLATION",
+            "behavior ID (hex)": "0x00040000",
+            "behavior ID (dec)": "262144",
+            "Description (Eng)": "DISTANCE VIOLATION",
+            "Description (Chi)": "社交距離"
+        },
+        {
+            "Trigger event": "TRIGGER_HELMET",
+            "behavior ID (hex)": "0x00080000",
+            "behavior ID (dec)": "524288",
+            "Description (Eng)": "HELMET",
+            "Description (Chi)": "戴安全帽"
+        },
+        {
+            "Trigger event": "TRIGGER_NO_HELMET_VIOLATION",
+            "behavior ID (hex)": "0x00100000",
+            "behavior ID (dec)": "‭1048576‬",
+            "Description (Eng)": "NO HELMET VIOLATION",
+            "Description (Chi)": "未戴安全帽"
+        },
+        {
+            "Trigger event": "TRIGGER_ALLOW_LIST",
+            "behavior ID (hex)": "0x00200000",
+            "behavior ID (dec)": "‭2097152‬",
+            "Description (Eng)": "ALLOW LIST",
+            "Description (Chi)": "黑名單"
+        },
+        {
+            "Trigger event": "TRIGGER_BLOCK_LIST",
+            "behavior ID (hex)": "0x00400000",
+            "behavior ID (dec)": "‭4194304‬",
+            "Description (Eng)": "BLOCK LIST",
+            "Description (Chi)": "白名單"
+        },
+        {
+            "Trigger event": "TRIGGER_QUEUING_VIOLATION",
+            "behavior ID (hex)": "0x10000000",
+            "behavior ID (dec)": "‭268435456‬",
+            "Description (Eng)": "QUEUING VIOLATION",
+            "Description (Chi)": "排隊偵測"
+        }
+    ]
+}
