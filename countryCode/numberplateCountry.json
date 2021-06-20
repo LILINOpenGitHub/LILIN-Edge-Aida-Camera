@@ -1,0 +1,118 @@
+{
+    "ANPR": [
+        {
+            "area_id (hex)": "0x00000100",
+            "area ": "TWN",
+            "Description (Eng)": "Taiwan",
+            "Description (Chi)": "台灣"
+        },
+        {
+            "area_id (hex)": "0x00000200",
+            "area ": "EUR",
+            "Description (Eng)": "Europe",
+            "Description (Chi)": "歐洲"
+        },
+        {
+            "area_id (hex)": "0x00000400",
+            "area ": "SEA",
+            "Description (Eng)": "South Asia",
+            "Description (Chi)": "南亞"
+        },
+        {
+            "area_id (hex)": "0x00000800",
+            "area ": "CHN",
+            "Description (Eng)": "China",
+            "Description (Chi)": "中國"
+        },
+        {
+            "area_id (hex)": "0x00001000",
+            "area ": "MEA",
+            "Description (Eng)": "Middle east",
+            "Description (Chi)": "中東"
+        },
+        {
+            "area_id (hex)": "0x00002000",
+            "area ": "USA",
+            "Description (Eng)": "USA",
+            "Description (Chi)": "美國"
+        },
+        {
+            "area_id (hex)": "0x00004000",
+            "area ": "AUS",
+            "Description (Eng)": "Australia",
+            "Description (Chi)": "澳洲"
+        },
+        {
+            "area_id (hex)": "0x00008000",
+            "area ": "GBR",
+            "Description (Eng)": "UK",
+            "Description (Chi)": "英國"
+        },
+        {
+            "area_id (hex)": "0x00010000",
+            "area ": "IDN",
+            "Description (Eng)": "Indonesia",
+            "Description (Chi)": "印尼"
+        },
+        {
+            "area_id (hex)": "0x00020000",
+            "area ": "JPN",
+            "Description (Eng)": "Japan",
+            "Description (Chi)": "日本"
+        },
+        {
+            "area_id (hex)": "0x00040000",
+            "area ": "IND",
+            "Description (Eng)": "India & Nepal",
+            "Description (Chi)": "印度"
+        },
+        {
+            "area_id (hex)": "0x00080000",
+            "area ": "THA",
+            "Description (Eng)": "Thailand",
+            "Description (Chi)": "泰國"
+        },
+        {
+            "area_id (hex)": "0x00100000",
+            "area ": "LAO",
+            "Description (Eng)": "Lao",
+            "Description (Chi)": "寮國"
+        },
+        {
+            "area_id (hex)": "0x00200000",
+            "area ": "BGD",
+            "Description (Eng)": "Bangladesh",
+            "Description (Chi)": "孟加拉"
+        },
+        {
+            "area_id (hex)": "0x00400000",
+            "area ": "MYS",
+            "Description (Eng)": "Malaysia",
+            "Description (Chi)": "馬來西亞"
+        },
+        {
+            "area_id (hex)": "0x00800000",
+            "area ": "VNM",
+            "Description (Eng)": "Vietnam",
+            "Description (Chi)": "越南"
+        },
+        {
+            "area_id (hex)": "0x02000000",
+            "area ": "LKA",
+            "Description (Eng)": "Sri Lanka",
+            "Description (Chi)": "斯里蘭卡"
+        },
+        {
+            "area_id (hex)": "0x04000000",
+            "area ": "CAN",
+            "Description (Eng)": "Canada",
+            "Description (Chi)": "加拿大"
+        },
+        {
+            "area_id (hex)": "0x08000000",
+            "area ": "CNT",
+            "Description (Eng)": "Container",
+            "Description (Chi)": "貨櫃辨識"
+        }
+    ]
+}
