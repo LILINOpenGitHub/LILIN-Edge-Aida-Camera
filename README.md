@@ -33,7 +33,7 @@ Get license key
 
 http://192.168.0.200:8592/getconfig?ch=about_box&unlocking_key=all
 
-![image](https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/edgeai3.jpg)
+![image](https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/images/edgeai3.jpg)
 	
 ### Query Aida server status
 Get Aida engine status including system ID, version, and unlocking key.
@@ -89,7 +89,7 @@ Parameters:
 ### Alarm detection zones
 For alarm detection zone, the view setting is at 889 x 500.  The detection zone is based on the tab_view_size setting 889x500 and number of zones are in active is in  count_zone.
 
-![image](https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/edgeai2.jpg)
+![image](https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/images/edgeai2.jpg)
 	
 ### Get configurations for Aida engine 
 ```
