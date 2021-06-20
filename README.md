@@ -601,7 +601,7 @@ The color text
 | 9 | White | 
 | 10 | Silver | 
 
-# Behavior detection ID
+# [Behavior detection ID](https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/behaviorID/behaviorID.json)
 | behavior_id | Hex | behavior_name | 
 | --- | --- | --- | 
 | 1  | 0x0000000 |  Zone violation for car or pedestrian  | 	 
