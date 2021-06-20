@@ -310,7 +310,7 @@ Car, blue color, parked, plate ABC123, 3 minutes
 
 LILIN meta data is determined by JSON protocol for describing a behavior of an object and explained below:
 
-![image](https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/edgeai4.jpg)
+![image](https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/images/edgeai4.jpg)
 	
 #  Number plates recognition results by Aida engine
 ```
