@@ -19,12 +19,6 @@
             "Description (Chi)": "南亞"
         },
         {
-            "area_id (hex)": "0x00000800",
-            "area ": "CHN",
-            "Description (Eng)": "China",
-            "Description (Chi)": "中國"
-        },
-        {
             "area_id (hex)": "0x00001000",
             "area ": "MEA",
             "Description (Eng)": "Middle east",
