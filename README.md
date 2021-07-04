@@ -10,6 +10,8 @@ This document, HTTPAPI, specifies the HTTP-based application-programming interfa
 # HTTP status returned codes
 The built-in Web server uses the standard HTTP status codes.  The syntax of returned HTTP status is as following format:
 
+![image](https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/images/edgeai5.jpg)
+
 HTTP code and text meanings are described as the followings:
 | HTTP Code	  | HTTP Text	| Description | 
 | ------  | ------ | --- | 
