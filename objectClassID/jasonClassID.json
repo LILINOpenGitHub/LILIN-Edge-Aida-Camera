@@ -1,1 +1,1083 @@
-
+{
+    "Sheet1": [
+        {
+            "class_id": "0",
+            "ENG": "Person",
+            "TWN": "人",
+            "JPN": "人",
+            "ITL": "Persona",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "1",
+            "ENG": "Bicycle",
+            "TWN": "腳踏車",
+            "JPN": "自転車",
+            "ITL": "Bicicletta",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "2",
+            "ENG": "Car",
+            "TWN": "汽車",
+            "JPN": "車",
+            "ITL": "Macchina",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "3",
+            "ENG": "Motorbike",
+            "TWN": "摩托車",
+            "JPN": "バイク",
+            "ITL": "Moto",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "4",
+            "ENG": "Aeroplane",
+            "TWN": "飛機",
+            "JPN": "飛行機",
+            "ITL": "Aereo",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "5",
+            "ENG": "Bus",
+            "TWN": "公共汽車",
+            "JPN": "バス",
+            "ITL": "Autobus",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "6",
+            "ENG": "Train",
+            "TWN": "火車",
+            "JPN": "列車",
+            "ITL": "Treno",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "7",
+            "ENG": "Truck",
+            "TWN": "貨車",
+            "JPN": "トラック",
+            "ITL": "Camion",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "8",
+            "ENG": "Boat",
+            "TWN": "船",
+            "JPN": "ボート",
+            "ITL": "Barca",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "9",
+            "ENG": "Traffic light",
+            "TWN": "紅綠燈",
+            "JPN": "信号機",
+            "ITL": "Semaforo",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "10",
+            "ENG": "Firehydrant",
+            "TWN": "消防栓",
+            "JPN": "消火栓",
+            "ITL": "Idrante",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "11",
+            "ENG": "Stopsign",
+            "TWN": "停止標誌",
+            "JPN": "一時停止標識",
+            "ITL": "Segnale di stop",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "12",
+            "ENG": "Parking meter",
+            "TWN": "停車收費表",
+            "JPN": "パーキングメーター",
+            "ITL": "Parchimetro",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "13",
+            "ENG": "Bench",
+            "TWN": "長凳",
+            "JPN": "ベンチ",
+            "ITL": "Panchina",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "14",
+            "ENG": "Bird",
+            "TWN": "鳥",
+            "JPN": "鳥",
+            "ITL": "Uccello",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "15",
+            "ENG": "Cat",
+            "TWN": "貓",
+            "JPN": "ネコ",
+            "ITL": "Gatto",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "16",
+            "ENG": "Dog",
+            "TWN": "狗",
+            "JPN": "犬",
+            "ITL": "Cane",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "17",
+            "ENG": "Horse",
+            "TWN": "馬",
+            "JPN": "うま",
+            "ITL": "Cavallo",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "18",
+            "ENG": "Sheep",
+            "TWN": "羊",
+            "JPN": "羊",
+            "ITL": "Pecore",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "19",
+            "ENG": "Cow",
+            "TWN": "牛",
+            "JPN": "牛",
+            "ITL": "Mucca",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "20",
+            "ENG": "Elephant",
+            "TWN": "大象",
+            "JPN": "象",
+            "ITL": "Elefante",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "21",
+            "ENG": "Bear",
+            "TWN": "熊",
+            "JPN": "くま",
+            "ITL": "Orso",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "22",
+            "ENG": "Zebra",
+            "TWN": "斑馬",
+            "JPN": "シマウマ",
+            "ITL": "Zebra",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "23",
+            "ENG": "Giraffe",
+            "TWN": "長頸鹿",
+            "JPN": "キリン",
+            "ITL": "Giraffa",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "24",
+            "ENG": "Backpack",
+            "TWN": "背包",
+            "JPN": "バックパック",
+            "ITL": "Zaino",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "25",
+            "ENG": "Umbrella",
+            "TWN": "雨傘",
+            "JPN": "傘",
+            "ITL": "Ombrello",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "26",
+            "ENG": "Handbag",
+            "TWN": "手提包",
+            "JPN": "ハンドバッグ",
+            "ITL": "Borsetta",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "27",
+            "ENG": "Tie",
+            "TWN": "領帶",
+            "JPN": "ネクタイ",
+            "ITL": "Cravatta",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "28",
+            "ENG": "Suitcase",
+            "TWN": "行李箱",
+            "JPN": "スーツケース",
+            "ITL": "Valigia",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "29",
+            "ENG": "Frisbee",
+            "TWN": "飛盤",
+            "JPN": "フリスビー",
+            "ITL": "Frisbee",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "30",
+            "ENG": "Skis",
+            "TWN": "滑雪板",
+            "JPN": "スキー板",
+            "ITL": "Sci",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "31",
+            "ENG": "Snowboard",
+            "TWN": "單板滑雪",
+            "JPN": "スノーボード",
+            "ITL": "Snowboard",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "32",
+            "ENG": "Sports ball",
+            "TWN": "運動球",
+            "JPN": "スポーツボール",
+            "ITL": "Palla sportiva",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "33",
+            "ENG": "Kite",
+            "TWN": "風箏",
+            "JPN": "凧",
+            "ITL": "Aquilone",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "34",
+            "ENG": "Baseballbat",
+            "TWN": "棒球棒",
+            "JPN": "野球用バット",
+            "ITL": "Mazza da baseball",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "35",
+            "ENG": "Baseballglove",
+            "TWN": "棒球手套",
+            "JPN": "野球グローブ",
+            "ITL": "Baseballglove",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "36",
+            "ENG": "Skate board",
+            "TWN": "滑板",
+            "JPN": "スケートボード",
+            "ITL": "Tavola da skate",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "37",
+            "ENG": "Surfboard",
+            "TWN": "衝浪板",
+            "JPN": "サーフボード",
+            "ITL": "Tavola da surf",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "38",
+            "ENG": "Tennisracket",
+            "TWN": "網球拍",
+            "JPN": "テニスラケット",
+            "ITL": "Racchetta da tennis",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "39",
+            "ENG": "Bottle",
+            "TWN": "瓶子",
+            "JPN": "ボトル",
+            "ITL": "Bottiglia",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "40",
+            "ENG": "Wine glass",
+            "TWN": "酒杯",
+            "JPN": "ワイングラス",
+            "ITL": "Bicchiere di vino",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "41",
+            "ENG": "Cup",
+            "TWN": "杯子",
+            "JPN": "カップ",
+            "ITL": "Tazza",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "42",
+            "ENG": "Fork",
+            "TWN": "叉子",
+            "JPN": "フォーク",
+            "ITL": "Forchetta",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "43",
+            "ENG": "Knife",
+            "TWN": "刀子",
+            "JPN": "ナイフ",
+            "ITL": "Coltello",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "44",
+            "ENG": "Spoon",
+            "TWN": "匙子",
+            "JPN": "スプーン",
+            "ITL": "Cucchiaio",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "45",
+            "ENG": "Bowl",
+            "TWN": "碗",
+            "JPN": "丼鉢",
+            "ITL": "Ciotola",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "46",
+            "ENG": "Banana",
+            "TWN": "香蕉",
+            "JPN": "バナナ",
+            "ITL": "Banana",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "47",
+            "ENG": "Apple",
+            "TWN": "蘋果",
+            "JPN": "林檎",
+            "ITL": "Mela",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "48",
+            "ENG": "Sandwich",
+            "TWN": "三明治",
+            "JPN": "サンドイッチ",
+            "ITL": "Sandwich",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "49",
+            "ENG": "Orange",
+            "TWN": "橙子",
+            "JPN": "オレンジ",
+            "ITL": "arancia",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "50",
+            "ENG": "Broccoli",
+            "TWN": "花椰菜",
+            "JPN": "ブロッコリ",
+            "ITL": "broccoli",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "51",
+            "ENG": "Carrot",
+            "TWN": "胡蘿蔔",
+            "JPN": "にんじん",
+            "ITL": "Carota",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "52",
+            "ENG": "Hotdog",
+            "TWN": "熱狗",
+            "JPN": "ホットドッグ",
+            "ITL": "Hot dog",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "53",
+            "ENG": "Pizza",
+            "TWN": "比薩",
+            "JPN": "ピザ",
+            "ITL": "Pizza",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "54",
+            "ENG": "Donut",
+            "TWN": "甜甜圈",
+            "JPN": "ドーナツ",
+            "ITL": "Ciambella",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "55",
+            "ENG": "Cake",
+            "TWN": "蛋糕",
+            "JPN": "ケーキ",
+            "ITL": "torta",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "56",
+            "ENG": "Chair",
+            "TWN": "椅子",
+            "JPN": "椅子",
+            "ITL": "Sedia",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "57",
+            "ENG": "Sofa",
+            "TWN": "沙發",
+            "JPN": "ソファー",
+            "ITL": "Divano",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "58",
+            "ENG": "Pottedplant",
+            "TWN": "盆栽植物",
+            "JPN": "鉢植え",
+            "ITL": "Pianta in vaso",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "59",
+            "ENG": "Bed",
+            "TWN": "床",
+            "JPN": "ベッド",
+            "ITL": "Letto",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "60",
+            "ENG": "Diningtable",
+            "TWN": "餐桌",
+            "JPN": "ダイニングテーブル",
+            "ITL": "Tavolo da pranzo",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "61",
+            "ENG": "Toilet",
+            "TWN": "馬桶",
+            "JPN": "トイレ",
+            "ITL": "Gabinetto",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "62",
+            "ENG": "TVmonitor",
+            "TWN": "電視顯示器",
+            "JPN": "TVモニター",
+            "ITL": "TVmonitor",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "63",
+            "ENG": "Laptop",
+            "TWN": "筆記型電腦",
+            "JPN": "ラップトップ",
+            "ITL": "Il computer portatile",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "64",
+            "ENG": "Mouse",
+            "TWN": "滑鼠",
+            "JPN": "マウス",
+            "ITL": "Topo",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "65",
+            "ENG": "Remote",
+            "TWN": "遙控器",
+            "JPN": "リモート",
+            "ITL": "A distanza",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "66",
+            "ENG": "Keyboard",
+            "TWN": "鍵盤",
+            "JPN": "キーボード",
+            "ITL": "Tastiera",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "67",
+            "ENG": "Cellphone",
+            "TWN": "手機",
+            "JPN": "携帯電話",
+            "ITL": "Cellulare",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "68",
+            "ENG": "Microwave",
+            "TWN": "微波爐",
+            "JPN": "電子レンジ",
+            "ITL": "Microonde",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "69",
+            "ENG": "Oven",
+            "TWN": "烤箱",
+            "JPN": "オーブン",
+            "ITL": "Forno",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "70",
+            "ENG": "Toaster",
+            "TWN": "烤麵包機",
+            "JPN": "トースター",
+            "ITL": "Tostapane",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "71",
+            "ENG": "Sink",
+            "TWN": "水槽",
+            "JPN": "シンク",
+            "ITL": "Lavello",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "72",
+            "ENG": "Refrigerator",
+            "TWN": "冰箱",
+            "JPN": "冷蔵庫",
+            "ITL": "Frigorifero",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "73",
+            "ENG": "Book",
+            "TWN": "書",
+            "JPN": "本",
+            "ITL": "Libro",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "74",
+            "ENG": "Clock",
+            "TWN": "時鐘",
+            "JPN": "時計",
+            "ITL": "Orologio",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "75",
+            "ENG": "Vase",
+            "TWN": "花瓶",
+            "JPN": "花瓶",
+            "ITL": "Vaso",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "76",
+            "ENG": "Scissors",
+            "TWN": "剪刀",
+            "JPN": "はさみ",
+            "ITL": "Forbici",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "77",
+            "ENG": "Teddybear",
+            "TWN": "泰迪熊",
+            "JPN": "テディベア",
+            "ITL": "Orsacchiotto di peluche",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "78",
+            "ENG": "Hairdryer",
+            "TWN": "吹風機",
+            "JPN": "ヘアドライヤー",
+            "ITL": "Asciugacapelli",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "79",
+            "ENG": "Tooth brush",
+            "TWN": "牙刷",
+            "JPN": "歯ブラシ",
+            "ITL": "Spazzolino",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "80",
+            "ENG": "No mask",
+            "TWN": "沒戴口罩",
+            "JPN": "ファスクなし",
+            "ITL": "No fask",
+            "AI Model": "Mask",
+            "Note": "維持80"
+        },
+        {
+            "class_id": "81",
+            "ENG": "Half mask",
+            "TWN": "半戴口罩",
+            "JPN": "ハーフマスク",
+            "ITL": "Mezza maschera",
+            "AI Model": "Mask",
+            "Note": "維持81"
+        },
+        {
+            "class_id": "82",
+            "ENG": "Mask",
+            "TWN": "戴口罩",
+            "JPN": "マスク",
+            "ITL": "Maschera",
+            "AI Model": "Mask",
+            "Note": "維持82"
+        },
+        {
+            "class_id": "83",
+            "ENG": "Fire engine",
+            "TWN": "消防車",
+            "JPN": "消防車",
+            "ITL": "Autopompa antincendio",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "84",
+            "ENG": "Sedan",
+            "TWN": "轎車",
+            "JPN": "セダン",
+            "ITL": "Berlina",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "85",
+            "ENG": "Van",
+            "TWN": "小巴士",
+            "JPN": "ヴァン",
+            "ITL": "Van",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "86",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved",
+            "AI Model": "Reserved"
+        },
+        {
+            "class_id": "87",
+            "ENG": "Gate",
+            "TWN": "閘道",
+            "JPN": "ゲート",
+            "ITL": "cancello",
+            "AI Model": "Train"
+        },
+        {
+            "class_id": "88",
+            "ENG": "TUK TUK",
+            "TWN": "嘟嘟車",
+            "JPN": "トゥクトゥク",
+            "ITL": "TUK TUK",
+            "AI Model": "Traffic / Home",
+            "Note": "從80 改成 88"
+        },
+        {
+            "class_id": "89",
+            "ENG": "Truck trailer",
+            "TWN": "聯結車",
+            "JPN": "トラックトレーラー",
+            "ITL": "Rimorchio per camion",
+            "AI Model": "Traffic / Home",
+            "Note": "從81 改成 89"
+        },
+        {
+            "class_id": "90",
+            "ENG": "Pickup truck",
+            "TWN": "皮卡車",
+            "JPN": "ピックアップトラック",
+            "ITL": "Camioncino",
+            "AI Model": "Traffic / Home",
+            "Note": "從82 改成 90"
+        },
+        {
+            "class_id": "91",
+            "ENG": "No helmet (face)",
+            "TWN": "沒戴安全帽",
+            "JPN": "ヘルメットなし",
+            "ITL": "Nessun casco",
+            "AI Model": "Safety"
+        },
+        {
+            "class_id": "92",
+            "ENG": "Helmet",
+            "TWN": "戴安全帽",
+            "JPN": "ヘルメット",
+            "ITL": "Casco",
+            "AI Model": "Safety"
+        },
+        {
+            "class_id": "93",
+            "ENG": "Vest",
+            "TWN": "工安背心",
+            "JPN": "ベスト",
+            "ITL": "Veste",
+            "AI Model": "Safety"
+        },
+        {
+            "class_id": "94",
+            "ENG": "Glass",
+            "TWN": "配戴眼鏡",
+            "JPN": "配戴眼鏡",
+            "ITL": "Nessun giubbotto",
+            "AI Model": "Safety"
+        },
+        {
+            "class_id": "95",
+            "ENG": "No vest",
+            "TWN": "沒帶工安背心",
+            "JPN": "ベストなし",
+            "ITL": "senza giubbotto",
+            "AI Model": "Safety"
+        },
+        {
+            "class_id": "96",
+            "ENG": "Robber mask",
+            "TWN": "強盜面具",
+            "JPN": "強盗マスク",
+            "ITL": "Maschera da ladro",
+            "AI Model": "Safety"
+        },
+        {
+            "class_id": "97",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved",
+            "AI Model": "Reserved"
+        },
+        {
+            "class_id": "98",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved",
+            "AI Model": "Reserved"
+        },
+        {
+            "class_id": "99",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved",
+            "AI Model": "Reserved"
+        },
+        {
+            "class_id": "100",
+            "ENG": "Coke",
+            "TWN": "可口可樂",
+            "JPN": "コークス",
+            "ITL": "Coca Cola",
+            "AI Model": "Reserved"
+        },
+        {
+            "class_id": "101",
+            "ENG": "Sprite",
+            "TWN": "雪碧",
+            "JPN": "スプライト",
+            "ITL": "Sprite",
+            "AI Model": "Reserved"
+        },
+        {
+            "class_id": "102",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved",
+            "AI Model": "Reserved"
+        },
+        {
+            "class_id": "103",
+            "ENG": "Police car",
+            "TWN": "警車",
+            "JPN": "警察車両",
+            "ITL": "Auto della polizia",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "104",
+            "ENG": "Ambulance",
+            "TWN": "救護車",
+            "JPN": "救急車",
+            "ITL": "Ambulanza",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "105",
+            "ENG": "Fire ",
+            "TWN": "火",
+            "JPN": "火",
+            "ITL": "Fuoco",
+            "AI Model": "Fire / Smoke"
+        },
+        {
+            "class_id": "106",
+            "ENG": "Smoke",
+            "TWN": "抽煙",
+            "JPN": "煙",
+            "ITL": "Fumo",
+            "AI Model": "Fire / Smoke"
+        },
+        {
+            "class_id": "107",
+            "ENG": "traffic cone",
+            "TWN": "交通錐",
+            "JPN": "トラフィックコーン",
+            "ITL": "cono di traffico",
+            "AI Model": "Reserved"
+        },
+        {
+            "class_id": "108",
+            "ENG": "Tire",
+            "TWN": "輪胎",
+            "JPN": "タイヤ",
+            "ITL": "Pneumatico",
+            "AI Model": "Reserved"
+        },
+        {
+            "class_id": "109",
+            "ENG": "Box",
+            "TWN": "紙箱",
+            "JPN": "ボックス",
+            "ITL": "Scatola",
+            "AI Model": "Reserved"
+        },
+        {
+            "class_id": "110",
+            "ENG": "Pantograph",
+            "TWN": "集電弓",
+            "JPN": "パンタグラフ",
+            "ITL": "Pantografo",
+            "AI Model": "Train"
+        },
+        {
+            "class_id": "111",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved",
+            "AI Model": "Reserved"
+        },
+        {
+            "class_id": "112",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved",
+            "AI Model": "Reserved"
+        },
+        {
+            "class_id": "113",
+            "ENG": "Ladder",
+            "TWN": "樓梯",
+            "JPN": "はしご",
+            "ITL": "Scala",
+            "AI Model": "Reserved",
+            "Note": "小心, 衝突110"
+        },
+        {
+            "class_id": "114",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved",
+            "AI Model": "Reserved"
+        },
+        {
+            "class_id": "115",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved",
+            "AI Model": "Reserved"
+        },
+        {
+            "class_id": "116",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved",
+            "AI Model": "Reserved"
+        },
+        {
+            "class_id": "117",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved",
+            "AI Model": "Reserved"
+        },
+        {
+            "class_id": "118",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved",
+            "AI Model": "Reserved"
+        },
+        {
+            "class_id": "120",
+            "ENG": "Angry",
+            "TWN": "生氣",
+            "JPN": "怒っている",
+            "ITL": "Arrabbiato",
+            "AI Model": "Reserved"
+        },
+        {
+            "class_id": "121",
+            "ENG": "Disgust",
+            "TWN": "噁心",
+            "JPN": "嫌悪",
+            "ITL": "Disgusto",
+            "AI Model": "Reserved"
+        },
+        {
+            "class_id": "122",
+            "ENG": "Fear",
+            "TWN": "恐懼",
+            "JPN": "恐れ",
+            "ITL": "Paura",
+            "AI Model": "Reserved"
+        },
+        {
+            "class_id": "123",
+            "ENG": "Happy",
+            "TWN": "高興",
+            "JPN": "ハッピー",
+            "ITL": "Contento",
+            "AI Model": "Reserved"
+        },
+        {
+            "class_id": "124",
+            "ENG": "Sad",
+            "TWN": "難過",
+            "JPN": "悲しい",
+            "ITL": "Triste",
+            "AI Model": "Reserved"
+        },
+        {
+            "class_id": "125",
+            "ENG": "Surprise",
+            "TWN": "驚訝",
+            "JPN": "驚き",
+            "ITL": "Sorpresa",
+            "AI Model": "Reserved"
+        },
+        {
+            "class_id": "126",
+            "ENG": "Neutral",
+            "TWN": "無表情",
+            "JPN": "中性",
+            "ITL": "Neutro",
+            "AI Model": "Reserved"
+        },
+        {
+            "class_id": "130",
+            "ENG": "Pig",
+            "TWN": "豬",
+            "JPN": "豚",
+            "ITL": "Maiale",
+            "AI Model": "Reserved"
+        },
+        {
+            "class_id": "131",
+            "ENG": "Bulldozer",
+            "TWN": "推土車",
+            "JPN": "ブルドーザー",
+            "ITL": "Bulldozer",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "132",
+            "ENG": "Stacker",
+            "TWN": "堆高機",
+            "JPN": "スタッカー",
+            "ITL": "che impila",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "133",
+            "ENG": "Excavator",
+            "TWN": "挖土機",
+            "JPN": "掘削機",
+            "ITL": "Escavatore",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "134",
+            "ENG": "Tanker",
+            "TWN": "油罐車",
+            "JPN": "タンクローリー",
+            "ITL": "Autocisterna",
+            "AI Model": "Traffic / Home"
+        },
+        {
+            "class_id": "135",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved",
+            "AI Model": "Reserved"
+        },
+        {
+            "class_id": "200",
+            "ENG": "Nike",
+            "TWN": "Nike",
+            "JPN": "Nike",
+            "ITL": "Nike",
+            "AI Model": "Reserved"
+        },
+        {
+            "class_id": "201",
+            "ENG": "New balance",
+            "TWN": "Newbalance",
+            "JPN": "Newbalance",
+            "ITL": "Newbalance",
+            "AI Model": "Reserved"
+        }
+    ]
+}
