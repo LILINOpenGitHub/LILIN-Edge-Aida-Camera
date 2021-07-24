@@ -3,7 +3,7 @@ LILIN edge Aida camera running Yolo is able to perform object classification, co
 
 ![image](https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/images/cameras.jpg)
 
-
+![image](https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/images/2t6cg-2llww.gif)
 # Overview
 This document, HTTPAPI, specifies the HTTP-based application-programming interface (API) for AI/Deep Learning of Merit LILIN Aida cameras.  Application developers can use this document to develop applications for Aida deep learning camera.  
 
