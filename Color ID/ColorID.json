@@ -1,0 +1,74 @@
+{
+    "color": [
+        {
+            "color_id": "1",
+            "ENG": "Red",
+            "TWN": "紅",
+            "JPN": "赤 ",
+            "ITL": "Rossa"
+        },
+        {
+            "color_id": "3",
+            "ENG": "Yellow",
+            "TWN": "黃",
+            "JPN": "黄",
+            "ITL": "Giallo "
+        },
+        {
+            "color_id": "4",
+            "ENG": "Green",
+            "TWN": "綠",
+            "JPN": "緑 ",
+            "ITL": "verde "
+        },
+        {
+            "color_id": "5",
+            "ENG": "Blue",
+            "TWN": "藍",
+            "JPN": "青い ",
+            "ITL": "Blu"
+        },
+        {
+            "color_id": "6",
+            "ENG": "Indigo",
+            "TWN": "靛青",
+            "JPN": "インジゴ",
+            "ITL": "Indaco"
+        },
+        {
+            "color_id": "7",
+            "ENG": "Purple",
+            "TWN": "紫",
+            "JPN": "紫の",
+            "ITL": "Viola"
+        },
+        {
+            "color_id": "8",
+            "ENG": "Black",
+            "TWN": "黑",
+            "JPN": "ブラック ",
+            "ITL": "Nero "
+        },
+        {
+            "color_id": "9",
+            "ENG": "White",
+            "TWN": "白",
+            "JPN": "白い ",
+            "ITL": "bianca"
+        },
+        {
+            "color_id": "10",
+            "ENG": "Silver",
+            "TWN": "淺灰",
+            "JPN": " 銀 ",
+            "ITL": "Argento bianca "
+        },
+        {
+            "color_id": "11",
+            "ENG": "Dark Gray",
+            "TWN": "深灰",
+            "JPN": "暗灰色",
+            "ITL": "Grigio scuro "
+        }
+    ]
+}
