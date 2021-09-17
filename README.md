@@ -321,135 +321,31 @@ LILIN meta data is determined by JSON protocol for describing a behavior of an o
 	
 #  [Number plates recognition](https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/countryCode/numberplateCountry.json) results by Aida engine
 ```
-{"AiEngine":
-	 [
-		{
-			"id": 0,
-			"confidence": 93,
-                        “engine_type”: 256,
-                        “class_id”: 0,
-                        “obj_type”: 0,
-			“label_name": “License Plate”,
-			"x": 773,
-			"y": 363,
-			"w": 349,
-			"h": 182,
-			“parent_idx”:-1,
-			"properties":
-			{
-				“plate”: “BMW5957”,
-				“country”: “USA”,
-				“area”: “California”,
-				“area_id”: 43,
-			}
-			},
-		{
-			"id": 1,
-			"confidence": 78,
-			“engine_type”: 256,
-			“class_id”: 45,
-			“obj_type”: 2,
-			“label_name": “California”,
-			"x": 848,
-			"y": 391,
-			"w": 60,
-			"h": 86,
-			“parent_idx”:0
-		},
-		{
-			"id": 2,
-			"confidence": 75,
-			“engine_type”: 256,
-			“class_id”: 11,
-			“obj_type”: 3,
-			“label_name": “B”,
-			"x": 793,
-			"y": 381,
-			"w": 30,
-			"h": 82,
-			“parent_idx”:0
-		},
-		{
-			"id": 3,
-			"confidence": 54,
-			“engine_type”: 256,
-			“class_id”: 22,
-			“obj_type”: 3,
-			“label_name": “M”,
-			"x": 702,
-			"y": 313,
-			"w": 28,
-			"h": 78,
-			“parent_idx”:0
-		},
-		{
-			"id": 4,
-			"confidence": 43,
-			“engine_type”: 256,
-			“class_id”: 32,
-			“obj_type”: 3,
-			“label_name": “W”,
-			"x": 813,
-			"y": 400,
-			"w": 26,
-			"h": 80,
-			“parent_idx”:0
-		},
-		{
-			"id": 5,
-			"confidence": 78,
-			“engine_type”: 256,
-			“class_id”: 4,
-			“obj_type”: 3,
-			“label_name": “5”,
-			"x": 822,
-			"y": 422,
-			"w": 31,
-			"h": 81,
-			“parent_idx”:0
-		},
-		{
-			"id": 6,
-			"confidence": 91,
-			“engine_type”: 256,
-			“class_id”: 8,
-			“obj_type”: 3,
-			“label_name": “9”,
-			"x": 831,
-			"y": 430,
-			"w": 33,
-			"h": 76,
-			“parent_idx”:0
-		},
-		{
-			"id": 7,
-			"confidence": 88,
-			“engine_type”: 256,
-			“class_id”: 4,
-			“obj_type”: 3,
-			“label_name": “5”,
-			"x": 843,
-			"y": 439,
-			"w": 29,
-			"h": 79,
-			“parent_idx”:0
-		},
-		{
-			"id": 8,
-			"confidence": 77,
-			“engine_type”: 256,
-			“class_id”: 6,
-			“obj_type”: 3,
-			“label_name": “7”,
-			"x": 866,
-			"y": 448,
-			"w": 29,
-			"h": 81,
-			“parent_idx”:0
-		},		
-	],
-	“Count”:9
-}
+--myboundary
+Content-Type: text/plain
+Content-Length: 971
+CamTime: 2021-09-17 13:11:02 ms:546
+
+{"AiEngine":[{"id":0,"channel_id":1,"camera_name":"","res_height":1080,"res_width":1920,"confidence":74,"engine_type":1,
+"label_name":"car","class_id":2,
+"obj_type":0,
+"obj_tracking_id":206,
+"obj_dwell_time":2135,
+"color_id":3,"color":"Yellow",
+"linked_plate":"NCJ4338","x":255,"y":473,"w":1130,"h":594,"parent_idx":-1,
+"detection_zone_id":0,
+"behavior_id":0},
+
+{"id":1,"channel_id":1,"camera_name":"","res_height":1080,"res_width":1920,"confidence":89,"engine_type":256,
+"label_name":"L._Plate_TWN","class_id":0,
+"obj_type":0,
+"obj_tracking_id":1898,"obj_dwell_time":2,
+"color_id":1,"color":"Red",
+"linked_plate":"NCJ4338","x":742,"y":190,"w":208,"h":83,"parent_idx":-1,
+"properties":{"plate":"NCJ4338","country":"TWN","area":"California","area_id":0,"logo":"Toyota"},
+"detection_zone_id":0,"behavior_id":0}],"counter_count":[0,0,0,0,0,0,0,0],
+"something_vanish_in_zone1":"No","something_vanish_in_zone2":"No","something_vanish_in_zone3":"No","something_vanish_in_zone4":"No","Count":9}
+--myboundary
 ```
 #  Traffic object detection results by Aida engine
 {"AiEngine"
