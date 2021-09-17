@@ -319,7 +319,7 @@ LILIN meta data is determined by JSON protocol for describing a behavior of an o
 
 ![image](https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/images/edgeai4.jpg)
 	
-#  [Number plates recognition](https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/countryCode/numberplateCountry.json) results by Aida engine
+#  [Number plates recognition](https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/countryCode/numberplateCountry.json) and logo recognition results by Aida engine
 ```
 --myboundary
 Content-Type: text/plain
