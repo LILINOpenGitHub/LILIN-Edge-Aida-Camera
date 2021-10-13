@@ -284,11 +284,21 @@ CamTime: <TimeStamp>\r\n
 
 Example: 
 ```
-{"AiEngine":[{"id":0,"channel_id":1,"camera_name":"","res_height":1080,"res_width":1920,"confidence":99,"engine_type":256,"label_name":"L._Plate_TWN","class_id":0,"obj_type":0,"obj_tracking_id":1401,"obj_dwell_time":0,"color_id":9,"color":"","linked_plate":"White","x":1407,"y":174,"w":226,"h":141,"parent_idx":-1,"properties":{"plate":"RAT6232","country":"TWN","area":"","area_id":0,"logo":""},"detection_zone_id":0,"behavior_id":0},{"id":1,"channel_id":1,"camera_name":"","res_height":1080,"res_width":1920,"confidence":99,"engine_type":256,"label_name":"L._Plate_TWN","class_id":0,"obj_type":0,"obj_tracking_id":64,"obj_dwell_time":1129,"color_id":9,"color":"","linked_plate":"White","x":595,"y":305,"w":217,"h":128,"parent_idx":-1,"properties":{"plate":"9197MB","country":"TWN","area":"","area_id":0,"logo":""},"detection_zone_id":0,"behavior_id":0}],"counter_count":[0,0,0,0,0,0,0,0],"something_vanish_in_zone1":"No","something_vanish_in_zone2":"No","something_vanish_in_zone3":"No","something_vanish_in_zone4":"No","detection_zone":[{"x1":354,"y1":60,"x2":203,"y2":570,"x3":639,"y3":751,"x4":1241,"y4":954,"x5":1235,"y5":540,"x6":1470,"y6":84},{"x1":606,"y1":216,"x2":606,"y2":540,"x3":606,"y3":864,"x4":1235,"y4":864,"x5":1235,"y5":540,"x6":1235,"y6":216},{"x1":606,"y1":216,"x2":606,"y2":540,"x3":606,"y3":864,"x4":1235,"y4":864,"x5":1235,"y5":540,"x6":1235,"y6":216},{"x1":606,"y1":216,"x2":606,"y2":540,"x3":606,"y3":864,"x4":1235,"y4":864,"x5":1235,"y5":540,"x6":1235,"y6":216}],"Count":15}
-\r\n	
+{"AiEngine":[{"id":0,"channel_id":1,"camera_name":"","res_height":1080,"res_width":1920,"confidence":99,"engine_type":256,"label_name":"L._Plate_TWN",
+"class_id":0,"obj_type":0,"obj_tracking_id":1401,"obj_dwell_time":0,"color_id":9,"color":"","linked_plate":"White","x":1407,"y":174,"w":226,"h":141,
+"parent_idx":-1,"properties":{"plate":"RAT6232","country":"TWN","area":"","area_id":0,"logo":""},"detection_zone_id":0,"behavior_id":0},{"id":1,"channel_id":1,"camera_name":"","res_height":1080,"res_width":1920,"confidence":99,"engine_type":256,"label_name":"L._Plate_TWN",
+"class_id":0,"obj_type":0,"obj_tracking_id":64,"obj_dwell_time":1129,"color_id":9,"color":"","linked_plate":"White","x":595,"y":305,"w":217,"h":128,"parent_idx":-1,"properties":{"plate":"9197MB","country":"TWN","area":"","area_id":0,"logo":""},
+"detection_zone_id":0,"behavior_id":0}],
+"counter_count":[0,0,0,0,0,0,0,0],
+"something_vanish_in_zone1":"No","something_vanish_in_zone2":"No","something_vanish_in_zone3":"No","something_vanish_in_zone4":"No",
+	
+"detection_zone":[
+{"x1":354,"y1":60,"x2":203,"y2":570,"x3":639,"y3":751,"x4":1241,"y4":954,"x5":1235,"y5":540,"x6":1470,"y6":84},
+{"x1":606,"y1":216,"x2":606,"y2":540,"x3":606,"y3":864,"x4":1235,"y4":864,"x5":1235,"y5":540,"x6":1235,"y6":216},
+{"x1":606,"y1":216,"x2":606,"y2":540,"x3":606,"y3":864,"x4":1235,"y4":864,"x5":1235,"y5":540,"x6":1235,"y6":216},
+{"x1":606,"y1":216,"x2":606,"y2":540,"x3":606,"y3":864,"x4":1235,"y4":864,"x5":1235,"y5":540,"x6":1235,"y6":216}],
+"Count":15}
 
-(Next  multipart boundary content)
-```
 ###  Meta data of Aida engine
 LILIN defines meta data as JSON profile which contains:
 
