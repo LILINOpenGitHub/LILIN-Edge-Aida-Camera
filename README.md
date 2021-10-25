@@ -648,7 +648,7 @@ CountHuman
 ```
 Parameters of Mask:
 | class_id	|  Description 	|	 
-| ---  		|  -----  	|  
+| ---  		|  ---  	|  
 | 80   		| Face 		| 
 | 81  		| Half_mask 	| 
 | 82  		| Mask   	| 
