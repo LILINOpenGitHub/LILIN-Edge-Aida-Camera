@@ -718,4 +718,5 @@ Content-Type: image/jpeg
 Syntax:
 http://<serverIP:8592>/snap>
 ```
+
 For getting camera snapshot, use 192.168.0.200:8592/snap for getting the camera snapshot.
