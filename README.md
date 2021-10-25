@@ -716,7 +716,7 @@ Content-Type: image/jpeg
 # JPEG snapshot
 ```
 Syntax:
-http://<serverIP:8592>/snap>
+http://<serverIP:8592>/snap
 ```
 
-For getting camera snapshot, use 192.168.0.200:8592/snap for getting the camera snapshot.
+For getting camera snapshot, use http://192.168.0.200:8592/snap for getting the camera snapshot.
