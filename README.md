@@ -712,5 +712,6 @@ Content-Type: image/jpeg
 
 <%full_image%>
 ```
+
 # JPEG snapshot
 For getting camera snapshot, use 192.168.0.200:8592/snap for getting the camera snapshot.
