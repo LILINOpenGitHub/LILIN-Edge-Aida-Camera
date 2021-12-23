@@ -1,12 +1,12 @@
 {
-    "objectClassID": [
+    "LILINObjects": [
         {
             "class_id": "0",
             "ENG": "Person",
             "TWN": "人",
             "JPN": "人",
             "ITL": "Persona",
-            "AI Model": "Traffic/Home"
+            "AI Model": "Traffic / Home"
         },
         {
             "class_id": "1",
@@ -14,7 +14,7 @@
             "TWN": "腳踏車",
             "JPN": "自転車",
             "ITL": "Bicicletta",
-            "AI Model": "Traffic/Home"
+            "AI Model": "Traffic / Home"
         },
         {
             "class_id": "2",
@@ -22,7 +22,7 @@
             "TWN": "汽車",
             "JPN": "車",
             "ITL": "Macchina",
-            "AI Model": "Traffic/Home"
+            "AI Model": "Traffic / Home"
         },
         {
             "class_id": "3",
@@ -30,7 +30,7 @@
             "TWN": "摩托車",
             "JPN": "バイク",
             "ITL": "Moto",
-            "AI Model": "Traffic/Home"
+            "AI Model": "Traffic / Home"
         },
         {
             "class_id": "4",
@@ -38,7 +38,7 @@
             "TWN": "飛機",
             "JPN": "飛行機",
             "ITL": "Aereo",
-            "AI Model": "Traffic/Home"
+            "AI Model": "Traffic / Home"
         },
         {
             "class_id": "5",
@@ -46,7 +46,7 @@
             "TWN": "公共汽車",
             "JPN": "バス",
             "ITL": "Autobus",
-            "AI Model": "Traffic/Home"
+            "AI Model": "Traffic / Home"
         },
         {
             "class_id": "6",
@@ -54,7 +54,7 @@
             "TWN": "火車",
             "JPN": "列車",
             "ITL": "Treno",
-            "AI Model": "Traffic/Home"
+            "AI Model": "Traffic / Home"
         },
         {
             "class_id": "7",
@@ -62,7 +62,7 @@
             "TWN": "貨車",
             "JPN": "トラック",
             "ITL": "Camion",
-            "AI Model": "Traffic/Home"
+            "AI Model": "Traffic / Home"
         },
         {
             "class_id": "8",
@@ -70,7 +70,7 @@
             "TWN": "船",
             "JPN": "ボート",
             "ITL": "Barca",
-            "AI Model": "Traffic/Home"
+            "AI Model": "Traffic / Home"
         },
         {
             "class_id": "9",
@@ -646,7 +646,8 @@
             "TWN": "沒戴口罩",
             "JPN": "ファスクなし",
             "ITL": "No fask",
-            "AI Model": "Mask"
+            "AI Model": "Mask",
+            "Note": "維持80"
         },
         {
             "class_id": "81",
@@ -654,7 +655,8 @@
             "TWN": "半戴口罩",
             "JPN": "ハーフマスク",
             "ITL": "Mezza maschera",
-            "AI Model": "Mask"
+            "AI Model": "Mask",
+            "Note": "維持81"
         },
         {
             "class_id": "82",
@@ -662,7 +664,8 @@
             "TWN": "戴口罩",
             "JPN": "マスク",
             "ITL": "Maschera",
-            "AI Model": "Mask"
+            "AI Model": "Mask",
+            "Note": "維持82"
         },
         {
             "class_id": "83",
@@ -670,7 +673,7 @@
             "TWN": "消防車",
             "JPN": "消防車",
             "ITL": "Autopompa antincendio",
-            "AI Model": "Traffic/Home"
+            "AI Model": "Traffic / Home"
         },
         {
             "class_id": "84",
@@ -678,7 +681,7 @@
             "TWN": "轎車",
             "JPN": "セダン",
             "ITL": "Berlina",
-            "AI Model": "Traffic/Home"
+            "AI Model": "Traffic / Home"
         },
         {
             "class_id": "85",
@@ -686,7 +689,7 @@
             "TWN": "小巴士",
             "JPN": "ヴァン",
             "ITL": "Van",
-            "AI Model": "Traffic/Home"
+            "AI Model": "Traffic / Home"
         },
         {
             "class_id": "86",
@@ -710,7 +713,8 @@
             "TWN": "嘟嘟車",
             "JPN": "トゥクトゥク",
             "ITL": "TUK TUK",
-            "AI Model": "Traffic/Home"
+            "AI Model": "Traffic / Home",
+            "Note": "從80 改成 88"
         },
         {
             "class_id": "89",
@@ -718,7 +722,8 @@
             "TWN": "聯結車",
             "JPN": "トラックトレーラー",
             "ITL": "Rimorchio per camion",
-            "AI Model": "Traffic/Home"
+            "AI Model": "Traffic / Home",
+            "Note": "從81 改成 89"
         },
         {
             "class_id": "90",
@@ -726,7 +731,8 @@
             "TWN": "皮卡車",
             "JPN": "ピックアップトラック",
             "ITL": "Camioncino",
-            "AI Model": "Traffic/Home"
+            "AI Model": "Traffic / Home",
+            "Note": "從82 改成 90"
         },
         {
             "class_id": "91",
@@ -830,7 +836,7 @@
             "TWN": "警車",
             "JPN": "警察車両",
             "ITL": "Auto della polizia",
-            "AI Model": "Traffic/Home"
+            "AI Model": "Traffic / Home"
         },
         {
             "class_id": "104",
@@ -838,22 +844,22 @@
             "TWN": "救護車",
             "JPN": "救急車",
             "ITL": "Ambulanza",
-            "AI Model": "Traffic/Home"
+            "AI Model": "Traffic / Home"
         },
         {
             "class_id": "105",
-            "ENG": "Fire detection",
-            "TWN": "偵火",
-            "JPN": "火焰走照",
-            "ITL": "Rilevazione incendi",
+            "ENG": "Smoke",
+            "TWN": "抽煙",
+            "JPN": "煙",
+            "ITL": "Fumo",
             "AI Model": "Fire / Smoke"
         },
         {
             "class_id": "106",
-            "ENG": "Smoke detection",
-            "TWN": "偵煙",
-            "JPN": "スモッグ",
-            "ITL": "Rilevamento di fumo",
+            "ENG": "Fire ",
+            "TWN": "火",
+            "JPN": "火",
+            "ITL": "Fuoco",
             "AI Model": "Fire / Smoke"
         },
         {
@@ -910,7 +916,8 @@
             "TWN": "樓梯",
             "JPN": "はしご",
             "ITL": "Scala",
-            "AI Model": "Reserved"
+            "AI Model": "Reserved",
+            "Note": "小心, 衝突110"
         },
         {
             "class_id": "114",
@@ -946,14 +953,6 @@
         },
         {
             "class_id": "118",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved",
-            "AI Model": "Reserved"
-        },
-        {
-            "class_id": "119",
             "ENG": "Reserved",
             "TWN": "Reserved",
             "JPN": "Reserved",
@@ -1017,26 +1016,6 @@
             "AI Model": "Reserved"
         },
         {
-            "class_id": "127",
-            "ENG": "Eye open",
-            "TWN": "睜眼",
-            "AI Model": "Sleepy"
-        },
-        {
-            "class_id": "128",
-            "ENG": "Eye close",
-            "TWN": "睡眼",
-            "AI Model": "Sleepy"
-        },
-        {
-            "class_id": "129",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved",
-            "AI Model": "Reserved"
-        },
-        {
             "class_id": "130",
             "ENG": "Pig",
             "TWN": "豬",
@@ -1050,7 +1029,7 @@
             "TWN": "推土車",
             "JPN": "ブルドーザー",
             "ITL": "Bulldozer",
-            "AI Model": "Traffic/Home"
+            "AI Model": "Traffic / Home"
         },
         {
             "class_id": "132",
@@ -1058,7 +1037,7 @@
             "TWN": "堆高機",
             "JPN": "スタッカー",
             "ITL": "che impila",
-            "AI Model": "Traffic/Home"
+            "AI Model": "Traffic / Home"
         },
         {
             "class_id": "133",
@@ -1066,7 +1045,7 @@
             "TWN": "挖土機",
             "JPN": "掘削機",
             "ITL": "Escavatore",
-            "AI Model": "Traffic/Home"
+            "AI Model": "Traffic / Home"
         },
         {
             "class_id": "134",
@@ -1074,7 +1053,7 @@
             "TWN": "油罐車",
             "JPN": "タンクローリー",
             "ITL": "Autocisterna",
-            "AI Model": "Traffic/Home"
+            "AI Model": "Traffic / Home"
         },
         {
             "class_id": "135",
@@ -1085,908 +1064,20 @@
             "AI Model": "Reserved"
         },
         {
-            "class_id": "136",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved",
-            "AI Model": "Reserved"
-        },
-        {
-            "class_id": "137",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved",
-            "AI Model": "Reserved"
-        },
-        {
-            "class_id": "138",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved",
-            "AI Model": "Reserved"
-        },
-        {
-            "class_id": "139",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved",
-            "AI Model": "Reserved"
-        },
-        {
-            "class_id": "140",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved",
-            "AI Model": "Reserved"
-        },
-        {
-            "class_id": "141",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved",
-            "AI Model": "Reserved"
-        },
-        {
-            "class_id": "142",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved",
-            "AI Model": "Reserved"
-        },
-        {
-            "class_id": "143",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved",
-            "AI Model": "Reserved"
-        },
-        {
-            "class_id": "144",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved",
-            "AI Model": "Reserved"
-        },
-        {
-            "class_id": "145",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved",
-            "AI Model": "Reserved"
-        },
-        {
-            "class_id": "146",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved",
-            "AI Model": "Reserved"
-        },
-        {
-            "class_id": "147",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved",
-            "AI Model": "Reserved"
-        },
-        {
-            "class_id": "148",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved",
-            "AI Model": "Reserved"
-        },
-        {
-            "class_id": "149",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved",
-            "AI Model": "Reserved"
-        },
-        {
-            "class_id": "150",
-            "ENG": "CoastGuard",
-            "TWN": "海岸警衛隊",
-            "JPN": "沿岸警備隊",
-            "ITL": "Guardia Costiera",
-            "AI Model": "Ship"
-        },
-        {
-            "class_id": "151",
-            "ENG": "Cargo",
-            "TWN": "貨物",
-            "JPN": "貨物",
-            "ITL": "Carico",
-            "AI Model": "Ship"
-        },
-        {
-            "class_id": "152",
-            "ENG": "Cruise",
-            "TWN": "巡航",
-            "JPN": "クルーズ",
-            "ITL": "Crociera",
-            "AI Model": "Ship"
-        },
-        {
-            "class_id": "153",
-            "ENG": "Ferry ",
-            "TWN": "渡船",
-            "JPN": "フェリー",
-            "ITL": "Traghetto",
-            "AI Model": "Ship"
-        },
-        {
-            "class_id": "154",
-            "ENG": "Freight",
-            "TWN": "貨運",
-            "JPN": "貨物",
-            "ITL": "Trasporto",
-            "AI Model": "Ship"
-        },
-        {
-            "class_id": "155",
-            "ENG": "Gondola",
-            "TWN": "纜車",
-            "JPN": "ゴンドラ",
-            "ITL": "Gondola",
-            "AI Model": "Ship"
-        },
-        {
-            "class_id": "156",
-            "ENG": "Inflatable",
-            "TWN": "充氣的",
-            "JPN": "インフレータブル",
-            "ITL": "Gonfiabile",
-            "AI Model": "Ship"
-        },
-        {
-            "class_id": "157",
-            "ENG": "Kayak",
-            "TWN": "皮艇",
-            "JPN": "カヤック",
-            "ITL": "Kayak",
-            "AI Model": "Ship"
-        },
-        {
-            "class_id": "158",
-            "ENG": "Sailboat",
-            "TWN": "帆船",
-            "JPN": "ヨット",
-            "ITL": "Barca a vela",
-            "AI Model": "Ship"
-        },
-        {
-            "class_id": "159",
-            "ENG": "Tug",
-            "TWN": "拖船",
-            "JPN": "タグボート",
-            "ITL": "Tirare",
-            "AI Model": "Ship"
-        },
-        {
-            "class_id": "160",
-            "ENG": "Warship",
-            "TWN": "軍艦",
-            "JPN": "軍艦",
-            "ITL": "Nave da guerra",
-            "AI Model": "Ship"
-        },
-        {
-            "class_id": "161",
-            "ENG": "Fishing",
-            "TWN": "釣魚",
-            "JPN": "釣り",
-            "ITL": "Pesca",
-            "AI Model": "Ship"
-        },
-        {
-            "class_id": "162",
-            "ENG": "Carrier",
-            "TWN": "載體",
-            "JPN": "キャリア",
-            "ITL": "Vettore",
-            "AI Model": "Ship"
-        },
-        {
-            "class_id": "163",
-            "ENG": "Yacht",
-            "TWN": "遊艇",
-            "JPN": "ヨット",
-            "ITL": "Yacht",
-            "AI Model": "Ship"
-        },
-        {
-            "class_id": "164",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved",
-            "AI Model": "Reserved"
-        },
-        {
-            "class_id": "165",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved",
-            "AI Model": "Reserved"
-        },
-        {
-            "class_id": "166",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved",
-            "AI Model": "Reserved"
-        },
-        {
-            "class_id": "167",
-            "ENG": "Bear",
-            "TWN": "熊",
-            "JPN": "クマ",
-            "ITL": "Orso",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "168",
-            "ENG": "Brown bear",
-            "TWN": "棕熊",
-            "JPN": "ヒグマ",
-            "ITL": "orso bruno",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "169",
-            "ENG": "Bull",
-            "TWN": "公牛",
-            "JPN": "ブル",
-            "ITL": "Toro",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "170",
-            "ENG": "Butterfly",
-            "TWN": "蝴蝶",
-            "JPN": "蝶",
-            "ITL": "La farfalla",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "171",
-            "ENG": "Camel",
-            "TWN": "駱駝",
-            "JPN": "キャメル",
-            "ITL": "Cammello",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "172",
-            "ENG": "Canary",
-            "TWN": "金絲雀",
-            "JPN": "カナリア",
-            "ITL": "Canarino",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "173",
-            "ENG": "Caterpillar",
-            "TWN": "毛蟲",
-            "JPN": "キャタピラー",
-            "ITL": "bruco",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "174",
-            "ENG": "Cattle",
-            "TWN": "牛",
-            "JPN": "牛",
-            "ITL": "Bestiame",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "175",
-            "ENG": "Centipede",
-            "TWN": "蜈",
-            "JPN": "ムカデ",
-            "ITL": "Centopiedi",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "176",
-            "ENG": "Cheetah",
-            "TWN": "獵豹",
-            "JPN": "チーター",
-            "ITL": "ghepardo",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "177",
-            "ENG": "Chicken",
-            "TWN": "雞",
-            "JPN": "鶏",
-            "ITL": "Pollo",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "178",
-            "ENG": "Crab",
-            "TWN": "螃蟹",
-            "JPN": "カニ",
-            "ITL": "Granchio",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "179",
-            "ENG": "Crocodile",
-            "TWN": "鱷魚",
-            "JPN": "クロコダイル",
-            "ITL": "Coccodrillo",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "180",
-            "ENG": "Deer",
-            "TWN": "鹿",
-            "JPN": "鹿",
-            "ITL": "Cervo",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "181",
-            "ENG": "Duck",
-            "TWN": "鴨子",
-            "JPN": "アヒル",
-            "ITL": "Anatra",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "182",
-            "ENG": "Eagle",
-            "TWN": "鷹",
-            "JPN": "鷲",
-            "ITL": "Aquila",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "183",
-            "ENG": "Elephant",
-            "TWN": "大象",
-            "JPN": "象",
-            "ITL": "Elefante",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "184",
-            "ENG": "Fish",
-            "TWN": "魚",
-            "JPN": "魚",
-            "ITL": "Pesce",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "185",
-            "ENG": "Fox",
-            "TWN": "狐狸",
-            "JPN": "狐",
-            "ITL": "Volpe",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "186",
-            "ENG": "Frog",
-            "TWN": "青蛙",
-            "JPN": "蛙",
-            "ITL": "Rana",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "187",
-            "ENG": "Giraffe",
-            "TWN": "長頸鹿",
-            "JPN": "キリン",
-            "ITL": "Giraffa",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "188",
-            "ENG": "Goat",
-            "TWN": "山羊",
-            "JPN": "ヤギ",
-            "ITL": "Capra",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "189",
-            "ENG": "Goldfish",
-            "TWN": "金魚",
-            "JPN": "金魚",
-            "ITL": "pesce rosso",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "190",
-            "ENG": "Goose",
-            "TWN": "鵝",
-            "JPN": "ガチョウ",
-            "ITL": "Oca",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "191",
-            "ENG": "Hamster",
-            "TWN": "倉鼠",
-            "JPN": "ハムスター",
-            "ITL": "Criceto",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "192",
-            "ENG": "Harbor seal",
-            "TWN": "海豹",
-            "JPN": "ゼニガタアザラシ",
-            "ITL": "foca del porto",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "193",
-            "ENG": "Hedgehog",
-            "TWN": "刺猬",
-            "JPN": "ハリネズミ",
-            "ITL": "Riccio",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "194",
-            "ENG": "Hippopotamus",
-            "TWN": "河馬",
-            "JPN": "カバ",
-            "ITL": "Ippopotamo",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "195",
-            "ENG": "Horse",
-            "TWN": "馬",
-            "JPN": "馬",
-            "ITL": "Cavallo",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "196",
-            "ENG": "Jaguar",
-            "TWN": "捷豹",
-            "JPN": "ジャガー",
-            "ITL": "Giaguaro",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "197",
-            "ENG": "Jellyfish",
-            "TWN": "海蜇",
-            "JPN": "クラゲ",
-            "ITL": "Medusa",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "198",
-            "ENG": "Kangaroo",
-            "TWN": "袋鼠",
-            "JPN": "カンガルー",
-            "ITL": "Canguro",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "199",
-            "ENG": "Koala",
-            "TWN": "考拉",
-            "JPN": "コアラ",
-            "ITL": "Koala",
-            "AI Model": "Animal"
-        },
-        {
             "class_id": "200",
-            "ENG": "Ladybug",
-            "TWN": "瓢蟲",
-            "JPN": "てんとう虫",
-            "ITL": "Coccinella",
-            "AI Model": "Animal"
+            "ENG": "Nike",
+            "TWN": "Nike",
+            "JPN": "Nike",
+            "ITL": "Nike",
+            "AI Model": "Reserved"
         },
         {
             "class_id": "201",
-            "ENG": "Leopard",
-            "TWN": "豹",
-            "JPN": "ヒョウ",
-            "ITL": "Leopardo",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "202",
-            "ENG": "Lion",
-            "TWN": "獅子",
-            "JPN": "ライオン",
-            "ITL": "Leone",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "203",
-            "ENG": "Lizard",
-            "TWN": "蜥蜴",
-            "JPN": "トカゲ",
-            "ITL": "Lucertola",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "204",
-            "ENG": "Lynx",
-            "TWN": "山貓",
-            "JPN": "リンクス",
-            "ITL": "Lince",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "205",
-            "ENG": "Magpie",
-            "TWN": "鵲",
-            "JPN": "マグパイ",
-            "ITL": "Gazza",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "206",
-            "ENG": "Monkey",
-            "TWN": "猴",
-            "JPN": "猿",
-            "ITL": "Scimmia",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "207",
-            "ENG": "Moths and butterflies",
-            "TWN": "飛蛾和蝴蝶",
-            "JPN": "蛾と蝶",
-            "ITL": "Falene e farfalle",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "208",
-            "ENG": "Mouse",
-            "TWN": "鼠",
-            "JPN": "ねずみ",
-            "ITL": "Topo",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "209",
-            "ENG": "Mule",
-            "TWN": "騾子",
-            "JPN": "ラバ",
-            "ITL": "Mulo",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "210",
-            "ENG": "Ostrich",
-            "TWN": "鴕鳥",
-            "JPN": "ダチョウ",
-            "ITL": "Struzzo",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "211",
-            "ENG": "Otter",
-            "TWN": "獺",
-            "JPN": "カワウソ",
-            "ITL": "lontra",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "212",
-            "ENG": "Owl",
-            "TWN": "貓頭鷹",
-            "JPN": "フクロウ",
-            "ITL": "Gufo",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "213",
-            "ENG": "Panda",
-            "TWN": "熊貓",
-            "JPN": "パンダ",
-            "ITL": "Panda",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "214",
-            "ENG": "Parrot",
-            "TWN": "鸚鵡",
-            "JPN": "オウム",
-            "ITL": "Pappagallo",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "215",
-            "ENG": "Penguin",
-            "TWN": "企鵝",
-            "JPN": "ペンギン",
-            "ITL": "Pinguino",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "216",
-            "ENG": "Pig",
-            "TWN": "豬",
-            "JPN": "豚",
-            "ITL": "Maiale",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "217",
-            "ENG": "Polar bear",
-            "TWN": "北極熊",
-            "JPN": "ホッキョクグマ",
-            "ITL": "Orso polare",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "218",
-            "ENG": "Rabbit",
-            "TWN": "兔子",
-            "JPN": "うさぎ",
-            "ITL": "Coniglio",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "219",
-            "ENG": "Raccoon",
-            "TWN": "狸",
-            "JPN": "ラクーン",
-            "ITL": "Procione",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "220",
-            "ENG": "Raven",
-            "TWN": "掠奪",
-            "JPN": "カラス",
-            "ITL": "Corvo",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "221",
-            "ENG": "Red panda",
-            "TWN": "小熊貓",
-            "JPN": "レッサーパンダ",
-            "ITL": "Panda rosso",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "222",
-            "ENG": "Rhinoceros",
-            "TWN": "犀牛",
-            "JPN": "サイ",
-            "ITL": "Rinoceronte",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "223",
-            "ENG": "Scorpion",
-            "TWN": "蠍",
-            "JPN": "サソリ",
-            "ITL": "Scorpione",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "224",
-            "ENG": "Sea lion",
-            "TWN": "海獅",
-            "JPN": "アシカ",
-            "ITL": "Leone marino",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "225",
-            "ENG": "Sea turtle",
-            "TWN": "海龜",
-            "JPN": "ウミガメ",
-            "ITL": "Tartaruga di mare",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "226",
-            "ENG": "Seahorse",
-            "TWN": "海馬",
-            "JPN": "タツノオトシゴ",
-            "ITL": "Cavalluccio marino",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "227",
-            "ENG": "Shark",
-            "TWN": "鯊魚",
-            "JPN": "鮫",
-            "ITL": "Squalo",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "228",
-            "ENG": "Sheep",
-            "TWN": "羊",
-            "JPN": "羊",
-            "ITL": "Pecora",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "229",
-            "ENG": "Shrimp",
-            "TWN": "蝦",
-            "JPN": "エビ",
-            "ITL": "Gambero",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "230",
-            "ENG": "Snail",
-            "TWN": "蝸牛",
-            "JPN": "カタツムリ",
-            "ITL": "Lumaca",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "231",
-            "ENG": "Snake",
-            "TWN": "蛇",
-            "JPN": "蛇",
-            "ITL": "Serpente",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "232",
-            "ENG": "Sparrow",
-            "TWN": "麻雀",
-            "JPN": "スズメ",
-            "ITL": "Passero",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "233",
-            "ENG": "Spider",
-            "TWN": "蜘蛛",
-            "JPN": "クモ",
-            "ITL": "Ragno",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "234",
-            "ENG": "Squid",
-            "TWN": "烏賊",
-            "JPN": "イカ",
-            "ITL": "Calamaro",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "235",
-            "ENG": "Squirrel",
-            "TWN": "松鼠",
-            "JPN": "リス",
-            "ITL": "Scoiattolo",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "236",
-            "ENG": "Starfish",
-            "TWN": "海星",
-            "JPN": "ヒトデ",
-            "ITL": "Stella marina",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "237",
-            "ENG": "Swan",
-            "TWN": "天鵝",
-            "JPN": "白鳥",
-            "ITL": "cigno",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "238",
-            "ENG": "Tick",
-            "TWN": "打鉤",
-            "JPN": "ダニ",
-            "ITL": "Tic Tac",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "239",
-            "ENG": "Tiger",
-            "TWN": "老虎",
-            "JPN": "虎",
-            "ITL": "Tigre",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "240",
-            "ENG": "Tortoise",
-            "TWN": "烏龜",
-            "JPN": "カメ",
-            "ITL": "Tartaruga",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "241",
-            "ENG": "Turkey",
-            "TWN": "火雞",
-            "JPN": "七面鳥",
-            "ITL": "tacchino",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "242",
-            "ENG": "Turtle",
-            "TWN": "龜",
-            "JPN": "カメ",
-            "ITL": "Tartaruga",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "243",
-            "ENG": "Whale",
-            "TWN": "鯨",
-            "JPN": "鯨",
-            "ITL": "Balena",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "244",
-            "ENG": "Woodpecker",
-            "TWN": "啄木鳥",
-            "JPN": "キツツキ",
-            "ITL": "Picchio",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "245",
-            "ENG": "Worm",
-            "TWN": "蟲",
-            "JPN": "いも虫",
-            "ITL": "Verme",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "246",
-            "ENG": "Zebra",
-            "TWN": "斑馬",
-            "JPN": "シマウマ",
-            "ITL": "Zebra",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "247",
-            "ENG": "Cat",
-            "TWN": "貓",
-            "JPN": "ネコ",
-            "ITL": "Gatto",
-            "AI Model": "Animal"
-        },
-        {
-            "class_id": "248",
-            "ENG": "Dog",
-            "TWN": "狗",
-            "JPN": "犬",
-            "ITL": "Cane",
-            "AI Model": "Animal"
+            "ENG": "New balance",
+            "TWN": "Newbalance",
+            "JPN": "Newbalance",
+            "ITL": "Newbalance",
+            "AI Model": "Reserved"
         }
     ]
 }
