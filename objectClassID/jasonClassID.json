@@ -99,76 +99,6 @@
       "ITL": "Panchina"
      },
      {
-      "class_id": 14,
-      "ENG": "Bird",
-      "TWN": "鳥",
-      "JPN": "鳥",
-      "ITL": "Uccello"
-     },
-     {
-      "class_id": 15,
-      "ENG": "Cat",
-      "TWN": "貓",
-      "JPN": "ネコ",
-      "ITL": "Gatto"
-     },
-     {
-      "class_id": 16,
-      "ENG": "Dog",
-      "TWN": "狗",
-      "JPN": "犬",
-      "ITL": "Cane"
-     },
-     {
-      "class_id": 17,
-      "ENG": "Horse",
-      "TWN": "馬",
-      "JPN": "うま",
-      "ITL": "Cavallo"
-     },
-     {
-      "class_id": 18,
-      "ENG": "Sheep",
-      "TWN": "羊",
-      "JPN": "羊",
-      "ITL": "Pecore"
-     },
-     {
-      "class_id": 19,
-      "ENG": "Cow",
-      "TWN": "牛",
-      "JPN": "牛",
-      "ITL": "Mucca"
-     },
-     {
-      "class_id": 20,
-      "ENG": "Elephant",
-      "TWN": "大象",
-      "JPN": "象",
-      "ITL": "Elefante"
-     },
-     {
-      "class_id": 21,
-      "ENG": "Bear",
-      "TWN": "熊",
-      "JPN": "くま",
-      "ITL": "Orso"
-     },
-     {
-      "class_id": 22,
-      "ENG": "Zebra",
-      "TWN": "斑馬",
-      "JPN": "シマウマ",
-      "ITL": "Zebra"
-     },
-     {
-      "class_id": 23,
-      "ENG": "Giraffe",
-      "TWN": "長頸鹿",
-      "JPN": "キリン",
-      "ITL": "Giraffa"
-     },
-     {
       "class_id": 24,
       "ENG": "Backpack",
       "TWN": "背包",
@@ -1150,10 +1080,10 @@
      },
      {
       "class_id": 164,
-      "ENG": "Reserved",
-      "TWN": "Reserved",
-      "JPN": "Reserved",
-      "ITL": "Reserved"
+      "ENG": "Jetski",
+      "TWN": "水上摩托車",
+      "JPN": null,
+      "ITL": null
      },
      {
       "class_id": 165,
@@ -1169,13 +1099,7 @@
       "JPN": "Reserved",
       "ITL": "Reserved"
      },
-     {
-      "class_id": 164,
-      "ENG": "Jetski",
-      "TWN": "水上摩托車",
-      "JPN": null,
-      "ITL": null
-     },
+
      {
       "class_id": 167,
       "ENG": "Bear",
