@@ -655,9 +655,13 @@ Parameters of Mask:
 
 
 # HTTP post
-HTTP Post can be configured via Aida software for behavior HTTP Post notification.  It can consist of 
-Profile: Behavior, [Speed], Color, Object, [Number Plate], [dwell], [Count]
-
+HTTP Post can be configured via Aida software for behavior or metadata HTTP/HTTPs Post notification.  It can support 
+object name, behavior, camera name, tracking ID, JPEG snapshot, image width, image height, date & time.  
+![image](https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/images/edgeai6.jpg)
+	
+Click on "?" button.  It can show you the supported tokens.  Click on the Post button.  Select one of the HTTP post item.
+Enter IP, username and password for the HTTP server.  For testing purposse, you can use PTSV2 (https://ptsv2.com/) for testing purpose.
+	
 ![image](https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/images/edge6.jpg)
 
 The tokens in Aida software can be:
