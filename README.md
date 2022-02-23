@@ -658,7 +658,7 @@ Parameters of Mask:
 HTTP Post can be configured via Aida software for behavior HTTP Post notification.  It can consist of 
 Profile: Behavior, [Speed], Color, Object, [Number Plate], [dwell], [Count]
 
-![image](https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/images/edgeai1.jpg)
+![image](https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/images/edge6.jpg)
 
 The tokens in Aida software can be:
 
