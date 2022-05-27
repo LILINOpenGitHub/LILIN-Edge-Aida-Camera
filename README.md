@@ -305,7 +305,7 @@ CamTime: <TimeStamp>\r\n
 | h | Integer | The width of an object relative to res_height and res_width |
 | parent_idx | Integer | The object belong to a parent, used by linked_plate |
 | detection_zone_id | Integer | zone # 1 ~ 4 |
-| behavior_id | Integer | The behavior ID of an object in a zone, see behavior tabale |
+| behavior_id | Integer | The behavior ID of an object in a zone, see [behavior table](https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/behaviorID/behaviorID.json) |
 
 
 
