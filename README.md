@@ -281,6 +281,34 @@ CamTime: <TimeStamp>\r\n
 | --- |  --- |  --- | 
 | CLength	| Integer| HTTP content length| 
 | TimeStamp	| String | Date & time info, eg. 2019-09-27 00:53:48| 
+| id | Integer | The object sequence of a frame |
+| channel_id | Integer | The channel ID, fix to 1 if it is an IP camera |
+| camera_name | String | The name of the camera |
+| res_height | Integer | The canvas resolution in height of the bounding box drawing even the AI is in 4K recognition. |
+| res_width | Integer | The canvas resolution in width of the bounding box drawing even the AI is in 4K recognition. |
+| confidence | Integer | The confidence threshold of zone #1 |
+| confidence | Integer | The confidence threshold of zone #1 |
+| confidence2 | Integer | Reserve for future use |
+| progress_bar | Integer | The setting writing progress when apply back to the camaera. |
+| engine_type | Integer | The license type of the license key |
+| label_name | String | The classified object name |
+| class_id | Integer | The classified object ID |
+| obj_type | String | Reserve for future use |
+| obj_tracking_id | Integer | The tracking ID of a classified object |
+| obj_dwell_time | Integer | The tracked object's time in second |
+| color_id | Integer | The color ID, see color table |
+| color | String | The name of the color |
+| linked_plate | String | The number plate is linked to an object |
+| x | Integer | The x position of an object relative to res_height and res_width |
+| y | Integer | The y position of an object relative to res_height and res_width |
+| w | Integer | The width of an object relative to res_height and res_width |
+| h | Integer | The width of an object relative to res_height and res_width |
+| parent_idx | Integer | The object belong to a parent, used by linked_plate |
+| detection_zone_id | Integer | zone # 1 ~ 4 |
+| behavior_id | Integer | The behavior ID of an object in a zone, see behavior tabale |
+
+
+
 
 Example: 
 ```
