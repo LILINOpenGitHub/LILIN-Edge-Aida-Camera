@@ -195,8 +195,8 @@ http://192.168.0.200:8592/getconfig?coldobjects=all
 
 | Parameter	| Value  | 	Description| 
 | ---		| --- 	| --- | 
-| res_height	| 	| 	| 
-| res_width	| 	| 	| 
+| res_height	| Integer	| The canvas resolution in height of the bounding box drawing even the AI is in 4K recognition.	| 
+| res_width	| Integer	| The canvas resolution in width of the bounding box drawing even the AI is in 4K recognition	| 
 
 ###  Set cold object areas 
 If you experience false detection of an object, you are able to decrease the recognition rate of the object at the specific area.  We name it as cold object areas.  There are up to 8 objects can be stored in the configuration for suppress the recognition of the object.
