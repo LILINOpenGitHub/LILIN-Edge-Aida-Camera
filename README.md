@@ -296,7 +296,7 @@ CamTime: <TimeStamp>\r\n
 | obj_type | String | Reserve for future use |
 | obj_tracking_id | Integer | The tracking ID of a classified object |
 | obj_dwell_time | Integer | The tracked object's time in second |
-| color_id | Integer | The color ID, see color table |
+| color_id | Integer | The color ID, see [color table](https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/Color%20ID/ColorID.json) |
 | color | String | The name of the color |
 | linked_plate | String | The number plate is linked to an object |
 | x | Integer | The x position of an object relative to res_height and res_width |
