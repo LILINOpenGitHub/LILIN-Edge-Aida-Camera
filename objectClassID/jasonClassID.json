@@ -1,5 +1,5 @@
 {
-    "LILINObject": [
+    "Sheet1": [
         {
             "class_id": "0",
             "ENG": "Person",
@@ -751,17 +751,17 @@
         },
         {
             "class_id": "107",
-            "ENG": "traffic cone",
-            "TWN": "交通錐",
-            "JPN": "トラフィックコーン",
-            "ITL": "cono di traffico"
+            "ENG": "Smog",
+            "TWN": "排氣管排煙",
+            "JPN": "スモッグ",
+            "ITL": "Smog"
         },
         {
             "class_id": "108",
-            "ENG": "Tire",
-            "TWN": "輪胎",
-            "JPN": "タイヤ",
-            "ITL": "Pneumatico"
+            "ENG": "Lamp smoke effect",
+            "TWN": "燈光煙霧效果",
+            "JPN": "スモッグ",
+            "ITL": "Smog"
         },
         {
             "class_id": "109",
