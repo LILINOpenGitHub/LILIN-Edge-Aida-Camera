@@ -174,7 +174,7 @@
         {
             "Trigger event": "TRIGGER_ALLOW_LIST",
             "ID": "0x00200000",
-            "behavior_id": "‭2097152‬",
+            "behavior_id": "2097152", 
             "ENG": "Allowed access for ANPR/LPR",
             "TWN": "車牌辨識白名單偵測",
             "JPN": "ナンバープレート認識ホワイトリスト検出",
@@ -183,7 +183,7 @@
         {
             "Trigger event": "TRIGGER_BLOCK_LIST",
             "ID": "0x00400000",
-            "behavior_id": "‭4194304‬",
+            "behavior_id": "4194304",
             "ENG": "Denied access for ANPR/LPR",
             "TWN": "車牌辨識黑名單偵測",
             "JPN": "ナンバープレート認識ブラックリスト検出",
