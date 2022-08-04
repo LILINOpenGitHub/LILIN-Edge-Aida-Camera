@@ -93,7 +93,7 @@
         {
             "Trigger event": "TRIGGER_GO_STRAIGHT_RED_LIGHT",
             "ID": "0x00000400",
-            "behavior_id": "1,024",
+            "behavior_id": " 1,024 ",
             "ENG": "Run the red light violation",
             "TWN": "闖紅燈偵測",
             "JPN": "赤信号を実行します（ストレート）",
@@ -102,7 +102,7 @@
         {
             "Trigger event": "TRIGGER_TURN_LEFT_RED_LIGHT",
             "ID": "0x00000800",
-            "behavior_id": "2,048",
+            "behavior_id": " 2,048 ",
             "ENG": "Left-turn violation on red light",
             "TWN": "紅燈違規左轉偵測",
             "JPN": "赤信号を実行します（左）",
@@ -120,7 +120,7 @@
         {
             "Trigger event": "TRIGGER_LOITERING",
             "ID": "0x00002000",
-            "behavior_id": "8,192",
+            "behavior_id": " 8,192 ",
             "ENG": "Loitering detection",
             "TWN": "閒晃偵測",
             "JPN": "スピード違反",
@@ -129,7 +129,7 @@
         {
             "Trigger event": "TRIGGER_MASK",
             "ID": "0x00010000",
-            "behavior_id": "65,536",
+            "behavior_id": " 65,536 ",
             "ENG": "Mask wearing detection",
             "TWN": "口罩偵測",
             "JPN": "マスク検出",
@@ -138,7 +138,7 @@
         {
             "Trigger event": "TRIGGER_NO_MASK_VIOLATION",
             "ID": "0x00020000",
-            "behavior_id": "131,072",
+            "behavior_id": " 131,072 ",
             "ENG": "No Mask wearing detection",
             "TWN": "沒戴口罩偵測",
             "JPN": "マスクなしの検出",
@@ -156,7 +156,7 @@
         {
             "Trigger event": "TRIGGER_HELMET",
             "ID": "0x00080000",
-            "behavior_id": "524,288",
+            "behavior_id": " 524,288 ",
             "ENG": "Helmet wearing",
             "TWN": "有戴安全帽偵測",
             "JPN": "ヘルメット検出を着用してください",
@@ -165,7 +165,7 @@
         {
             "Trigger event": "TRIGGER_NO_HELMET_VIOLATION",
             "ID": "0x00100000",
-            "behavior_id": "1,048,576",
+            "behavior_id": " 1,048,576 ",
             "ENG": "No helmet wearing",
             "TWN": "沒戴安全帽偵測",
             "JPN": "ヘルメット検出を着用していない",
@@ -174,7 +174,7 @@
         {
             "Trigger event": "TRIGGER_ALLOW_LIST",
             "ID": "0x00200000",
-            "behavior_id": "2097152",
+            "behavior_id": " ‭2097152‬ ",
             "ENG": "Allowed access for ANPR/LPR",
             "TWN": "車牌辨識白名單偵測",
             "JPN": "ナンバープレート認識ホワイトリスト検出",
@@ -183,7 +183,7 @@
         {
             "Trigger event": "TRIGGER_BLOCK_LIST",
             "ID": "0x00400000",
-            "behavior_id": "4194304", 
+            "behavior_id": " ‭4194304‬ ",
             "ENG": "Denied access for ANPR/LPR",
             "TWN": "車牌辨識黑名單偵測",
             "JPN": "ナンバープレート認識ブラックリスト検出",
@@ -192,7 +192,7 @@
         {
             "Trigger event": "TRIGGER_GUEST_LIST",
             "ID": "0x00800000",
-            "behavior_id": "8,388,608",
+            "behavior_id": " 8,388,608 ",
             "ENG": "Guest LPR detection",
             "TWN": "訪客車牌偵測",
             "JPN": "ゲストナンバープレート認識",
@@ -201,7 +201,7 @@
         {
             "Trigger event": "TRIGGER_MISSING_UNATTENDED",
             "ID": "0x01000000",
-            "behavior_id": "16,777,216",
+            "behavior_id": " 16,777,216 ",
             "ENG": "Missing or unattended object detection",
             "TWN": "遺失物或遺留物偵測",
             "JPN": "遺失物の検出",
@@ -210,7 +210,7 @@
         {
             "Trigger event": "TRIGGER_BG_LEARNING",
             "ID": "0x02000000",
-            "behavior_id": "33,554,432",
+            "behavior_id": " 33,554,432 ",
             "ENG": "Background learning",
             "TWN": "背景學習",
             "JPN": "背景学習",
@@ -219,7 +219,7 @@
         {
             "Trigger event": "TRIGGER_TAMPERING",
             "ID": "0x04000000",
-            "behavior_id": "67,108,864",
+            "behavior_id": " 67,108,864 ",
             "ENG": "Tampering detection",
             "TWN": "防破壞偵測",
             "JPN": "改ざん検出",
@@ -237,16 +237,16 @@
         {
             "Trigger event": "AI_MISSING",
             "ID": "0x20000000",
-            "behavior_id": "536,870,912",
-            "ENG": "Tampering detection",
-            "TWN": "遺失物",
-            "JPN": "改ざん検出",
-            "ITL": "Ril. Manomissioni"
+            "behavior_id": " 536,870,912 ",
+            "ENG": "AI missing object detection",
+            "TWN": "AI遺失物",
+            "JPN": "AI遺失物の検出",
+            "ITL": "Rilevamento oggetto mancante AI"
         },
         {
             "Trigger event": "AND",
             "ID": "0x40000000",
-            "behavior_id": "1,073,741,824",
+            "behavior_id": " 1,073,741,824 ",
             "ENG": "All objects detection (AND)",
             "TWN": "物種同時存在偵測 (AND)",
             "JPN": "すべてのオブジェクトの検出 (AND)",
@@ -256,7 +256,7 @@
             "Trigger event": "NAND",
             "ID": "0x80000000",
             "behavior_id": "2,147,483,648",
-            "ENG": "All objects detection (AND)",
+            "ENG": "Lack of any object detection (NAND)",
             "TWN": "缺少任一物種同時存在偵測 (NAND)",
             "JPN": "オブジェクト検出の欠如 (NAND)",
             "ITL": "Mancanza di qualsiasi ril. di oggetti (NAND)"
