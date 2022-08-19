@@ -1,5 +1,5 @@
 {
-    "Sheet1": [
+    "LILINObject": [
         {
             "class_id": "0",
             "ENG": "Person",
@@ -598,7 +598,7 @@
         {
             "class_id": "85",
             "ENG": "Van",
-            "TWN": "小巴士",
+            "TWN": "廂形車",
             "JPN": "ヴァン",
             "ITL": "Van"
         },
@@ -778,11 +778,67 @@
             "ITL": "Pantografo"
         },
         {
+            "class_id": "111",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "112",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
             "class_id": "113",
             "ENG": "Ladder",
             "TWN": "樓梯",
             "JPN": "はしご",
             "ITL": "Scala"
+        },
+        {
+            "class_id": "114",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "115",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "116",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "117",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "118",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "119",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
         },
         {
             "class_id": "120",
@@ -886,6 +942,111 @@
             "ITL": "Autocisterna"
         },
         {
+            "class_id": "135",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "136",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "137",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "138",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "139",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "140",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "141",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "142",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "143",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "144",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "145",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "146",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "147",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "148",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "149",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
             "class_id": "150",
             "ENG": "CoastGuard",
             "TWN": "海岸警衛隊",
@@ -923,14 +1084,14 @@
         {
             "class_id": "155",
             "ENG": "Gondola",
-            "TWN": "纜車",
+            "TWN": "貢多拉",
             "JPN": "ゴンドラ",
             "ITL": "Gondola"
         },
         {
             "class_id": "156",
             "ENG": "Inflatable",
-            "TWN": "充氣的",
+            "TWN": "充氣船",
             "JPN": "インフレータブル",
             "ITL": "Gonfiabile"
         },
@@ -1577,6 +1738,76 @@
             "ITL": "Cane"
         },
         {
+            "class_id": "500",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "501",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "502",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "503",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "504",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "505",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "506",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "507",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "508",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "509",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
             "class_id": "510",
             "ENG": "AstonMartin",
             "TWN": "AstonMartin",
@@ -1689,6 +1920,13 @@
             "ITL": "Peugeot"
         },
         {
+            "class_id": "526",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
             "class_id": "527",
             "ENG": "Renault",
             "TWN": "雷諾",
@@ -1724,6 +1962,20 @@
             "ITL": "Volkswagen"
         },
         {
+            "class_id": "532",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "533",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
             "class_id": "534",
             "ENG": "Yugo",
             "TWN": "Yugo",
@@ -1736,6 +1988,76 @@
             "TWN": "Zastava",
             "JPN": "Zastava",
             "ITL": "Zastava"
+        },
+        {
+            "class_id": "536",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "537",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "538",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "539",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "540",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "541",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "542",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "543",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "544",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "545",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
         },
         {
             "class_id": "546",
@@ -1850,6 +2172,13 @@
             "ITL": "Porsche"
         },
         {
+            "class_id": "562",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
             "class_id": "563",
             "ENG": "RollsRoyce",
             "TWN": "RollsRoyce",
@@ -1885,6 +2214,104 @@
             "ITL": "VOLVO"
         },
         {
+            "class_id": "568",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "569",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "570",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "571",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "572",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "573",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "574",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "575",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "576",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "577",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "578",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "579",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "580",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "581",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
             "class_id": "582",
             "ENG": "Acura",
             "TWN": "Acura",
@@ -1911,6 +2338,20 @@
             "TWN": "DennisEagle",
             "JPN": "DennisEagle",
             "ITL": "DennisEagle"
+        },
+        {
+            "class_id": "586",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "587",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
         },
         {
             "class_id": "588",
@@ -1983,6 +2424,13 @@
             "ITL": "Pontiac"
         },
         {
+            "class_id": "598",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
             "class_id": "599",
             "ENG": "Rover",
             "TWN": "路虎",
@@ -1997,11 +2445,123 @@
             "ITL": "SsangYong"
         },
         {
+            "class_id": "601",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "602",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
             "class_id": "603",
             "ENG": "Viper",
             "TWN": "Viper",
             "JPN": "Viper",
             "ITL": "Viper"
+        },
+        {
+            "class_id": "604",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "605",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "606",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "607",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "608",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "609",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "610",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "611",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "612",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "613",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "614",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "615",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "616",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "617",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
         },
         {
             "class_id": "618",
@@ -2032,6 +2592,13 @@
             "ITL": "DS_Automobiles"
         },
         {
+            "class_id": "622",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
             "class_id": "623",
             "ENG": "FIAT",
             "TWN": "飛雅特",
@@ -2058,6 +2625,13 @@
             "TWN": "Irizar",
             "JPN": "Irizar",
             "ITL": "Irizar"
+        },
+        {
+            "class_id": "627",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
         },
         {
             "class_id": "628",
@@ -2088,11 +2662,25 @@
             "ITL": "Mercury"
         },
         {
+            "class_id": "632",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
             "class_id": "633",
             "ENG": "Plymouth",
             "TWN": "Plymouth",
             "JPN": "Plymouth",
             "ITL": "Plymouth"
+        },
+        {
+            "class_id": "634",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
         },
         {
             "class_id": "635",
@@ -2128,6 +2716,104 @@
             "TWN": "VauxhallAstra",
             "JPN": "VauxhallAstra",
             "ITL": "VauxhallAstra"
+        },
+        {
+            "class_id": "640",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "641",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "642",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "643",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "644",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "645",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "646",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "647",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "648",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "649",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "650",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "651",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "652",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "653",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
         },
         {
             "class_id": "654",
@@ -2186,6 +2872,27 @@
             "ITL": "Hummer"
         },
         {
+            "class_id": "662",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "663",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "664",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
             "class_id": "665",
             "ENG": "Luxgen",
             "TWN": "Luxgen",
@@ -2221,6 +2928,20 @@
             "ITL": "Perodua"
         },
         {
+            "class_id": "670",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "671",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
             "class_id": "672",
             "ENG": "Suzuki",
             "TWN": "Suzuki",
@@ -2247,6 +2968,104 @@
             "TWN": "Vanhool",
             "JPN": "Vanhool",
             "ITL": "Vanhool"
+        },
+        {
+            "class_id": "676",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "677",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "678",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "679",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "680",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "681",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "682",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "683",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "684",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "685",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "686",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "687",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "688",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "689",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
         },
         {
             "class_id": "690",
@@ -2277,11 +3096,53 @@
             "ITL": "Dacia"
         },
         {
+            "class_id": "694",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "695",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "696",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
             "class_id": "697",
             "ENG": "HSV",
             "TWN": "HSV",
             "JPN": "HSV",
             "ITL": "HSV"
+        },
+        {
+            "class_id": "698",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "699",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "700",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
         },
         {
             "class_id": "701",
@@ -2312,6 +3173,27 @@
             "ITL": "MobilVetta"
         },
         {
+            "class_id": "705",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "706",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "707",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
             "class_id": "708",
             "ENG": "SCANIA",
             "TWN": "SCANIA",
@@ -2319,11 +3201,123 @@
             "ITL": "SCANIA"
         },
         {
+            "class_id": "709",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
             "class_id": "710",
             "ENG": "SWIFT",
             "TWN": "SWIFT",
             "JPN": "SWIFT",
             "ITL": "SWIFT"
+        },
+        {
+            "class_id": "711",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "712",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "713",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "714",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "715",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "716",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "717",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "718",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "719",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "720",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "721",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "722",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "723",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "724",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "725",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
         },
         {
             "class_id": "726",
@@ -2354,6 +3348,55 @@
             "ITL": "DAF"
         },
         {
+            "class_id": "730",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "731",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "732",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "733",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "734",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "735",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "736",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
             "class_id": "737",
             "ENG": "Lancia",
             "TWN": "蘭吉雅",
@@ -2373,6 +3416,34 @@
             "TWN": "MG",
             "JPN": "MG",
             "ITL": "MG"
+        },
+        {
+            "class_id": "740",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "741",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "742",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "743",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
         },
         {
             "class_id": "744",
@@ -2396,6 +3467,111 @@
             "ITL": "SteyrMotors"
         },
         {
+            "class_id": "747",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "748",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "749",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "750",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "751",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "752",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "753",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "754",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "755",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "756",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "757",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "758",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "759",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "760",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "761",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
             "class_id": "762",
             "ENG": "Austin",
             "TWN": "Austin",
@@ -2403,11 +3579,74 @@
             "ITL": "Austin"
         },
         {
+            "class_id": "763",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "764",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
             "class_id": "765",
             "ENG": "Daewoo",
             "TWN": "Daewoo",
             "JPN": "Daewoo",
             "ITL": "Daewoo"
+        },
+        {
+            "class_id": "766",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "767",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "768",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "769",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "770",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "771",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "772",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
         },
         {
             "class_id": "773",
@@ -2431,6 +3670,34 @@
             "ITL": "Morgan"
         },
         {
+            "class_id": "776",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "777",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "778",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "779",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
             "class_id": "780",
             "ENG": "Saturn",
             "TWN": "Saturn",
@@ -2452,6 +3719,188 @@
             "ITL": "ShuangHuan"
         },
         {
+            "class_id": "783",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "784",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "785",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "786",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "787",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "788",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "789",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "790",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "791",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "792",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "793",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "794",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "795",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "796",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "797",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "798",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "799",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "800",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "801",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "802",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "803",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "804",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "805",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "806",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "807",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "808",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
             "class_id": "809",
             "ENG": "LDV",
             "TWN": "LDV",
@@ -2471,6 +3920,34 @@
             "TWN": "MAN",
             "JPN": "MAN",
             "ITL": "MAN"
+        },
+        {
+            "class_id": "812",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "813",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "814",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
+        },
+        {
+            "class_id": "815",
+            "ENG": "Reserved",
+            "TWN": "Reserved",
+            "JPN": "Reserved",
+            "ITL": "Reserved"
         },
         {
             "class_id": "816",
