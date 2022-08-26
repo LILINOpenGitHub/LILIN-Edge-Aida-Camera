@@ -768,7 +768,4 @@ Parameters of watermark OSD:
 | sec		| display dwell 	|
 | text          | the text to be displayed 	|
 | BR		| break to the next line 	|
-| ---  		|  ---  	| 
 
-
-# HTTP post
