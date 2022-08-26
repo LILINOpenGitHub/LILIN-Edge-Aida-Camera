@@ -751,9 +751,16 @@ Syntax:
 http://<serverIP:8592>/snap
 ```
 
-#Watermark OSD
+# Watermark OSD
 To display video with watermark OSD, the API is 
 
+```
+Syntax:
+http://<serverIP:8592>/setosd
+```
+```
+Example:
+```
 http://192.168.0.200:8592/setosd?x=50&y=50&w=350&h=250&color=0&size=28&sec=10&text=Person, 80%<BR>Black<BR>ABC123<BR>Test
 
 Parameters of watermark OSD:
