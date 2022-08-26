@@ -767,7 +767,7 @@ Parameters of watermark OSD:
 | size		| size of the font 	|
 | sec		| display dwell 	|
 | text          | the text to be displayed 	|
-| '<BR>'		| break to the next line 	|
+| BR		| break to the next line 	|
 | ---  		|  ---  	| 
 
 
