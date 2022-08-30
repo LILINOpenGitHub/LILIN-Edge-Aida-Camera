@@ -1057,7 +1057,7 @@
             "class_id": "151",
             "ENG": "Cargo",
             "TWN": "遠洋貨輪",
-            "JPN": "海上貨物船\r\n海上貨物船",
+            "JPN": "海上貨物船",
             "ITL": "Carico"
         },
         {
@@ -1738,6 +1738,132 @@
             "TWN": "狗",
             "JPN": "犬",
             "ITL": "Cane"
+        },
+        {
+            "class_id": "300",
+            "ENG": "Nose",
+            "TWN": "鼻子",
+            "JPN": "鼻",
+            "ITL": "Naso"
+        },
+        {
+            "class_id": "301",
+            "ENG": "Left_eye",
+            "TWN": "左眼",
+            "JPN": "左目",
+            "ITL": "Occhio sinistro"
+        },
+        {
+            "class_id": "302",
+            "ENG": "Right_eye",
+            "TWN": "右眼",
+            "JPN": "右目",
+            "ITL": "Occhio destro"
+        },
+        {
+            "class_id": "303",
+            "ENG": "Left_ear",
+            "TWN": "左耳",
+            "JPN": "左耳",
+            "ITL": "Orecchio sinistro"
+        },
+        {
+            "class_id": "304",
+            "ENG": "Right_ear",
+            "TWN": "右耳",
+            "JPN": "右耳",
+            "ITL": "Orecchio destro"
+        },
+        {
+            "class_id": "305",
+            "ENG": "Left_shoulder",
+            "TWN": "左肩",
+            "JPN": "左肩",
+            "ITL": "Spalla sinistra"
+        },
+        {
+            "class_id": "306",
+            "ENG": "Right_shoulder",
+            "TWN": "右肩",
+            "JPN": "右肩",
+            "ITL": "Spalla destra"
+        },
+        {
+            "class_id": "307",
+            "ENG": "Left_elbow",
+            "TWN": "左手肘",
+            "JPN": "左ひじ",
+            "ITL": "Gomito sinistro"
+        },
+        {
+            "class_id": "308",
+            "ENG": "Right_elbow",
+            "TWN": "右手肘",
+            "JPN": "右ひじ",
+            "ITL": "Gomito destro"
+        },
+        {
+            "class_id": "309",
+            "ENG": "Left_wrist",
+            "TWN": "左手腕",
+            "JPN": "左手首",
+            "ITL": "Polso sinistro"
+        },
+        {
+            "class_id": "310",
+            "ENG": "Right_wrist",
+            "TWN": "右手腕",
+            "JPN": "右手首",
+            "ITL": "Polso destro"
+        },
+        {
+            "class_id": "311",
+            "ENG": "Hip",
+            "TWN": "臀部",
+            "JPN": "ヒップ",
+            "ITL": "Natiche"
+        },
+        {
+            "class_id": "312",
+            "ENG": "Body",
+            "TWN": "身體",
+            "JPN": "本体",
+            "ITL": "Corpo"
+        },
+        {
+            "class_id": "313",
+            "ENG": "Left_knee",
+            "TWN": "左膝",
+            "JPN": "左ひざ",
+            "ITL": "Ginocchio sinistro"
+        },
+        {
+            "class_id": "314",
+            "ENG": "Right_knee",
+            "TWN": "右膝",
+            "JPN": "右ひざ",
+            "ITL": "Ginocchio destro"
+        },
+        {
+            "class_id": "315",
+            "ENG": "Left_ankle",
+            "TWN": "左腳踝",
+            "JPN": "左足首",
+            "ITL": "Caviglia sinistra"
+        },
+        {
+            "class_id": "316",
+            "ENG": "Right_ankle",
+            "TWN": "右腳踝",
+            "JPN": "右足首",
+            "ITL": "Caviglia destra"
+        },
+        {
+            "class_id": "317",
+            "ENG": "Neck",
+            "TWN": "脖子",
+            "JPN": "首",
+            "ITL": "Collo"
         },
         {
             "class_id": "500",
