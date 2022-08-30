@@ -1056,29 +1056,29 @@
         {
             "class_id": "151",
             "ENG": "Cargo",
-            "TWN": "貨物",
-            "JPN": "貨物",
+            "TWN": "遠洋貨輪",
+            "JPN": "海上貨物船\r\n海上貨物船",
             "ITL": "Carico"
         },
         {
             "class_id": "152",
             "ENG": "Cruise",
-            "TWN": "巡航",
+            "TWN": "郵輪",
             "JPN": "クルーズ",
             "ITL": "Crociera"
         },
         {
             "class_id": "153",
             "ENG": "Ferry ",
-            "TWN": "渡船",
+            "TWN": "渡輪",
             "JPN": "フェリー",
             "ITL": "Traghetto"
         },
         {
             "class_id": "154",
             "ENG": "Freight",
-            "TWN": "貨運",
-            "JPN": "貨物",
+            "TWN": "貨運船",
+            "JPN": "貨物船",
             "ITL": "Trasporto"
         },
         {
@@ -1126,15 +1126,15 @@
         {
             "class_id": "161",
             "ENG": "Fishing",
-            "TWN": "釣魚",
-            "JPN": "釣り",
+            "TWN": "漁船",
+            "JPN": "漁船",
             "ITL": "Pesca"
         },
         {
             "class_id": "162",
             "ENG": "Carrier",
-            "TWN": "載體",
-            "JPN": "キャリア",
+            "TWN": "航空母艦",
+            "JPN": "空母",
             "ITL": "Vettore"
         },
         {
@@ -1147,7 +1147,9 @@
         {
             "class_id": "164",
             "ENG": "Jetski",
-            "TWN": "水上摩托車"
+            "TWN": "水上摩托車",
+            "JPN": "ジェットスキー",
+            "ITL": "Jetski"
         },
         {
             "class_id": "165",
