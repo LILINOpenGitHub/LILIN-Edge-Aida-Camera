@@ -777,9 +777,10 @@ Parameters of watermark OSD:
 | BR		| break to the next line 	|
 
 ```
+Specify the ID of the OSD bounding box with ms display
 Example:
-http://192.168.0.200:8592/setosd?id=2&x=50&y=50&w=350&h=250&color=0&size=28&ms=10&text=Person, 80%<BR>Black<BR>ABC123<BR>Test
 ```
+http://192.168.0.200:8592/setosd?id=2&x=50&y=50&w=350&h=250&color=0&size=28&ms=10&text=Person, 80%<BR>Black<BR>ABC123<BR>Test
 Parameters of watermark OSD:
 | Command	|  Description 	|	 
 | ---  		|  ---  	|  
