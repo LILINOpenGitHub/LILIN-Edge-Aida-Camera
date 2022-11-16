@@ -762,6 +762,7 @@ http://<serverIP:8592>/setosd
 Example:
 http://192.168.0.200:8592/setosd?x=50&y=50&w=350&h=250&color=0&size=28&sec=10&text=Person, 80%<BR>Black<BR>ABC123<BR>Test
 ```
+
 Parameters of watermark OSD:
 | Command	|  Description 	|	 
 | ---  		|  ---  	|  
@@ -775,3 +776,12 @@ Parameters of watermark OSD:
 | text          | the text to be displayed 	|
 | BR		| break to the next line 	|
 
+```
+Example:
+http://192.168.0.200:8592/setosd?id=2&x=50&y=50&w=350&h=250&color=0&size=28&ms=10&text=Person, 80%<BR>Black<BR>ABC123<BR>Test
+```
+Parameters of watermark OSD:
+| Command	|  Description 	|	 
+| ---  		|  ---  	|  
+| ID  		| 1~16	| 
+| ms            | 1~10000 |
