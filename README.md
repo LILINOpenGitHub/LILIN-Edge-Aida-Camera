@@ -759,22 +759,30 @@ Syntax:
 http://<serverIP:8592>/setosd
 ```
 ```
-Example:
+Example #1:
 http://192.168.0.200:8592/setosd?x=50&y=50&w=350&h=250&color=0&size=28&sec=10&text=Person, 80%<BR>Black<BR>ABC123<BR>Test
 ```
-
+```
+Example #2
+192.168.3.200:8592/setosd?id=0&x=200&y=300&w=400&h=300&color=1&size=17&ms=10000&bg=50&outline=0&text=ship,80%<BR>Black<BR>ABC123<BR>ABCDEFGHI
+```
 Parameters of watermark OSD:
 | Command	|  Description 	|	 
 | ---  		|  ---  	|  
-| x   		| x position 		| 
+| x   		| x position 	| 
 | y  		| y position	| 
 | w  		| w width	| 
 | h  		| height	|
-| color		| color 	|
-| size		| size of the font 	|
+| color		| color = 0~7	|
+| size		| size of the font = 10~30 	|
 | sec		| display dwell 	|
 | text          | the text to be displayed 	|
 | BR		| break to the next line 	|
+| id            | 0 ~ 15, there are 15 boxes that can be displayed. |
+| ms            | 1~10000 in ms |
+| bg            | background = 0~255 |
+| outline       | outline=0/1 |
+
 
 Specify the ID of the OSD bounding box with ms display
 ```
