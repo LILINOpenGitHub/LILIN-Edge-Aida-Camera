@@ -804,15 +804,15 @@ osdtime:  0:off  1:left-top, 2:mid-top, 3:right-top, 4:left_bottom, 5:mid_bottom
 
 # Radar speed integration
 ```
-http://192.168.3.200:859/setmetadata?speed=<|speed|>&unit=<|unit|>&res_width=800&res_height=600&x:<|left|>&y=<|left_y|>
+http://192.168.3.200:859/setmetadata?speed=<speed>&unit=<unit>&res_width=800&res_height=600&x:<left>&y=<left_y>
 ```
 Where
 | Command	|  Description 	|
 | ---  		|  ---  	|  
-| speed|  <|speed|> | 
-| unit|  KM / Mile| 
+| speed|  <speed> | 
+| unit|  KM / Mile | 
 | res_width|  800 | 
-| res_height|  600| 
-| X|  <|left_x|>| 
-| Y|  <|left_y|>| 
+| res_height|  600 | 
+| X |  <left_x>| 
+| Y |  <left_y>| 
 
