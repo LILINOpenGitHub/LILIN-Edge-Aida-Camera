@@ -809,10 +809,10 @@ http://192.168.3.200:859/setmetadata?speed=<speed>&unit=<unit>&res_width=800&res
 Where
 | Command	|  Description 	|
 | ---  		|  ---  	|  
-| speed|  <speed> | 
+| speed |  The speed of radar | 
 | unit|  KM / Mile | 
-| res_width|  800 | 
+| res_width |  800 | 
 | res_height|  600 | 
-| X |  <left_x>| 
-| Y |  <left_y>| 
+| X |  The x axis of the radar point | 
+| Y |  The y axis of the radar point| 
 
