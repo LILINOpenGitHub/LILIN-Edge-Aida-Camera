@@ -788,6 +788,31 @@ Parameters of watermark OSD:
 # Watermark OSD with timer
 ```
 http://192.168.3.200:8592/setosdtime?osdtime=0~6
+
 ```
+
+{
+	speed: <|speed|> 
+	unit: KM / Mile
+	res_width: 800 
+	res_height: 600
+	X: <|left_x|>
+	Y: <|left_y|>
+}
+
 osdtime:  0:off  1:left-top, 2:mid-top, 3:right-top, 4:left_bottom, 5:mid_bottom, 6:right:bottom
+
+# Radar speed integration
+```
+http://192.168.3.200:859/setmetadata?speed=<|speed|>&unit=<|unit|>&res_width=800&res_height=600&x:<|left|>&y=<|left_y|>
+```
+Where
+| Command	|  Description 	|
+| ---  		|  ---  	|  
+| speed|  <|speed|> | 
+| unit|  KM / Mile| 
+| res_width|  800 | 
+| res_height|  600| 
+| X|  <|left_x|>| 
+| Y|  <|left_y|>| 
 
