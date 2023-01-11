@@ -817,5 +817,8 @@ Where
 | Y |  The y axis of the radar point| 
 
 # Estimated speed detection
+The estimated speed detection is able to provide the speed information of an object.  
 ![image](https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/images/speed.jpg)
+
+To get the speed information of an object, please use center_speed parameter for the speed information.
 ![image](https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/images/speed1.jpg)
