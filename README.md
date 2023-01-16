@@ -834,10 +834,17 @@ http://192.168.3.200:8592/get_counter，會取得全部計數器的數值。
 ```
 ## Reset a counter
 ```
-http://192.168.3.200:8592/resetcounting?counter_id=1，counter_id可支援1到8，會重置第counter_id個計數器的數值。
+http://192.168.3.200:8592/resetcounting?counter_id=<counter_id>
 ```
 ## Get a counter
 ```
-http://192.168.3.200:8592/getcounting?counter_id=1，counter_id可支援1到8，會取得第counter_id個計數器的數值。
+| Command	|  Description 	|
+| ---  		|  ---  	|  
+| counter_id |  1~8 | 
+
+http://192.168.3.200:8592/getcounting?counter_id=<counter_id>
 ```
+| Command	|  Description 	|
+| ---  		|  ---  	|  
+| counter_id |  1~8 | 
 
