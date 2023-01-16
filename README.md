@@ -837,7 +837,7 @@ Syntax
 ```
 http://192.168.3.200:8592/resetcounting?counter_id=<counter_id>
 ```
-Example: Get the 5th counter's value.
+Example: Reset the 5th counter's value to 0.
 ```
 http://192.168.3.200:8592/resetcounting?counter_id=5
 ```
