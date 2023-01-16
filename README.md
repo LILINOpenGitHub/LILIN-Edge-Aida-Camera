@@ -826,23 +826,33 @@ To get the speed information of an object, please use center_speed parameter for
 # Counters
 ## Reset all counters
 ```
-http://192.168.3.200:8592/reset_counter，會重置全部計數器的數值。
+http://192.168.3.200:8592/reset_counter
 ```
 ## Get all counters
 ```
-http://192.168.3.200:8592/get_counter，會取得全部計數器的數值。
+http://192.168.3.200:8592/get_counter
 ```
 ## Reset a counter
+Syntax
 ```
 http://192.168.3.200:8592/resetcounting?counter_id=<counter_id>
 ```
-## Get a counter
+Example: Get the 5th counter's value.
+```
+http://192.168.3.200:8592/resetcounting?counter_id=5
 ```
 | Command	|  Description 	|
 | ---  		|  ---  	|  
 | counter_id |  1~8 | 
 
+## Get a counter
+Syntax
+```
 http://192.168.3.200:8592/getcounting?counter_id=<counter_id>
+```
+Example: Get the 5th counter's value.
+```
+http://192.168.3.200:8592/getcounting?counter_id=5
 ```
 | Command	|  Description 	|
 | ---  		|  ---  	|  
