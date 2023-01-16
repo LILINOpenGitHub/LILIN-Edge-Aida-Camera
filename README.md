@@ -804,7 +804,7 @@ osdtime:  0:off  1:left-top, 2:mid-top, 3:right-top, 4:left_bottom, 5:mid_bottom
 
 # Radar speed integration
 ```
-http://192.168.3.200:859/setmetadata?speed=<speed>&unit=<unit>&res_width=800&res_height=600&x:<left>&y=<left_y>
+http://192.168.3.200:8592/setmetadata?speed=<speed>&unit=<unit>&res_width=800&res_height=600&x:<left>&y=<left_y>
 ```
 Where
 | Command	|  Description 	|
@@ -822,3 +822,22 @@ The estimated speed detection is able to provide the speed information of an obj
 
 To get the speed information of an object, please use center_speed parameter for the speed information.
 ![image](https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/images/speed1.jpg)
+
+# Counters
+## Reset all counters
+```
+http://192.168.3.200:8592/reset_counter，會重置全部計數器的數值。
+```
+## Get all counters
+```
+http://192.168.3.200:8592/get_counter，會取得全部計數器的數值。
+```
+## Reset a counter
+```
+http://192.168.3.200:8592/resetcounting?counter_id=1，counter_id可支援1到8，會重置第counter_id個計數器的數值。
+```
+## Get a counter
+```
+http://192.168.3.200:8592/getcounting?counter_id=1，counter_id可支援1到8，會取得第counter_id個計數器的數值。
+```
+
