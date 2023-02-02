@@ -14,7 +14,7 @@
             "ID": "0x00000001"
         },
         {
-            "Trigger event": "TRIGGER_TRIGGER_PARKING         ",
+            "Trigger event": "TRIGGER_TRIGGER_PARKING",
             "ID": "0x00000002",
             "behavior_id": "2",
             "ENG": "Parking space counting",
