@@ -10,7 +10,11 @@
             "ITL": "Violazione della zona"
         },
         {
-            "Trigger event": "TRIGGER_SPOT_COUNTING",
+            "Trigger event": "TRIGGER_ZONE_VIOLATION",
+            "ID": "0x00000001"
+        },
+        {
+            "Trigger event": "TRIGGER_TRIGGER_PARKING         ",
             "ID": "0x00000002",
             "behavior_id": "2",
             "ENG": "Parking space counting",
@@ -22,7 +26,7 @@
             "Trigger event": "TRIGGER_PARKING_VIOLATION",
             "ID": "0x00000004",
             "behavior_id": "4",
-            "ENG": "Zone with dwell / parking violation",
+            "ENG": "Zone with dwell/parking violation",
             "TWN": "違停偵測",
             "JPN": "駐車違反",
             "ITL": "Infrazione divieto sosta"
@@ -31,7 +35,7 @@
             "Trigger event": "TRIGGER_GO_STRAIGHT",
             "ID": "0x00000008",
             "behavior_id": "8",
-            "ENG": "Tripwire / fraffic flow",
+            "ENG": "Tripwire/traffic flow",
             "TWN": "警戒線 / 直行偵測",
             "JPN": "交通流",
             "ITL": "Flusso di traffico"
@@ -118,13 +122,31 @@
             "ITL": "Esegui la luce rossa (a destra)"
         },
         {
-            "Trigger event": "TRIGGER_LOITERING",
+            "Trigger event": "TRIGGER_SPEED_HIGH",
             "ID": "0x00002000",
             "behavior_id": "8192",
-            "ENG": "Loitering detection",
-            "TWN": "閒晃偵測",
-            "JPN": "スピード違反",
-            "ITL": "Accelerare"
+            "ENG": "Over speed detection",
+            "TWN": "超速偵測",
+            "JPN": "速度検出",
+            "ITL": "Rilevamento della velocità"
+        },
+        {
+            "Trigger event": "TRIGGER_SPEED_LOW",
+            "ID": "0x00004000",
+            "behavior_id": "16384",
+            "ENG": "Lower speed detection",
+            "TWN": "低速偵測",
+            "JPN": "低速検出",
+            "ITL": "Rilevamento a bassa velocità"
+        },
+        {
+            "Trigger event": "TRIGGER_FORGET_TO_GIVE_WAY",
+            "ID": "0x00008000",
+            "behavior_id": "32768",
+            "ENG": "No give way detection",
+            "TWN": "不禮讓行人",
+            "JPN": "歩行者に道を譲らない",
+            "ITL": "Nessun rilevamento di cedimenti"
         },
         {
             "Trigger event": "TRIGGER_MASK",
@@ -148,10 +170,10 @@
             "Trigger event": "TRIGGER_DISTANCE_VIOLATION",
             "ID": "0x00040000",
             "behavior_id": "262144",
-            "ENG": "Social distance violation",
-            "TWN": "社交距離違規偵測",
-            "JPN": "社会的距離違反の検出",
-            "ITL": "Violazione della distanza sociale"
+            "ENG": "Distance violation",
+            "TWN": "距離違規偵測",
+            "JPN": "距離違反検出",
+            "ITL": "Violazione della distanza"
         },
         {
             "Trigger event": "TRIGGER_HELMET",
@@ -174,7 +196,7 @@
         {
             "Trigger event": "TRIGGER_ALLOW_LIST",
             "ID": "0x00200000",
-            "behavior_id": "2097152", 
+            "behavior_id": "‭2097152‬",
             "ENG": "Allowed access for ANPR/LPR",
             "TWN": "車牌辨識白名單偵測",
             "JPN": "ナンバープレート認識ホワイトリスト検出",
@@ -183,7 +205,7 @@
         {
             "Trigger event": "TRIGGER_BLOCK_LIST",
             "ID": "0x00400000",
-            "behavior_id": "4194304",
+            "behavior_id": "‭4194304‬",
             "ENG": "Denied access for ANPR/LPR",
             "TWN": "車牌辨識黑名單偵測",
             "JPN": "ナンバープレート認識ブラックリスト検出",
@@ -192,7 +214,7 @@
         {
             "Trigger event": "TRIGGER_GUEST_LIST",
             "ID": "0x00800000",
-            "behavior_id": "8388608",
+            "behavior_id": "8388608 ",
             "ENG": "Guest LPR detection",
             "TWN": "訪客車牌偵測",
             "JPN": "ゲストナンバープレート認識",
@@ -226,34 +248,43 @@
             "ITL": "Rilevamento manomissioni"
         },
         {
+            "Trigger event": "TRIGGER_HIGHT_VIOLATION",
+            "ID": "0x08000000",
+            "behavior_id": "134217728",
+            "ENG": "Height detection",
+            "TWN": "高度偵測",
+            "JPN": "高度偵察",
+            "ITL": "Alto rilevamento"
+        },
+        {
             "Trigger event": "TRIGGER_QUEUING_VIOLATION",
             "ID": "0x10000000",
-            "behavior_id": "268435456",
+            "behavior_id": "268435456 ",
             "ENG": "Queuing / density violation",
             "TWN": "排隊/密度偵測",
             "JPN": "キューイング検出",
             "ITL": "Rilevamento delle code"
         },
         {
-            "Trigger event": "AI_MISSING",
+            "Trigger event": "TRIGGER_MISSING_OBJECT_DETECTION",
             "ID": "0x20000000",
             "behavior_id": "536870912",
-            "ENG": "AI missing object detection",
-            "TWN": "AI遺失物",
-            "JPN": "AI遺失物の検出",
-            "ITL": "Rilevamento oggetto mancante AI"
+            "ENG": "Tampering detection",
+            "TWN": "遺失物",
+            "JPN": "改ざん検出",
+            "ITL": "Ril. Manomissioni"
         },
         {
-            "Trigger event": "AND",
+            "Trigger event": "TRIGGER_ALL_OBJECTS",
             "ID": "0x40000000",
-            "behavior_id": "1073741824",
+            "behavior_id": "1073741824 ",
             "ENG": "All objects detection (AND)",
             "TWN": "物種同時存在偵測 (AND)",
             "JPN": "すべてのオブジェクトの検出 (AND)",
             "ITL": "Ril. di tutti gli oggetti (AND)"
         },
         {
-            "Trigger event": "NAND",
+            "Trigger event": "TRIGGER_LACK_OF_ANY_OBJECT",
             "ID": "0x80000000",
             "behavior_id": "2147483648",
             "ENG": "Lack of any object detection (NAND)",
