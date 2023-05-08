@@ -687,6 +687,15 @@ HTTP Post can be configured via Aida software for behavior or metadata HTTP/HTTP
 object name, behavior, camera name, tracking ID, JPEG snapshot, image width, image height, date & time.  
 ![image](https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/images/edgeai6.jpg)
 	
+# Enable and disable HTTP Post
+## Enable HTTP Post
+http://192.168.0.200:8592/setevents?ch=notification&enable_post=Yes
+http://192.168.0.200:8592/getevents?reload=1
+
+## Disable HTTP Post
+http://192.168.0.200:8592/setevents?ch=notification&enable_post=No
+http://192.168.0.200:8592/getevents?reload=1
+
 Click on "?" button.  It can show you the supported tokens.  Click on the Post button.  Select one of the HTTP post item.
 Enter IP, username and password for the HTTP server.  For testing purposse, you can use PTSV2 (https://ptsv2.com/) for testing purpose.
 	
