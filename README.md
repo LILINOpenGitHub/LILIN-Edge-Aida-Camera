@@ -690,12 +690,12 @@ object name, behavior, camera name, tracking ID, JPEG snapshot, image width, ima
 # Enable and disable HTTP Post
 ## Enable HTTP Post
 Example:
-http://192.168.0.200:8592/setevents?ch=notification&enable_post=Yes
+http://192.168.0.200:8592/setevents?ch=notification&enable_post=Yes <BR>
 http://192.168.0.200:8592/getevents?reload=1
 
 ## Disable HTTP Post
 Example:
-http://192.168.0.200:8592/setevents?ch=notification&enable_post=No
+http://192.168.0.200:8592/setevents?ch=notification&enable_post=No <BR>
 http://192.168.0.200:8592/getevents?reload=1
 
 	
