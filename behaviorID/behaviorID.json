@@ -7,7 +7,8 @@
             "ENG": "Prohibit zone",
             "TWN": "禁區偵測",
             "JPN": "ゾーン違反",
-            "ITL": "Violazione della zona"
+           
+            ITL": "Violazione della zona"
         },
         {
             "Trigger event": "TRIGGER_TRIGGER_PARKING",
@@ -255,7 +256,7 @@
         {
             "Trigger event": "TRIGGER_QUEUING_VIOLATION",
             "ID": "0x10000000",
-            "behavior_id": "268435456 ",
+            "behavior_id": "268435456",
             "ENG": "Queuing / density violation",
             "TWN": "排隊/密度偵測",
             "JPN": "キューイング検出",
@@ -273,7 +274,7 @@
         {
             "Trigger event": "TRIGGER_ALL_OBJECTS",
             "ID": "0x40000000",
-            "behavior_id": "1073741824 ",
+            "behavior_id": "1073741824",
             "ENG": "All objects detection (AND)",
             "TWN": "物種同時存在偵測 (AND)",
             "JPN": "すべてのオブジェクトの検出 (AND)",
