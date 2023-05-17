@@ -7,8 +7,7 @@
             "ENG": "Prohibit zone",
             "TWN": "禁區偵測",
             "JPN": "ゾーン違反",
-           
-            ITL": "Violazione della zona"
+            "ITL": "Violazione della zona"
         },
         {
             "Trigger event": "TRIGGER_TRIGGER_PARKING",
