@@ -835,10 +835,10 @@
         },
         {
             "class_id": "119",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
+            "ENG": "Hand",
+            "TWN": "手",
+            "JPN": "手",
+            "ITL": "Mano"
         },
         {
             "class_id": "120",
