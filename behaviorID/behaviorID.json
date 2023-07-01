@@ -257,7 +257,7 @@
   "ID": "0x10000000",
   "behavior_id": "268435456",
   "ENG": "Queuing / density violation",
-  "TWN": "排隊\/密度偵測",
+  "TWN": "排隊/密度偵測",
   "JPN": "キューイング検出",
   "ITL": "Rilevamento delle code"
  },
