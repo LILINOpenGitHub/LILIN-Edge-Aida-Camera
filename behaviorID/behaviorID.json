@@ -22,17 +22,17 @@
   "Trigger event": "TRIGGER_PARKING_VIOLATION",
   "ID": "0x00000004",
   "behavior_id": "4",
-  "ENG": "Zone with dwell \/ parking violation",
-  "TWN": "違停偵測 \/ 在床偵測(ToF)",
-  "JPN": "駐車違反 \/ ベッド内検知(ToF)",
-  "ITL": "Infrazione divieto sosta \/ Nel rilevamento del letto (ToF)"
+  "ENG": "Zone with dwell / parking violation",
+  "TWN": "違停偵測 / 在床偵測(ToF)",
+  "JPN": "駐車違反 / ベッド内検知(ToF)",
+  "ITL": "Infrazione divieto sosta /Nel rilevamento del letto (ToF)"
  },
  {
   "Trigger event": "TRIGGER_GO_STRAIGHT",
   "ID": "0x00000008",
   "behavior_id": "8",
-  "ENG": "Tripwire \/ Traffic flow",
-  "TWN": "警戒線 \/ 直行偵測",
+  "ENG": "Tripwire / Traffic flow",
+  "TWN": "警戒線 / 直行偵測",
   "JPN": "交通流",
   "ITL": "Flusso di traffico"
  },
@@ -59,7 +59,7 @@
   "ID": "0x00000040",
   "behavior_id": "64",
   "ENG": "Wrong way detection",
-  "TWN": "逆向偵測\/進入偵測",
+  "TWN": "逆向偵測 / 進入偵測",
   "JPN": "進入禁止",
   "ITL": "Senso vietato"
  },
@@ -140,9 +140,9 @@
   "ID": "0x00008000",
   "behavior_id": "32768",
   "ENG": "No give way detection",
-  "TWN": "不禮讓行人\/ 跌倒偵測(ToF)",
-  "JPN": "歩行者に道を譲らない \/ 落下検知(ToF)",
-  "ITL": "Nessun rilevamento di cedimenti \/ Rilevamento caduta (ToF)"
+  "TWN": "不禮讓行人 / 跌倒偵測(ToF)",
+  "JPN": "歩行者に道を譲らない / 落下検知(ToF)",
+  "ITL": "Nessun rilevamento di cedimenti / Rilevamento caduta (ToF)"
  },
  {
   "Trigger event": "TRIGGER_MASK",
@@ -193,19 +193,19 @@
   "Trigger event": "TRIGGER_ALLOW_LIST",
   "ID": "0x00200000",
   "behavior_id": "‭2097152‬",
-  "ENG": "Allowed access for ANPR\/LPR",
+  "ENG": "Allowed access for ANPR/LPR",
   "TWN": "車牌辨識白名單偵測",
   "JPN": "ナンバープレート認識ホワイトリスト検出",
-  "ITL": "Accesso consentito per ANPR\/LPR"
+  "ITL": "Accesso consentito per ANPR/LPR"
  },
  {
   "Trigger event": "TRIGGER_BLOCK_LIST",
   "ID": "0x00400000",
   "behavior_id": "‭4194304‬",
-  "ENG": "Denied access for ANPR\/LPR",
+  "ENG": "Denied access for ANPR/LPR",
   "TWN": "車牌辨識黑名單偵測",
   "JPN": "ナンバープレート認識ブラックリスト検出",
-  "ITL": "Accesso negato per ANPR\/LPR"
+  "ITL": "Accesso negato per ANPR/LPR"
  },
  {
   "Trigger event": "TRIGGER_GUEST_LIST",
@@ -221,9 +221,9 @@
   "ID": "0x01000000",
   "behavior_id": "16777216",
   "ENG": "Missing or unattended object detection",
-  "TWN": "遺留物偵測 \/人員在床(ToF)",
-  "JPN": "遺失物の検出 \/ ベッドにいる人々(ToF)",
-  "ITL": "Rilevamento oggetto mancante \/ Persone a letto (ToF)"
+  "TWN": "遺留物偵測 / 人員在床(ToF)",
+  "JPN": "遺失物の検出 / ベッドにいる人々(ToF)",
+  "ITL": "Rilevamento oggetto mancante / Persone a letto (ToF)"
  },
  {
   "Trigger event": "TRIGGER_BG_LEARNING",
@@ -248,7 +248,7 @@
   "ID": "0x08000000",
   "behavior_id": "134217728",
   "ENG": "Height detection",
-  "TWN": "高度偵測 \/ 距離偵測",
+  "TWN": "高度偵測 / 距離偵測",
   "JPN": "高度偵察",
   "ITL": "Alto rilevamento"
  },
@@ -256,7 +256,7 @@
   "Trigger event": "TRIGGER_QUEUING_VIOLATION",
   "ID": "0x10000000",
   "behavior_id": "268435456",
-  "ENG": "Queuing \/ density violation",
+  "ENG": "Queuing / density violation",
   "TWN": "排隊\/密度偵測",
   "JPN": "キューイング検出",
   "ITL": "Rilevamento delle code"
@@ -266,9 +266,9 @@
   "ID": "0x20000000",
   "behavior_id": "536870912",
   "ENG": "Object removal",
-  "TWN": "遺失物 \/ 人員離床 (ToF)",
-  "JPN": "改ざん検出 \/ \n人々はベッドから離れる (ToF)",
-  "ITL": "Ril. Manomissioni \/ Le persone lasciano il letto (ToF)"
+  "TWN": "遺失物 / 人員離床 (ToF)",
+  "JPN": "改ざん検出 / 人々はベッドから離れる (ToF)",
+  "ITL": "Ril. Manomissioni / Le persone lasciano il letto (ToF)"
  },
  {
   "Trigger event": "TRIGGER_ALL_OBJECTS",
