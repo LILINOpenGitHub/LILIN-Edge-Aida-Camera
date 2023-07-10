@@ -1,4130 +1,4137 @@
 {
-    "LILINObject": [
-        {
-            "class_id": "0",
-            "ENG": "Person",
-            "TWN": "人",
-            "JPN": "人",
-            "ITL": "Persona"
-        },
-        {
-            "class_id": "1",
-            "ENG": "Bicycle",
-            "TWN": "腳踏車",
-            "JPN": "自転車",
-            "ITL": "Bicicletta"
-        },
-        {
-            "class_id": "2",
-            "ENG": "Car",
-            "TWN": "汽車",
-            "JPN": "車",
-            "ITL": "Macchina"
-        },
-        {
-            "class_id": "3",
-            "ENG": "Motorbike",
-            "TWN": "摩托車",
-            "JPN": "バイク",
-            "ITL": "Moto"
-        },
-        {
-            "class_id": "4",
-            "ENG": "Aeroplane",
-            "TWN": "飛機",
-            "JPN": "飛行機",
-            "ITL": "Aereo"
-        },
-        {
-            "class_id": "5",
-            "ENG": "Bus",
-            "TWN": "公共汽車",
-            "JPN": "バス",
-            "ITL": "Autobus"
-        },
-        {
-            "class_id": "6",
-            "ENG": "Train",
-            "TWN": "火車",
-            "JPN": "列車",
-            "ITL": "Treno"
-        },
-        {
-            "class_id": "7",
-            "ENG": "Truck",
-            "TWN": "貨車",
-            "JPN": "トラック",
-            "ITL": "Camion"
-        },
-        {
-            "class_id": "8",
-            "ENG": "Boat",
-            "TWN": "船",
-            "JPN": "ボート",
-            "ITL": "Barca"
-        },
-        {
-            "class_id": "9",
-            "ENG": "Traffic light",
-            "TWN": "紅綠燈",
-            "JPN": "信号機",
-            "ITL": "Semaforo"
-        },
-        {
-            "class_id": "10",
-            "ENG": "Firehydrant",
-            "TWN": "消防栓",
-            "JPN": "消火栓",
-            "ITL": "Idrante"
-        },
-        {
-            "class_id": "11",
-            "ENG": "Stopsign",
-            "TWN": "停止標誌",
-            "JPN": "一時停止標識",
-            "ITL": "Segnale di stop"
-        },
-        {
-            "class_id": "12",
-            "ENG": "Parking meter",
-            "TWN": "停車收費表",
-            "JPN": "パーキングメーター",
-            "ITL": "Parchimetro"
-        },
-        {
-            "class_id": "13",
-            "ENG": "Bench",
-            "TWN": "長凳",
-            "JPN": "ベンチ",
-            "ITL": "Panchina"
-        },
-        {
-            "class_id": "14",
-            "ENG": "Bird",
-            "TWN": "鳥",
-            "JPN": "鳥",
-            "ITL": "Uccello"
-        },
-        {
-            "class_id": "15",
-            "ENG": "Cat",
-            "TWN": "貓",
-            "JPN": "ネコ",
-            "ITL": "Gatto"
-        },
-        {
-            "class_id": "16",
-            "ENG": "Dog",
-            "TWN": "狗",
-            "JPN": "犬",
-            "ITL": "Cane"
-        },
-        {
-            "class_id": "17",
-            "ENG": "Horse",
-            "TWN": "馬",
-            "JPN": "うま",
-            "ITL": "Cavallo"
-        },
-        {
-            "class_id": "18",
-            "ENG": "Sheep",
-            "TWN": "羊",
-            "JPN": "羊",
-            "ITL": "Pecore"
-        },
-        {
-            "class_id": "19",
-            "ENG": "Cow",
-            "TWN": "牛",
-            "JPN": "牛",
-            "ITL": "Mucca"
-        },
-        {
-            "class_id": "20",
-            "ENG": "Elephant",
-            "TWN": "大象",
-            "JPN": "象",
-            "ITL": "Elefante"
-        },
-        {
-            "class_id": "21",
-            "ENG": "Bear",
-            "TWN": "熊",
-            "JPN": "くま",
-            "ITL": "Orso"
-        },
-        {
-            "class_id": "22",
-            "ENG": "Zebra",
-            "TWN": "斑馬",
-            "JPN": "シマウマ",
-            "ITL": "Zebra"
-        },
-        {
-            "class_id": "23",
-            "ENG": "Giraffe",
-            "TWN": "長頸鹿",
-            "JPN": "キリン",
-            "ITL": "Giraffa"
-        },
-        {
-            "class_id": "24",
-            "ENG": "Backpack",
-            "TWN": "背包",
-            "JPN": "バックパック",
-            "ITL": "Zaino"
-        },
-        {
-            "class_id": "25",
-            "ENG": "Umbrella",
-            "TWN": "雨傘",
-            "JPN": "傘",
-            "ITL": "Ombrello"
-        },
-        {
-            "class_id": "26",
-            "ENG": "Handbag",
-            "TWN": "手提包",
-            "JPN": "ハンドバッグ",
-            "ITL": "Borsetta"
-        },
-        {
-            "class_id": "27",
-            "ENG": "Tie",
-            "TWN": "領帶",
-            "JPN": "ネクタイ",
-            "ITL": "Cravatta"
-        },
-        {
-            "class_id": "28",
-            "ENG": "Suitcase",
-            "TWN": "行李箱",
-            "JPN": "スーツケース",
-            "ITL": "Valigia"
-        },
-        {
-            "class_id": "29",
-            "ENG": "Frisbee",
-            "TWN": "飛盤",
-            "JPN": "フリスビー",
-            "ITL": "Frisbee"
-        },
-        {
-            "class_id": "30",
-            "ENG": "Skis",
-            "TWN": "滑雪板",
-            "JPN": "スキー板",
-            "ITL": "Sci"
-        },
-        {
-            "class_id": "31",
-            "ENG": "Snowboard",
-            "TWN": "單板滑雪",
-            "JPN": "スノーボード",
-            "ITL": "Snowboard"
-        },
-        {
-            "class_id": "32",
-            "ENG": "Sports ball",
-            "TWN": "運動球",
-            "JPN": "スポーツボール",
-            "ITL": "Palla sportiva"
-        },
-        {
-            "class_id": "33",
-            "ENG": "Kite",
-            "TWN": "風箏",
-            "JPN": "凧",
-            "ITL": "Aquilone"
-        },
-        {
-            "class_id": "34",
-            "ENG": "Baseballbat",
-            "TWN": "棒球棒",
-            "JPN": "野球用バット",
-            "ITL": "Mazza da baseball"
-        },
-        {
-            "class_id": "35",
-            "ENG": "Baseballglove",
-            "TWN": "棒球手套",
-            "JPN": "野球グローブ",
-            "ITL": "Baseballglove"
-        },
-        {
-            "class_id": "36",
-            "ENG": "Skate board",
-            "TWN": "滑板",
-            "JPN": "スケートボード",
-            "ITL": "Tavola da skate"
-        },
-        {
-            "class_id": "37",
-            "ENG": "Surfboard",
-            "TWN": "衝浪板",
-            "JPN": "サーフボード",
-            "ITL": "Tavola da surf"
-        },
-        {
-            "class_id": "38",
-            "ENG": "Tennisracket",
-            "TWN": "網球拍",
-            "JPN": "テニスラケット",
-            "ITL": "Racchetta da tennis"
-        },
-        {
-            "class_id": "39",
-            "ENG": "Bottle",
-            "TWN": "瓶子",
-            "JPN": "ボトル",
-            "ITL": "Bottiglia"
-        },
-        {
-            "class_id": "40",
-            "ENG": "Wine glass",
-            "TWN": "酒杯",
-            "JPN": "ワイングラス",
-            "ITL": "Bicchiere di vino"
-        },
-        {
-            "class_id": "41",
-            "ENG": "Cup",
-            "TWN": "杯子",
-            "JPN": "カップ",
-            "ITL": "Tazza"
-        },
-        {
-            "class_id": "42",
-            "ENG": "Fork",
-            "TWN": "叉子",
-            "JPN": "フォーク",
-            "ITL": "Forchetta"
-        },
-        {
-            "class_id": "43",
-            "ENG": "Knife",
-            "TWN": "刀子",
-            "JPN": "ナイフ",
-            "ITL": "Coltello"
-        },
-        {
-            "class_id": "44",
-            "ENG": "Spoon",
-            "TWN": "匙子",
-            "JPN": "スプーン",
-            "ITL": "Cucchiaio"
-        },
-        {
-            "class_id": "45",
-            "ENG": "Bowl",
-            "TWN": "碗",
-            "JPN": "丼鉢",
-            "ITL": "Ciotola"
-        },
-        {
-            "class_id": "46",
-            "ENG": "Banana",
-            "TWN": "香蕉",
-            "JPN": "バナナ",
-            "ITL": "Banana"
-        },
-        {
-            "class_id": "47",
-            "ENG": "Apple",
-            "TWN": "蘋果",
-            "JPN": "林檎",
-            "ITL": "Mela"
-        },
-        {
-            "class_id": "48",
-            "ENG": "Sandwich",
-            "TWN": "三明治",
-            "JPN": "サンドイッチ",
-            "ITL": "Sandwich"
-        },
-        {
-            "class_id": "49",
-            "ENG": "Orange",
-            "TWN": "橙子",
-            "JPN": "オレンジ",
-            "ITL": "arancia"
-        },
-        {
-            "class_id": "50",
-            "ENG": "Broccoli",
-            "TWN": "花椰菜",
-            "JPN": "ブロッコリ",
-            "ITL": "broccoli"
-        },
-        {
-            "class_id": "51",
-            "ENG": "Carrot",
-            "TWN": "胡蘿蔔",
-            "JPN": "にんじん",
-            "ITL": "Carota"
-        },
-        {
-            "class_id": "52",
-            "ENG": "Hotdog",
-            "TWN": "熱狗",
-            "JPN": "ホットドッグ",
-            "ITL": "Hot dog"
-        },
-        {
-            "class_id": "53",
-            "ENG": "Pizza",
-            "TWN": "比薩",
-            "JPN": "ピザ",
-            "ITL": "Pizza"
-        },
-        {
-            "class_id": "54",
-            "ENG": "Donut",
-            "TWN": "甜甜圈",
-            "JPN": "ドーナツ",
-            "ITL": "Ciambella"
-        },
-        {
-            "class_id": "55",
-            "ENG": "Cake",
-            "TWN": "蛋糕",
-            "JPN": "ケーキ",
-            "ITL": "torta"
-        },
-        {
-            "class_id": "56",
-            "ENG": "Chair",
-            "TWN": "椅子",
-            "JPN": "椅子",
-            "ITL": "Sedia"
-        },
-        {
-            "class_id": "57",
-            "ENG": "Sofa",
-            "TWN": "沙發",
-            "JPN": "ソファー",
-            "ITL": "Divano"
-        },
-        {
-            "class_id": "58",
-            "ENG": "Pottedplant",
-            "TWN": "盆栽植物",
-            "JPN": "鉢植え",
-            "ITL": "Pianta in vaso"
-        },
-        {
-            "class_id": "59",
-            "ENG": "Bed",
-            "TWN": "床",
-            "JPN": "ベッド",
-            "ITL": "Letto"
-        },
-        {
-            "class_id": "60",
-            "ENG": "Diningtable",
-            "TWN": "餐桌",
-            "JPN": "ダイニングテーブル",
-            "ITL": "Tavolo da pranzo"
-        },
-        {
-            "class_id": "61",
-            "ENG": "Toilet",
-            "TWN": "馬桶",
-            "JPN": "トイレ",
-            "ITL": "Gabinetto"
-        },
-        {
-            "class_id": "62",
-            "ENG": "TVmonitor",
-            "TWN": "電視顯示器",
-            "JPN": "TVモニター",
-            "ITL": "TVmonitor"
-        },
-        {
-            "class_id": "63",
-            "ENG": "Laptop",
-            "TWN": "筆記型電腦",
-            "JPN": "ラップトップ",
-            "ITL": "Il computer portatile"
-        },
-        {
-            "class_id": "64",
-            "ENG": "Mouse",
-            "TWN": "滑鼠",
-            "JPN": "マウス",
-            "ITL": "Topo"
-        },
-        {
-            "class_id": "65",
-            "ENG": "Remote",
-            "TWN": "遙控器",
-            "JPN": "リモート",
-            "ITL": "A distanza"
-        },
-        {
-            "class_id": "66",
-            "ENG": "Keyboard",
-            "TWN": "鍵盤",
-            "JPN": "キーボード",
-            "ITL": "Tastiera"
-        },
-        {
-            "class_id": "67",
-            "ENG": "Cellphone",
-            "TWN": "手機",
-            "JPN": "携帯電話",
-            "ITL": "Cellulare"
-        },
-        {
-            "class_id": "68",
-            "ENG": "Microwave",
-            "TWN": "微波爐",
-            "JPN": "電子レンジ",
-            "ITL": "Microonde"
-        },
-        {
-            "class_id": "69",
-            "ENG": "Oven",
-            "TWN": "烤箱",
-            "JPN": "オーブン",
-            "ITL": "Forno"
-        },
-        {
-            "class_id": "70",
-            "ENG": "Toaster",
-            "TWN": "烤麵包機",
-            "JPN": "トースター",
-            "ITL": "Tostapane"
-        },
-        {
-            "class_id": "71",
-            "ENG": "Sink",
-            "TWN": "水槽",
-            "JPN": "シンク",
-            "ITL": "Lavello"
-        },
-        {
-            "class_id": "72",
-            "ENG": "Refrigerator",
-            "TWN": "冰箱",
-            "JPN": "冷蔵庫",
-            "ITL": "Frigorifero"
-        },
-        {
-            "class_id": "73",
-            "ENG": "Book",
-            "TWN": "書",
-            "JPN": "本",
-            "ITL": "Libro"
-        },
-        {
-            "class_id": "74",
-            "ENG": "Clock",
-            "TWN": "時鐘",
-            "JPN": "時計",
-            "ITL": "Orologio"
-        },
-        {
-            "class_id": "75",
-            "ENG": "Vase",
-            "TWN": "花瓶",
-            "JPN": "花瓶",
-            "ITL": "Vaso"
-        },
-        {
-            "class_id": "76",
-            "ENG": "Scissors",
-            "TWN": "剪刀",
-            "JPN": "はさみ",
-            "ITL": "Forbici"
-        },
-        {
-            "class_id": "77",
-            "ENG": "Teddybear",
-            "TWN": "泰迪熊",
-            "JPN": "テディベア",
-            "ITL": "Orsacchiotto di peluche"
-        },
-        {
-            "class_id": "78",
-            "ENG": "Hairdryer",
-            "TWN": "吹風機",
-            "JPN": "ヘアドライヤー",
-            "ITL": "Asciugacapelli"
-        },
-        {
-            "class_id": "79",
-            "ENG": "Tooth brush",
-            "TWN": "牙刷",
-            "JPN": "歯ブラシ",
-            "ITL": "Spazzolino"
-        },
-        {
-            "class_id": "80",
-            "ENG": "No mask",
-            "TWN": "沒戴口罩",
-            "JPN": "ファスクなし",
-            "ITL": "No fask"
-        },
-        {
-            "class_id": "81",
-            "ENG": "Half mask",
-            "TWN": "半戴口罩",
-            "JPN": "ハーフマスク",
-            "ITL": "Mezza maschera"
-        },
-        {
-            "class_id": "82",
-            "ENG": "Mask",
-            "TWN": "戴口罩",
-            "JPN": "マスク",
-            "ITL": "Maschera"
-        },
-        {
-            "class_id": "83",
-            "ENG": "Fire engine",
-            "TWN": "消防車",
-            "JPN": "消防車",
-            "ITL": "Autopompa antincendio"
-        },
-        {
-            "class_id": "84",
-            "ENG": "Sedan",
-            "TWN": "轎車",
-            "JPN": "セダン",
-            "ITL": "Berlina"
-        },
-        {
-            "class_id": "85",
-            "ENG": "Van",
-            "TWN": "廂形車",
-            "JPN": "ヴァン",
-            "ITL": "Van"
-        },
-        {
-            "class_id": "86",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "87",
-            "ENG": "Gate",
-            "TWN": "閘道",
-            "JPN": "ゲート",
-            "ITL": "cancello"
-        },
-        {
-            "class_id": "88",
-            "ENG": "TUK TUK",
-            "TWN": "嘟嘟車",
-            "JPN": "トゥクトゥク",
-            "ITL": "TUK TUK"
-        },
-        {
-            "class_id": "89",
-            "ENG": "Truck trailer",
-            "TWN": "聯結車",
-            "JPN": "トラックトレーラー",
-            "ITL": "Rimorchio per camion"
-        },
-        {
-            "class_id": "90",
-            "ENG": "Pickup truck",
-            "TWN": "皮卡車",
-            "JPN": "ピックアップトラック",
-            "ITL": "Camioncino"
-        },
-        {
-            "class_id": "91",
-            "ENG": "No helmet (face)",
-            "TWN": "沒戴安全帽",
-            "JPN": "ヘルメットなし",
-            "ITL": "Nessun casco"
-        },
-        {
-            "class_id": "92",
-            "ENG": "Helmet",
-            "TWN": "戴安全帽",
-            "JPN": "ヘルメット",
-            "ITL": "Casco"
-        },
-        {
-            "class_id": "93",
-            "ENG": "Vest",
-            "TWN": "工安背心",
-            "JPN": "ベスト",
-            "ITL": "Veste"
-        },
-        {
-            "class_id": "94",
-            "ENG": "Glass",
-            "TWN": "配戴眼鏡",
-            "JPN": "配戴眼鏡",
-            "ITL": "Nessun giubbotto"
-        },
-        {
-            "class_id": "95",
-            "ENG": "No vest",
-            "TWN": "沒帶工安背心",
-            "JPN": "ベストなし",
-            "ITL": "senza giubbotto"
-        },
-        {
-            "class_id": "96",
-            "ENG": "Robber mask",
-            "TWN": "強盜面具",
-            "JPN": "強盗マスク",
-            "ITL": "Maschera da ladro"
-        },
-        {
-            "class_id": "97",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "98",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "99",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "100",
-            "ENG": "Coke",
-            "TWN": "可口可樂",
-            "JPN": "コークス",
-            "ITL": "Coca Cola"
-        },
-        {
-            "class_id": "101",
-            "ENG": "Sprite",
-            "TWN": "雪碧",
-            "JPN": "スプライト",
-            "ITL": "Sprite"
-        },
-        {
-            "class_id": "102",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "103",
-            "ENG": "Police car",
-            "TWN": "警車",
-            "JPN": "警察車両",
-            "ITL": "Auto della polizia"
-        },
-        {
-            "class_id": "104",
-            "ENG": "Ambulance",
-            "TWN": "救護車",
-            "JPN": "救急車",
-            "ITL": "Ambulanza"
-        },
-        {
-            "class_id": "105",
-            "ENG": "Smoke detection",
-            "TWN": "偵煙",
-            "JPN": "スモッグ",
-            "ITL": "Rilevamento di fumo"
-        },
-        {
-            "class_id": "106",
-            "ENG": "Fire detection",
-            "TWN": "偵火",
-            "JPN": "火焰走照",
-            "ITL": "Rilevazione incendi"
-        },
-        {
-            "class_id": "107",
-            "ENG": "Smog",
-            "TWN": "排氣管排煙",
-            "JPN": "スモッグ",
-            "ITL": "Smog"
-        },
-        {
-            "class_id": "108",
-            "ENG": "Lamp smoke effect",
-            "TWN": "燈光煙霧效果",
-            "JPN": "スモッグ",
-            "ITL": "Smog"
-        },
-        {
-            "class_id": "109",
-            "ENG": "Box",
-            "TWN": "紙箱",
-            "JPN": "ボックス",
-            "ITL": "Scatola"
-        },
-        {
-            "class_id": "110",
-            "ENG": "Pantograph",
-            "TWN": "集電弓",
-            "JPN": "パンタグラフ",
-            "ITL": "Pantografo"
-        },
-        {
-            "class_id": "111",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "112",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "113",
-            "ENG": "Ladder",
-            "TWN": "樓梯",
-            "JPN": "はしご",
-            "ITL": "Scala"
-        },
-        {
-            "class_id": "114",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "115",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "116",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "117",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "118",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "119",
-            "ENG": "Hand",
-            "TWN": "手",
-            "JPN": "手",
-            "ITL": "Mano"
-        },
-        {
-            "class_id": "120",
-            "ENG": "Angry",
-            "TWN": "生氣",
-            "JPN": "怒っている",
-            "ITL": "Arrabbiato"
-        },
-        {
-            "class_id": "121",
-            "ENG": "Disgust",
-            "TWN": "噁心",
-            "JPN": "嫌悪",
-            "ITL": "Disgusto"
-        },
-        {
-            "class_id": "122",
-            "ENG": "Fear",
-            "TWN": "恐懼",
-            "JPN": "恐れ",
-            "ITL": "Paura"
-        },
-        {
-            "class_id": "123",
-            "ENG": "Happy",
-            "TWN": "高興",
-            "JPN": "ハッピー",
-            "ITL": "Contento"
-        },
-        {
-            "class_id": "124",
-            "ENG": "Sad",
-            "TWN": "難過",
-            "JPN": "悲しい",
-            "ITL": "Triste"
-        },
-        {
-            "class_id": "125",
-            "ENG": "Surprise",
-            "TWN": "驚訝",
-            "JPN": "驚き",
-            "ITL": "Sorpresa"
-        },
-        {
-            "class_id": "126",
-            "ENG": "Neutral",
-            "TWN": "無表情",
-            "JPN": "中性",
-            "ITL": "Neutro"
-        },
-        {
-            "class_id": "127",
-            "ENG": "Eye open",
-            "TWN": "睜眼"
-        },
-        {
-            "class_id": "128",
-            "ENG": "Eye close",
-            "TWN": "睡眼"
-        },
-        {
-            "class_id": "129",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "130",
-            "ENG": "Pig",
-            "TWN": "豬",
-            "JPN": "豚",
-            "ITL": "Maiale"
-        },
-        {
-            "class_id": "131",
-            "ENG": "Bulldozer",
-            "TWN": "推土車",
-            "JPN": "ブルドーザー",
-            "ITL": "Bulldozer"
-        },
-        {
-            "class_id": "132",
-            "ENG": "Stacker",
-            "TWN": "堆高機",
-            "JPN": "スタッカー",
-            "ITL": "che impila"
-        },
-        {
-            "class_id": "133",
-            "ENG": "Excavator",
-            "TWN": "挖土機",
-            "JPN": "掘削機",
-            "ITL": "Escavatore"
-        },
-        {
-            "class_id": "134",
-            "ENG": "Tanker",
-            "TWN": "油罐車",
-            "JPN": "タンクローリー",
-            "ITL": "Autocisterna"
-        },
-        {
-            "class_id": "135",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "136",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "137",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "138",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "139",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "140",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "141",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "142",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "143",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "144",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "145",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "146",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "147",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "148",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "149",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "150",
-            "ENG": "CoastGuard",
-            "TWN": "海岸警衛隊",
-            "JPN": "沿岸警備隊",
-            "ITL": "Guardia Costiera"
-        },
-        {
-            "class_id": "151",
-            "ENG": "Cargo",
-            "TWN": "遠洋貨輪",
-            "JPN": "海上貨物船",
-            "ITL": "Carico"
-        },
-        {
-            "class_id": "152",
-            "ENG": "Cruise",
-            "TWN": "郵輪",
-            "JPN": "クルーズ",
-            "ITL": "Crociera"
-        },
-        {
-            "class_id": "153",
-            "ENG": "Ferry ",
-            "TWN": "渡輪",
-            "JPN": "フェリー",
-            "ITL": "Traghetto"
-        },
-        {
-            "class_id": "154",
-            "ENG": "Freight",
-            "TWN": "貨運船",
-            "JPN": "貨物船",
-            "ITL": "Trasporto"
-        },
-        {
-            "class_id": "155",
-            "ENG": "Gondola",
-            "TWN": "貢多拉",
-            "JPN": "ゴンドラ",
-            "ITL": "Gondola"
-        },
-        {
-            "class_id": "156",
-            "ENG": "Inflatable",
-            "TWN": "充氣船",
-            "JPN": "インフレータブル",
-            "ITL": "Gonfiabile"
-        },
-        {
-            "class_id": "157",
-            "ENG": "Kayak",
-            "TWN": "皮艇",
-            "JPN": "カヤック",
-            "ITL": "Kayak"
-        },
-        {
-            "class_id": "158",
-            "ENG": "Sailboat",
-            "TWN": "帆船",
-            "JPN": "ヨット",
-            "ITL": "Barca a vela"
-        },
-        {
-            "class_id": "159",
-            "ENG": "Tug",
-            "TWN": "拖船",
-            "JPN": "タグボート",
-            "ITL": "Tirare"
-        },
-        {
-            "class_id": "160",
-            "ENG": "Warship",
-            "TWN": "軍艦",
-            "JPN": "軍艦",
-            "ITL": "Nave da guerra"
-        },
-        {
-            "class_id": "161",
-            "ENG": "Fishing",
-            "TWN": "漁船",
-            "JPN": "漁船",
-            "ITL": "Pesca"
-        },
-        {
-            "class_id": "162",
-            "ENG": "Carrier",
-            "TWN": "航空母艦",
-            "JPN": "空母",
-            "ITL": "Vettore"
-        },
-        {
-            "class_id": "163",
-            "ENG": "Yacht",
-            "TWN": "遊艇",
-            "JPN": "ヨット",
-            "ITL": "Yacht"
-        },
-        {
-            "class_id": "164",
-            "ENG": "Jetski",
-            "TWN": "水上摩托車",
-            "JPN": "ジェットスキー",
-            "ITL": "Jetski"
-        },
-        {
-            "class_id": "165",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "166",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "167",
-            "ENG": "Bear",
-            "TWN": "熊",
-            "JPN": "クマ",
-            "ITL": "Orso"
-        },
-        {
-            "class_id": "168",
-            "ENG": "Brown bear",
-            "TWN": "棕熊",
-            "JPN": "ヒグマ",
-            "ITL": "orso bruno"
-        },
-        {
-            "class_id": "169",
-            "ENG": "Bull",
-            "TWN": "公牛",
-            "JPN": "ブル",
-            "ITL": "Toro"
-        },
-        {
-            "class_id": "170",
-            "ENG": "Butterfly",
-            "TWN": "蝴蝶",
-            "JPN": "蝶",
-            "ITL": "La farfalla"
-        },
-        {
-            "class_id": "171",
-            "ENG": "Camel",
-            "TWN": "駱駝",
-            "JPN": "キャメル",
-            "ITL": "Cammello"
-        },
-        {
-            "class_id": "172",
-            "ENG": "Canary",
-            "TWN": "金絲雀",
-            "JPN": "カナリア",
-            "ITL": "Canarino"
-        },
-        {
-            "class_id": "173",
-            "ENG": "Caterpillar",
-            "TWN": "毛蟲",
-            "JPN": "キャタピラー",
-            "ITL": "bruco"
-        },
-        {
-            "class_id": "174",
-            "ENG": "Cattle",
-            "TWN": "牛",
-            "JPN": "牛",
-            "ITL": "Bestiame"
-        },
-        {
-            "class_id": "175",
-            "ENG": "Centipede",
-            "TWN": "蜈",
-            "JPN": "ムカデ",
-            "ITL": "Centopiedi"
-        },
-        {
-            "class_id": "176",
-            "ENG": "Cheetah",
-            "TWN": "獵豹",
-            "JPN": "チーター",
-            "ITL": "ghepardo"
-        },
-        {
-            "class_id": "177",
-            "ENG": "Chicken",
-            "TWN": "雞",
-            "JPN": "鶏",
-            "ITL": "Pollo"
-        },
-        {
-            "class_id": "178",
-            "ENG": "Crab",
-            "TWN": "螃蟹",
-            "JPN": "カニ",
-            "ITL": "Granchio"
-        },
-        {
-            "class_id": "179",
-            "ENG": "Crocodile",
-            "TWN": "鱷魚",
-            "JPN": "クロコダイル",
-            "ITL": "Coccodrillo"
-        },
-        {
-            "class_id": "180",
-            "ENG": "Deer",
-            "TWN": "鹿",
-            "JPN": "鹿",
-            "ITL": "Cervo"
-        },
-        {
-            "class_id": "181",
-            "ENG": "Duck",
-            "TWN": "鴨子",
-            "JPN": "アヒル",
-            "ITL": "Anatra"
-        },
-        {
-            "class_id": "182",
-            "ENG": "Eagle",
-            "TWN": "鷹",
-            "JPN": "鷲",
-            "ITL": "Aquila"
-        },
-        {
-            "class_id": "183",
-            "ENG": "Elephant",
-            "TWN": "大象",
-            "JPN": "象",
-            "ITL": "Elefante"
-        },
-        {
-            "class_id": "184",
-            "ENG": "Fish",
-            "TWN": "魚",
-            "JPN": "魚",
-            "ITL": "Pesce"
-        },
-        {
-            "class_id": "185",
-            "ENG": "Fox",
-            "TWN": "狐狸",
-            "JPN": "狐",
-            "ITL": "Volpe"
-        },
-        {
-            "class_id": "186",
-            "ENG": "Frog",
-            "TWN": "青蛙",
-            "JPN": "蛙",
-            "ITL": "Rana"
-        },
-        {
-            "class_id": "187",
-            "ENG": "Giraffe",
-            "TWN": "長頸鹿",
-            "JPN": "キリン",
-            "ITL": "Giraffa"
-        },
-        {
-            "class_id": "188",
-            "ENG": "Goat",
-            "TWN": "山羊",
-            "JPN": "ヤギ",
-            "ITL": "Capra"
-        },
-        {
-            "class_id": "189",
-            "ENG": "Goldfish",
-            "TWN": "金魚",
-            "JPN": "金魚",
-            "ITL": "pesce rosso"
-        },
-        {
-            "class_id": "190",
-            "ENG": "Goose",
-            "TWN": "鵝",
-            "JPN": "ガチョウ",
-            "ITL": "Oca"
-        },
-        {
-            "class_id": "191",
-            "ENG": "Hamster",
-            "TWN": "倉鼠",
-            "JPN": "ハムスター",
-            "ITL": "Criceto"
-        },
-        {
-            "class_id": "192",
-            "ENG": "Harbor seal",
-            "TWN": "海豹",
-            "JPN": "ゼニガタアザラシ",
-            "ITL": "foca del porto"
-        },
-        {
-            "class_id": "193",
-            "ENG": "Hedgehog",
-            "TWN": "刺猬",
-            "JPN": "ハリネズミ",
-            "ITL": "Riccio"
-        },
-        {
-            "class_id": "194",
-            "ENG": "Hippopotamus",
-            "TWN": "河馬",
-            "JPN": "カバ",
-            "ITL": "Ippopotamo"
-        },
-        {
-            "class_id": "195",
-            "ENG": "Horse",
-            "TWN": "馬",
-            "JPN": "馬",
-            "ITL": "Cavallo"
-        },
-        {
-            "class_id": "196",
-            "ENG": "Jaguar",
-            "TWN": "捷豹",
-            "JPN": "ジャガー",
-            "ITL": "Giaguaro"
-        },
-        {
-            "class_id": "197",
-            "ENG": "Jellyfish",
-            "TWN": "海蜇",
-            "JPN": "クラゲ",
-            "ITL": "Medusa"
-        },
-        {
-            "class_id": "198",
-            "ENG": "Kangaroo",
-            "TWN": "袋鼠",
-            "JPN": "カンガルー",
-            "ITL": "Canguro"
-        },
-        {
-            "class_id": "199",
-            "ENG": "Koala",
-            "TWN": "考拉",
-            "JPN": "コアラ",
-            "ITL": "Koala"
-        },
-        {
-            "class_id": "200",
-            "ENG": "Ladybug",
-            "TWN": "瓢蟲",
-            "JPN": "てんとう虫",
-            "ITL": "Coccinella"
-        },
-        {
-            "class_id": "201",
-            "ENG": "Leopard",
-            "TWN": "豹",
-            "JPN": "ヒョウ",
-            "ITL": "Leopardo"
-        },
-        {
-            "class_id": "202",
-            "ENG": "Lion",
-            "TWN": "獅子",
-            "JPN": "ライオン",
-            "ITL": "Leone"
-        },
-        {
-            "class_id": "203",
-            "ENG": "Lizard",
-            "TWN": "蜥蜴",
-            "JPN": "トカゲ",
-            "ITL": "Lucertola"
-        },
-        {
-            "class_id": "204",
-            "ENG": "Lynx",
-            "TWN": "山貓",
-            "JPN": "リンクス",
-            "ITL": "Lince"
-        },
-        {
-            "class_id": "205",
-            "ENG": "Magpie",
-            "TWN": "鵲",
-            "JPN": "マグパイ",
-            "ITL": "Gazza"
-        },
-        {
-            "class_id": "206",
-            "ENG": "Monkey",
-            "TWN": "猴",
-            "JPN": "猿",
-            "ITL": "Scimmia"
-        },
-        {
-            "class_id": "207",
-            "ENG": "Moths and butterflies",
-            "TWN": "飛蛾和蝴蝶",
-            "JPN": "蛾と蝶",
-            "ITL": "Falene e farfalle"
-        },
-        {
-            "class_id": "208",
-            "ENG": "Mouse",
-            "TWN": "鼠",
-            "JPN": "ねずみ",
-            "ITL": "Topo"
-        },
-        {
-            "class_id": "209",
-            "ENG": "Mule",
-            "TWN": "騾子",
-            "JPN": "ラバ",
-            "ITL": "Mulo"
-        },
-        {
-            "class_id": "210",
-            "ENG": "Ostrich",
-            "TWN": "鴕鳥",
-            "JPN": "ダチョウ",
-            "ITL": "Struzzo"
-        },
-        {
-            "class_id": "211",
-            "ENG": "Otter",
-            "TWN": "獺",
-            "JPN": "カワウソ",
-            "ITL": "lontra"
-        },
-        {
-            "class_id": "212",
-            "ENG": "Owl",
-            "TWN": "貓頭鷹",
-            "JPN": "フクロウ",
-            "ITL": "Gufo"
-        },
-        {
-            "class_id": "213",
-            "ENG": "Panda",
-            "TWN": "熊貓",
-            "JPN": "パンダ",
-            "ITL": "Panda"
-        },
-        {
-            "class_id": "214",
-            "ENG": "Parrot",
-            "TWN": "鸚鵡",
-            "JPN": "オウム",
-            "ITL": "Pappagallo"
-        },
-        {
-            "class_id": "215",
-            "ENG": "Penguin",
-            "TWN": "企鵝",
-            "JPN": "ペンギン",
-            "ITL": "Pinguino"
-        },
-        {
-            "class_id": "216",
-            "ENG": "Pig",
-            "TWN": "豬",
-            "JPN": "豚",
-            "ITL": "Maiale"
-        },
-        {
-            "class_id": "217",
-            "ENG": "Polar bear",
-            "TWN": "北極熊",
-            "JPN": "ホッキョクグマ",
-            "ITL": "Orso polare"
-        },
-        {
-            "class_id": "218",
-            "ENG": "Rabbit",
-            "TWN": "兔子",
-            "JPN": "うさぎ",
-            "ITL": "Coniglio"
-        },
-        {
-            "class_id": "219",
-            "ENG": "Raccoon",
-            "TWN": "狸",
-            "JPN": "ラクーン",
-            "ITL": "Procione"
-        },
-        {
-            "class_id": "220",
-            "ENG": "Raven",
-            "TWN": "掠奪",
-            "JPN": "カラス",
-            "ITL": "Corvo"
-        },
-        {
-            "class_id": "221",
-            "ENG": "Red panda",
-            "TWN": "小熊貓",
-            "JPN": "レッサーパンダ",
-            "ITL": "Panda rosso"
-        },
-        {
-            "class_id": "222",
-            "ENG": "Rhinoceros",
-            "TWN": "犀牛",
-            "JPN": "サイ",
-            "ITL": "Rinoceronte"
-        },
-        {
-            "class_id": "223",
-            "ENG": "Scorpion",
-            "TWN": "蠍",
-            "JPN": "サソリ",
-            "ITL": "Scorpione"
-        },
-        {
-            "class_id": "224",
-            "ENG": "Sea lion",
-            "TWN": "海獅",
-            "JPN": "アシカ",
-            "ITL": "Leone marino"
-        },
-        {
-            "class_id": "225",
-            "ENG": "Sea turtle",
-            "TWN": "海龜",
-            "JPN": "ウミガメ",
-            "ITL": "Tartaruga di mare"
-        },
-        {
-            "class_id": "226",
-            "ENG": "Seahorse",
-            "TWN": "海馬",
-            "JPN": "タツノオトシゴ",
-            "ITL": "Cavalluccio marino"
-        },
-        {
-            "class_id": "227",
-            "ENG": "Shark",
-            "TWN": "鯊魚",
-            "JPN": "鮫",
-            "ITL": "Squalo"
-        },
-        {
-            "class_id": "228",
-            "ENG": "Sheep",
-            "TWN": "羊",
-            "JPN": "羊",
-            "ITL": "Pecora"
-        },
-        {
-            "class_id": "229",
-            "ENG": "Shrimp",
-            "TWN": "蝦",
-            "JPN": "エビ",
-            "ITL": "Gambero"
-        },
-        {
-            "class_id": "230",
-            "ENG": "Snail",
-            "TWN": "蝸牛",
-            "JPN": "カタツムリ",
-            "ITL": "Lumaca"
-        },
-        {
-            "class_id": "231",
-            "ENG": "Snake",
-            "TWN": "蛇",
-            "JPN": "蛇",
-            "ITL": "Serpente"
-        },
-        {
-            "class_id": "232",
-            "ENG": "Sparrow",
-            "TWN": "麻雀",
-            "JPN": "スズメ",
-            "ITL": "Passero"
-        },
-        {
-            "class_id": "233",
-            "ENG": "Spider",
-            "TWN": "蜘蛛",
-            "JPN": "クモ",
-            "ITL": "Ragno"
-        },
-        {
-            "class_id": "234",
-            "ENG": "Squid",
-            "TWN": "烏賊",
-            "JPN": "イカ",
-            "ITL": "Calamaro"
-        },
-        {
-            "class_id": "235",
-            "ENG": "Squirrel",
-            "TWN": "松鼠",
-            "JPN": "リス",
-            "ITL": "Scoiattolo"
-        },
-        {
-            "class_id": "236",
-            "ENG": "Starfish",
-            "TWN": "海星",
-            "JPN": "ヒトデ",
-            "ITL": "Stella marina"
-        },
-        {
-            "class_id": "237",
-            "ENG": "Swan",
-            "TWN": "天鵝",
-            "JPN": "白鳥",
-            "ITL": "cigno"
-        },
-        {
-            "class_id": "238",
-            "ENG": "Tick",
-            "TWN": "打鉤",
-            "JPN": "ダニ",
-            "ITL": "Tic Tac"
-        },
-        {
-            "class_id": "239",
-            "ENG": "Tiger",
-            "TWN": "老虎",
-            "JPN": "虎",
-            "ITL": "Tigre"
-        },
-        {
-            "class_id": "240",
-            "ENG": "Tortoise",
-            "TWN": "烏龜",
-            "JPN": "カメ",
-            "ITL": "Tartaruga"
-        },
-        {
-            "class_id": "241",
-            "ENG": "Turkey",
-            "TWN": "火雞",
-            "JPN": "七面鳥",
-            "ITL": "tacchino"
-        },
-        {
-            "class_id": "242",
-            "ENG": "Turtle",
-            "TWN": "龜",
-            "JPN": "カメ",
-            "ITL": "Tartaruga"
-        },
-        {
-            "class_id": "243",
-            "ENG": "Whale",
-            "TWN": "鯨",
-            "JPN": "鯨",
-            "ITL": "Balena"
-        },
-        {
-            "class_id": "244",
-            "ENG": "Woodpecker",
-            "TWN": "啄木鳥",
-            "JPN": "キツツキ",
-            "ITL": "Picchio"
-        },
-        {
-            "class_id": "245",
-            "ENG": "Worm",
-            "TWN": "蟲",
-            "JPN": "いも虫",
-            "ITL": "Verme"
-        },
-        {
-            "class_id": "246",
-            "ENG": "Zebra",
-            "TWN": "斑馬",
-            "JPN": "シマウマ",
-            "ITL": "Zebra"
-        },
-        {
-            "class_id": "247",
-            "ENG": "Cat",
-            "TWN": "貓",
-            "JPN": "ネコ",
-            "ITL": "Gatto"
-        },
-        {
-            "class_id": "248",
-            "ENG": "Dog",
-            "TWN": "狗",
-            "JPN": "犬",
-            "ITL": "Cane"
-        },
-        {
-            "class_id": "300",
-            "ENG": "Nose",
-            "TWN": "鼻子",
-            "JPN": "鼻",
-            "ITL": "Naso"
-        },
-        {
-            "class_id": "301",
-            "ENG": "Left_eye",
-            "TWN": "左眼",
-            "JPN": "左目",
-            "ITL": "Occhio sinistro"
-        },
-        {
-            "class_id": "302",
-            "ENG": "Right_eye",
-            "TWN": "右眼",
-            "JPN": "右目",
-            "ITL": "Occhio destro"
-        },
-        {
-            "class_id": "303",
-            "ENG": "Left_ear",
-            "TWN": "左耳",
-            "JPN": "左耳",
-            "ITL": "Orecchio sinistro"
-        },
-        {
-            "class_id": "304",
-            "ENG": "Right_ear",
-            "TWN": "右耳",
-            "JPN": "右耳",
-            "ITL": "Orecchio destro"
-        },
-        {
-            "class_id": "305",
-            "ENG": "Left_shoulder",
-            "TWN": "左肩",
-            "JPN": "左肩",
-            "ITL": "Spalla sinistra"
-        },
-        {
-            "class_id": "306",
-            "ENG": "Right_shoulder",
-            "TWN": "右肩",
-            "JPN": "右肩",
-            "ITL": "Spalla destra"
-        },
-        {
-            "class_id": "307",
-            "ENG": "Left_elbow",
-            "TWN": "左手肘",
-            "JPN": "左ひじ",
-            "ITL": "Gomito sinistro"
-        },
-        {
-            "class_id": "308",
-            "ENG": "Right_elbow",
-            "TWN": "右手肘",
-            "JPN": "右ひじ",
-            "ITL": "Gomito destro"
-        },
-        {
-            "class_id": "309",
-            "ENG": "Left_wrist",
-            "TWN": "左手腕",
-            "JPN": "左手首",
-            "ITL": "Polso sinistro"
-        },
-        {
-            "class_id": "310",
-            "ENG": "Right_wrist",
-            "TWN": "右手腕",
-            "JPN": "右手首",
-            "ITL": "Polso destro"
-        },
-        {
-            "class_id": "311",
-            "ENG": "Hip",
-            "TWN": "臀部",
-            "JPN": "ヒップ",
-            "ITL": "Natiche"
-        },
-        {
-            "class_id": "312",
-            "ENG": "Body",
-            "TWN": "身體",
-            "JPN": "本体",
-            "ITL": "Corpo"
-        },
-        {
-            "class_id": "313",
-            "ENG": "Left_knee",
-            "TWN": "左膝",
-            "JPN": "左ひざ",
-            "ITL": "Ginocchio sinistro"
-        },
-        {
-            "class_id": "314",
-            "ENG": "Right_knee",
-            "TWN": "右膝",
-            "JPN": "右ひざ",
-            "ITL": "Ginocchio destro"
-        },
-        {
-            "class_id": "315",
-            "ENG": "Left_ankle",
-            "TWN": "左腳踝",
-            "JPN": "左足首",
-            "ITL": "Caviglia sinistra"
-        },
-        {
-            "class_id": "316",
-            "ENG": "Right_ankle",
-            "TWN": "右腳踝",
-            "JPN": "右足首",
-            "ITL": "Caviglia destra"
-        },
-        {
-            "class_id": "317",
-            "ENG": "Neck",
-            "TWN": "脖子",
-            "JPN": "首",
-            "ITL": "Collo"
-        },
-        {
-            "class_id": "500",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "501",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "502",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "503",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "504",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "505",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "506",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "507",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "508",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "509",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "510",
-            "ENG": "AstonMartin",
-            "TWN": "AstonMartin",
-            "JPN": "AstonMartin",
-            "ITL": "AstonMartin"
-        },
-        {
-            "class_id": "511",
-            "ENG": "Bentley",
-            "TWN": "賓利",
-            "JPN": "Bentley",
-            "ITL": "Bentley"
-        },
-        {
-            "class_id": "512",
-            "ENG": "Citroen",
-            "TWN": "雪鐵龍",
-            "JPN": "Citroen",
-            "ITL": "Citroen"
-        },
-        {
-            "class_id": "513",
-            "ENG": "Dodge",
-            "TWN": "道奇",
-            "JPN": "Dodge",
-            "ITL": "Dodge"
-        },
-        {
-            "class_id": "514",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "515",
-            "ENG": "Ferrari",
-            "TWN": "法拉利",
-            "JPN": "Ferrari",
-            "ITL": "Ferrari"
-        },
-        {
-            "class_id": "516",
-            "ENG": "GMC",
-            "TWN": "GMC",
-            "JPN": "GMC",
-            "ITL": "GMC"
-        },
-        {
-            "class_id": "517",
-            "ENG": "Honda",
-            "TWN": "本田",
-            "JPN": "Honda",
-            "ITL": "Honda"
-        },
-        {
-            "class_id": "518",
-            "ENG": "Infiniti",
-            "TWN": "Infiniti",
-            "JPN": "Infiniti",
-            "ITL": "Infiniti"
-        },
-        {
-            "class_id": "519",
-            "ENG": "Jaguar",
-            "TWN": "Jaguar",
-            "JPN": "Jaguar",
-            "ITL": "Jaguar"
-        },
-        {
-            "class_id": "520",
-            "ENG": "KIA",
-            "TWN": "KIA",
-            "JPN": "KIA",
-            "ITL": "KIA"
-        },
-        {
-            "class_id": "521",
-            "ENG": "Lamborghini",
-            "TWN": "藍寶堅尼",
-            "JPN": "Lamborghini",
-            "ITL": "Lamborghini"
-        },
-        {
-            "class_id": "522",
-            "ENG": "MercedesBenz",
-            "TWN": "賓士",
-            "JPN": "MercedesBenz",
-            "ITL": "MercedesBenz"
-        },
-        {
-            "class_id": "523",
-            "ENG": "Nissan",
-            "TWN": "日產",
-            "JPN": "Nissan",
-            "ITL": "Nissan"
-        },
-        {
-            "class_id": "524",
-            "ENG": "Opel",
-            "TWN": "歐寶",
-            "JPN": "Opel",
-            "ITL": "Opel"
-        },
-        {
-            "class_id": "525",
-            "ENG": "Peugeot",
-            "TWN": "Peugeot",
-            "JPN": "Peugeot",
-            "ITL": "Peugeot"
-        },
-        {
-            "class_id": "526",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "527",
-            "ENG": "Renault",
-            "TWN": "雷諾",
-            "JPN": "Renault",
-            "ITL": "Renault"
-        },
-        {
-            "class_id": "528",
-            "ENG": "Skoda",
-            "TWN": "Skoda",
-            "JPN": "Skoda",
-            "ITL": "Skoda"
-        },
-        {
-            "class_id": "529",
-            "ENG": "Tesla",
-            "TWN": "特斯拉",
-            "JPN": "Tesla",
-            "ITL": "Tesla"
-        },
-        {
-            "class_id": "530",
-            "ENG": "UD",
-            "TWN": "UD",
-            "JPN": "UD",
-            "ITL": "UD"
-        },
-        {
-            "class_id": "531",
-            "ENG": "Volkswagen",
-            "TWN": "福斯",
-            "JPN": "Volkswagen",
-            "ITL": "Volkswagen"
-        },
-        {
-            "class_id": "532",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "533",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "534",
-            "ENG": "Yugo",
-            "TWN": "Yugo",
-            "JPN": "Yugo",
-            "ITL": "Yugo"
-        },
-        {
-            "class_id": "535",
-            "ENG": "Zastava",
-            "TWN": "Zastava",
-            "JPN": "Zastava",
-            "ITL": "Zastava"
-        },
-        {
-            "class_id": "536",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "537",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "538",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "539",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "540",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "541",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "542",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "543",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "544",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "545",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "546",
-            "ENG": "Audi",
-            "TWN": "奧迪",
-            "JPN": "Audi",
-            "ITL": "Audi"
-        },
-        {
-            "class_id": "547",
-            "ENG": "BMW",
-            "TWN": "寶馬",
-            "JPN": "BMW",
-            "ITL": "BMW"
-        },
-        {
-            "class_id": "548",
-            "ENG": "Chevrolet",
-            "TWN": "雪弗蘭",
-            "JPN": "Chevrolet",
-            "ITL": "Chevrolet"
-        },
-        {
-            "class_id": "549",
-            "ENG": "Daihatsu",
-            "TWN": "Daihatsu",
-            "JPN": "Daihatsu",
-            "ITL": "Daihatsu"
-        },
-        {
-            "class_id": "550",
-            "ENG": "Dacia",
-            "TWN": "Dacia",
-            "JPN": "Dacia",
-            "ITL": "Dacia"
-        },
-        {
-            "class_id": "551",
-            "ENG": "Ford",
-            "TWN": "福特",
-            "JPN": "Ford",
-            "ITL": "Ford"
-        },
-        {
-            "class_id": "552",
-            "ENG": "Greyhound",
-            "TWN": "Greyhound",
-            "JPN": "Greyhound",
-            "ITL": "Greyhound"
-        },
-        {
-            "class_id": "553",
-            "ENG": "Hyundai",
-            "TWN": "現代",
-            "JPN": "Hyundai",
-            "ITL": "Hyundai"
-        },
-        {
-            "class_id": "554",
-            "ENG": "ISUZU",
-            "TWN": "ISUZU",
-            "JPN": "ISUZU",
-            "ITL": "ISUZU"
-        },
-        {
-            "class_id": "555",
-            "ENG": "Jeep",
-            "TWN": "吉普",
-            "JPN": "Jeep",
-            "ITL": "Jeep"
-        },
-        {
-            "class_id": "556",
-            "ENG": "KenWorth",
-            "TWN": "KenWorth",
-            "JPN": "KenWorth",
-            "ITL": "KenWorth"
-        },
-        {
-            "class_id": "557",
-            "ENG": "LandRover",
-            "TWN": "LandRover",
-            "JPN": "LandRover",
-            "ITL": "LandRover"
-        },
-        {
-            "class_id": "558",
-            "ENG": "Mahindra",
-            "TWN": "Mahindra",
-            "JPN": "Mahindra",
-            "ITL": "Mahindra"
-        },
-        {
-            "class_id": "559",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "560",
-            "ENG": "Oldsmobile",
-            "TWN": "Oldsmobile",
-            "JPN": "Oldsmobile",
-            "ITL": "Oldsmobile"
-        },
-        {
-            "class_id": "561",
-            "ENG": "Porsche",
-            "TWN": "保時捷",
-            "JPN": "Porsche",
-            "ITL": "Porsche"
-        },
-        {
-            "class_id": "562",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "563",
-            "ENG": "RollsRoyce",
-            "TWN": "RollsRoyce",
-            "JPN": "RollsRoyce",
-            "ITL": "RollsRoyce"
-        },
-        {
-            "class_id": "564",
-            "ENG": "Smart",
-            "TWN": "Smart",
-            "JPN": "Smart",
-            "ITL": "Smart"
-        },
-        {
-            "class_id": "565",
-            "ENG": "TOYOTA",
-            "TWN": "TOYOTA",
-            "JPN": "TOYOTA",
-            "ITL": "TOYOTA"
-        },
-        {
-            "class_id": "566",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "567",
-            "ENG": "VOLVO",
-            "TWN": "富豪",
-            "JPN": "VOLVO",
-            "ITL": "VOLVO"
-        },
-        {
-            "class_id": "568",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "569",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "570",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "571",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "572",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "573",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "574",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "575",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "576",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "577",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "578",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "579",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "580",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "581",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "582",
-            "ENG": "Acura",
-            "TWN": "Acura",
-            "JPN": "Acura",
-            "ITL": "Acura"
-        },
-        {
-            "class_id": "583",
-            "ENG": "Bugatti",
-            "TWN": "Bugatti",
-            "JPN": "Bugatti",
-            "ITL": "Bugatti"
-        },
-        {
-            "class_id": "584",
-            "ENG": "Chrysler",
-            "TWN": "Chrysler",
-            "JPN": "Chrysler",
-            "ITL": "Chrysler"
-        },
-        {
-            "class_id": "585",
-            "ENG": "DennisEagle",
-            "TWN": "DennisEagle",
-            "JPN": "DennisEagle",
-            "ITL": "DennisEagle"
-        },
-        {
-            "class_id": "586",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "587",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "588",
-            "ENG": "Genesis",
-            "TWN": "Genesis",
-            "JPN": "Genesis",
-            "ITL": "Genesis"
-        },
-        {
-            "class_id": "589",
-            "ENG": "Holden",
-            "TWN": "Holden",
-            "JPN": "Holden",
-            "ITL": "Holden"
-        },
-        {
-            "class_id": "590",
-            "ENG": "IVECO",
-            "TWN": "IVECO",
-            "JPN": "IVECO",
-            "ITL": "IVECO"
-        },
-        {
-            "class_id": "591",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "592",
-            "ENG": "Koenigsegg",
-            "TWN": "Koenigsegg",
-            "JPN": "Koenigsegg",
-            "ITL": "Koenigsegg"
-        },
-        {
-            "class_id": "593",
-            "ENG": "Lexus",
-            "TWN": "凌志",
-            "JPN": "Lexus",
-            "ITL": "Lexus"
-        },
-        {
-            "class_id": "594",
-            "ENG": "Mustang",
-            "TWN": "Mustang",
-            "JPN": "Mustang",
-            "ITL": "Mustang"
-        },
-        {
-            "class_id": "595",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "596",
-            "ENG": "Otokar",
-            "TWN": "Otokar",
-            "JPN": "Otokar",
-            "ITL": "Otokar"
-        },
-        {
-            "class_id": "597",
-            "ENG": "Pontiac",
-            "TWN": "龐迪亞克",
-            "JPN": "Pontiac",
-            "ITL": "Pontiac"
-        },
-        {
-            "class_id": "598",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "599",
-            "ENG": "Rover",
-            "TWN": "路虎",
-            "JPN": "Rover",
-            "ITL": "Rover"
-        },
-        {
-            "class_id": "600",
-            "ENG": "SsangYong",
-            "TWN": "雙龍",
-            "JPN": "SsangYong",
-            "ITL": "SsangYong"
-        },
-        {
-            "class_id": "601",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "602",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "603",
-            "ENG": "Viper",
-            "TWN": "Viper",
-            "JPN": "Viper",
-            "ITL": "Viper"
-        },
-        {
-            "class_id": "604",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "605",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "606",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "607",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "608",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "609",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "610",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "611",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "612",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "613",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "614",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "615",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "616",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "617",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "618",
-            "ENG": "AlfaRomeo",
-            "TWN": "愛快羅密歐",
-            "JPN": "AlfaRomeo",
-            "ITL": "AlfaRomeo"
-        },
-        {
-            "class_id": "619",
-            "ENG": "Buick",
-            "TWN": "別克",
-            "JPN": "Buick",
-            "ITL": "Buick"
-        },
-        {
-            "class_id": "620",
-            "ENG": "CMC",
-            "TWN": "CMC",
-            "JPN": "CMC",
-            "ITL": "CMC"
-        },
-        {
-            "class_id": "621",
-            "ENG": "DS_Automobiles",
-            "TWN": "DS_Automobiles",
-            "JPN": "DS_Automobiles",
-            "ITL": "DS_Automobiles"
-        },
-        {
-            "class_id": "622",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "623",
-            "ENG": "FIAT",
-            "TWN": "飛雅特",
-            "JPN": "FIAT",
-            "ITL": "FIAT"
-        },
-        {
-            "class_id": "624",
-            "ENG": "Gibson",
-            "TWN": "Gibson",
-            "JPN": "Gibson",
-            "ITL": "Gibson"
-        },
-        {
-            "class_id": "625",
-            "ENG": "Hino",
-            "TWN": "Hino",
-            "JPN": "Hino",
-            "ITL": "Hino"
-        },
-        {
-            "class_id": "626",
-            "ENG": "Irizar",
-            "TWN": "Irizar",
-            "JPN": "Irizar",
-            "ITL": "Irizar"
-        },
-        {
-            "class_id": "627",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "628",
-            "ENG": "KAMAZ",
-            "TWN": "KAMAZ",
-            "JPN": "KAMAZ",
-            "ITL": "KAMAZ"
-        },
-        {
-            "class_id": "629",
-            "ENG": "Lotus",
-            "TWN": "蓮花",
-            "JPN": "Lotus",
-            "ITL": "Lotus"
-        },
-        {
-            "class_id": "630",
-            "ENG": "MAZDA",
-            "TWN": "MAZDA",
-            "JPN": "MAZDA",
-            "ITL": "MAZDA"
-        },
-        {
-            "class_id": "631",
-            "ENG": "Mercury",
-            "TWN": "Mercury",
-            "JPN": "Mercury",
-            "ITL": "Mercury"
-        },
-        {
-            "class_id": "632",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "633",
-            "ENG": "Plymouth",
-            "TWN": "Plymouth",
-            "JPN": "Plymouth",
-            "ITL": "Plymouth"
-        },
-        {
-            "class_id": "634",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "635",
-            "ENG": "RAM",
-            "TWN": "RAM",
-            "JPN": "RAM",
-            "ITL": "RAM"
-        },
-        {
-            "class_id": "636",
-            "ENG": "SUBARU",
-            "TWN": "速霸陸",
-            "JPN": "SUBARU",
-            "ITL": "SUBARU"
-        },
-        {
-            "class_id": "637",
-            "ENG": "TATA",
-            "TWN": "TATA",
-            "JPN": "TATA",
-            "ITL": "TATA"
-        },
-        {
-            "class_id": "638",
-            "ENG": "SEAT",
-            "TWN": "SEAT",
-            "JPN": "SEAT",
-            "ITL": "SEAT"
-        },
-        {
-            "class_id": "639",
-            "ENG": "VauxhallAstra",
-            "TWN": "VauxhallAstra",
-            "JPN": "VauxhallAstra",
-            "ITL": "VauxhallAstra"
-        },
-        {
-            "class_id": "640",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "641",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "642",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "643",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "644",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "645",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "646",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "647",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "648",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "649",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "650",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "651",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "652",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "653",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "654",
-            "ENG": "Abarth",
-            "TWN": "Abarth",
-            "JPN": "Abarth",
-            "ITL": "Abarth"
-        },
-        {
-            "class_id": "655",
-            "ENG": "Borgward",
-            "TWN": "Borgward",
-            "JPN": "Borgward",
-            "ITL": "Borgward"
-        },
-        {
-            "class_id": "656",
-            "ENG": "Cadillac",
-            "TWN": "Cadillac",
-            "JPN": "Cadillac",
-            "ITL": "Cadillac"
-        },
-        {
-            "class_id": "657",
-            "ENG": "Datsun",
-            "TWN": "Datsun",
-            "JPN": "Datsun",
-            "ITL": "Datsun"
-        },
-        {
-            "class_id": "658",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "659",
-            "ENG": "Fisker",
-            "TWN": "Fisker",
-            "JPN": "Fisker",
-            "ITL": "Fisker"
-        },
-        {
-            "class_id": "660",
-            "ENG": "GWM",
-            "TWN": "GWM",
-            "JPN": "GWM",
-            "ITL": "GWM"
-        },
-        {
-            "class_id": "661",
-            "ENG": "Hummer",
-            "TWN": "悍馬",
-            "JPN": "Hummer",
-            "ITL": "Hummer"
-        },
-        {
-            "class_id": "662",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "663",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "664",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "665",
-            "ENG": "Luxgen",
-            "TWN": "Luxgen",
-            "JPN": "Luxgen",
-            "ITL": "Luxgen"
-        },
-        {
-            "class_id": "666",
-            "ENG": "McLaren",
-            "TWN": "McLaren",
-            "JPN": "McLaren",
-            "ITL": "McLaren"
-        },
-        {
-            "class_id": "667",
-            "ENG": "Mopar",
-            "TWN": "Mopar",
-            "JPN": "Mopar",
-            "ITL": "Mopar"
-        },
-        {
-            "class_id": "668",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "669",
-            "ENG": "Perodua",
-            "TWN": "Perodua",
-            "JPN": "Perodua",
-            "ITL": "Perodua"
-        },
-        {
-            "class_id": "670",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "671",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "672",
-            "ENG": "Suzuki",
-            "TWN": "Suzuki",
-            "JPN": "Suzuki",
-            "ITL": "Suzuki"
-        },
-        {
-            "class_id": "673",
-            "ENG": "Thunderbird",
-            "TWN": "Thunderbird",
-            "JPN": "Thunderbird",
-            "ITL": "Thunderbird"
-        },
-        {
-            "class_id": "674",
-            "ENG": "Setra",
-            "TWN": "Setra",
-            "JPN": "Setra",
-            "ITL": "Setra"
-        },
-        {
-            "class_id": "675",
-            "ENG": "Vanhool",
-            "TWN": "Vanhool",
-            "JPN": "Vanhool",
-            "ITL": "Vanhool"
-        },
-        {
-            "class_id": "676",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "677",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "678",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "679",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "680",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "681",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "682",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "683",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "684",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "685",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "686",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "687",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "688",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "689",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "690",
-            "ENG": "AustinHealey",
-            "TWN": "AustinHealey",
-            "JPN": "AustinHealey",
-            "ITL": "AustinHealey"
-        },
-        {
-            "class_id": "691",
-            "ENG": "BYD",
-            "TWN": "BYD",
-            "JPN": "BYD",
-            "ITL": "BYD"
-        },
-        {
-            "class_id": "692",
-            "ENG": "Corvette",
-            "TWN": "Corvette",
-            "JPN": "Corvette",
-            "ITL": "Corvette"
-        },
-        {
-            "class_id": "693",
-            "ENG": "Dacia",
-            "TWN": "Dacia",
-            "JPN": "Dacia",
-            "ITL": "Dacia"
-        },
-        {
-            "class_id": "694",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "695",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "696",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "697",
-            "ENG": "HSV",
-            "TWN": "HSV",
-            "JPN": "HSV",
-            "ITL": "HSV"
-        },
-        {
-            "class_id": "698",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "699",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "700",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "701",
-            "ENG": "Lincoln",
-            "TWN": "Lincoln",
-            "JPN": "Lincoln",
-            "ITL": "Lincoln"
-        },
-        {
-            "class_id": "702",
-            "ENG": "Mini",
-            "TWN": "Mini",
-            "JPN": "Mini",
-            "ITL": "Mini"
-        },
-        {
-            "class_id": "703",
-            "ENG": "Mack",
-            "TWN": "Mack",
-            "JPN": "Mack",
-            "ITL": "Mack"
-        },
-        {
-            "class_id": "704",
-            "ENG": "MobilVetta",
-            "TWN": "MobilVetta",
-            "JPN": "MobilVetta",
-            "ITL": "MobilVetta"
-        },
-        {
-            "class_id": "705",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "706",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "707",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "708",
-            "ENG": "SCANIA",
-            "TWN": "SCANIA",
-            "JPN": "SCANIA",
-            "ITL": "SCANIA"
-        },
-        {
-            "class_id": "709",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "710",
-            "ENG": "SWIFT",
-            "TWN": "SWIFT",
-            "JPN": "SWIFT",
-            "ITL": "SWIFT"
-        },
-        {
-            "class_id": "711",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "712",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "713",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "714",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "715",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "716",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "717",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "718",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "719",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "720",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "721",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "722",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "723",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "724",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "725",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "726",
-            "ENG": "Adria",
-            "TWN": "Adria",
-            "JPN": "Adria",
-            "ITL": "Adria"
-        },
-        {
-            "class_id": "727",
-            "ENG": "Bristol",
-            "TWN": "Bristol",
-            "JPN": "Bristol",
-            "ITL": "Bristol"
-        },
-        {
-            "class_id": "728",
-            "ENG": "Caetano",
-            "TWN": "Caetano",
-            "JPN": "Caetano",
-            "ITL": "Caetano"
-        },
-        {
-            "class_id": "729",
-            "ENG": "DAF",
-            "TWN": "DAF",
-            "JPN": "DAF",
-            "ITL": "DAF"
-        },
-        {
-            "class_id": "730",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "731",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "732",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "733",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "734",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "735",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "736",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "737",
-            "ENG": "Lancia",
-            "TWN": "蘭吉雅",
-            "JPN": "Lancia",
-            "ITL": "Lancia"
-        },
-        {
-            "class_id": "738",
-            "ENG": "Mitsubishi",
-            "TWN": "三菱",
-            "JPN": "Mitsubishi",
-            "ITL": "Mitsubishi"
-        },
-        {
-            "class_id": "739",
-            "ENG": "MG",
-            "TWN": "MG",
-            "JPN": "MG",
-            "ITL": "MG"
-        },
-        {
-            "class_id": "740",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "741",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "742",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "743",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "744",
-            "ENG": "Shelby",
-            "TWN": "Shelby",
-            "JPN": "Shelby",
-            "ITL": "Shelby"
-        },
-        {
-            "class_id": "745",
-            "ENG": "Sunbeam",
-            "TWN": "Sunbeam",
-            "JPN": "Sunbeam",
-            "ITL": "Sunbeam"
-        },
-        {
-            "class_id": "746",
-            "ENG": "SteyrMotors",
-            "TWN": "SteyrMotors",
-            "JPN": "SteyrMotors",
-            "ITL": "SteyrMotors"
-        },
-        {
-            "class_id": "747",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "748",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "749",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "750",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "751",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "752",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "753",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "754",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "755",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "756",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "757",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "758",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "759",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "760",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "761",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "762",
-            "ENG": "Austin",
-            "TWN": "Austin",
-            "JPN": "Austin",
-            "ITL": "Austin"
-        },
-        {
-            "class_id": "763",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "764",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "765",
-            "ENG": "Daewoo",
-            "TWN": "Daewoo",
-            "JPN": "Daewoo",
-            "ITL": "Daewoo"
-        },
-        {
-            "class_id": "766",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "767",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "768",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "769",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "770",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "771",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "772",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "773",
-            "ENG": "Lada",
-            "TWN": "Lada",
-            "JPN": "Lada",
-            "ITL": "Lada"
-        },
-        {
-            "class_id": "774",
-            "ENG": "Maserati",
-            "TWN": "Maserati",
-            "JPN": "Maserati",
-            "ITL": "Maserati"
-        },
-        {
-            "class_id": "775",
-            "ENG": "Morgan",
-            "TWN": "Morgan",
-            "JPN": "Morgan",
-            "ITL": "Morgan"
-        },
-        {
-            "class_id": "776",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "777",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "778",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "779",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "780",
-            "ENG": "Saturn",
-            "TWN": "Saturn",
-            "JPN": "Saturn",
-            "ITL": "Saturn"
-        },
-        {
-            "class_id": "781",
-            "ENG": "Spyker",
-            "TWN": "Spyker",
-            "JPN": "Spyker",
-            "ITL": "Spyker"
-        },
-        {
-            "class_id": "782",
-            "ENG": "ShuangHuan",
-            "TWN": "ShuangHuan",
-            "JPN": "ShuangHuan",
-            "ITL": "ShuangHuan"
-        },
-        {
-            "class_id": "783",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "784",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "785",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "786",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "787",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "788",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "789",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "790",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "791",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "792",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "793",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "794",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "795",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "796",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "797",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "798",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "799",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "800",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "801",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "802",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "803",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "804",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "805",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "806",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "807",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "808",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "809",
-            "ENG": "LDV",
-            "TWN": "LDV",
-            "JPN": "LDV",
-            "ITL": "LDV"
-        },
-        {
-            "class_id": "810",
-            "ENG": "Maxus",
-            "TWN": "Maxus",
-            "JPN": "Maxus",
-            "ITL": "Maxus"
-        },
-        {
-            "class_id": "811",
-            "ENG": "MAN",
-            "TWN": "MAN",
-            "JPN": "MAN",
-            "ITL": "MAN"
-        },
-        {
-            "class_id": "812",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "813",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "814",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "815",
-            "ENG": "Reserved",
-            "TWN": "Reserved",
-            "JPN": "Reserved",
-            "ITL": "Reserved"
-        },
-        {
-            "class_id": "816",
-            "ENG": "Scion",
-            "TWN": "Scion",
-            "JPN": "Scion",
-            "ITL": "Scion"
-        },
-        {
-            "class_id": "817",
-            "ENG": "SAAB",
-            "TWN": "SAAB",
-            "JPN": "SAAB",
-            "ITL": "SAAB"
-        },
-        {
-            "class_id": "818",
-            "ENG": "SANOS",
-            "TWN": "SANOS",
-            "JPN": "SANOS",
-            "ITL": "SANOS"
-        },
-        {
-            "class_id": "900",
-            "ENG": "Plate",
-            "TWN": "車牌",
-            "JPN": "ナンバープレート",
-            "ITL": "Targa"
-        },
-        {
-            "class_id": "996",
-            "ENG": "Lader object car",
-            "TWN": "雷達物件-車",
-            "JPN": "レーダーオブジェクトカート",
-            "ITL": "Oggetto radar - auto"
-        },
-        {
-            "class_id": "997",
-            "ENG": "Lader object human",
-            "TWN": "雷達物件-人",
-            "JPN": "レーダー",
-            "ITL": "Oggetto radar - persone"
-        },
-        {
-            "class_id": "999",
-            "ENG": "Unknow object",
-            "TWN": "未知物件",
-            "JPN": "不明なオブジェクト",
-            "ITL": "Oggetto sconosciuto"
-        }
-    ]
+"LILINObject":[
+ {
+  "class_id": 0,
+  "ENG": "Person",
+  "TWN": "人",
+  "JPN": "人",
+  "ITL": "Persona"
+ },
+ {
+  "class_id": 1,
+  "ENG": "Bicycle",
+  "TWN": "腳踏車",
+  "JPN": "自転車",
+  "ITL": "Bicicletta"
+ },
+ {
+  "class_id": 2,
+  "ENG": "Car",
+  "TWN": "汽車",
+  "JPN": "車",
+  "ITL": "Macchina"
+ },
+ {
+  "class_id": 3,
+  "ENG": "Motorbike",
+  "TWN": "摩托車",
+  "JPN": "バイク",
+  "ITL": "Moto"
+ },
+ {
+  "class_id": 4,
+  "ENG": "Aeroplane",
+  "TWN": "飛機",
+  "JPN": "飛行機",
+  "ITL": "Aereo"
+ },
+ {
+  "class_id": 5,
+  "ENG": "Bus",
+  "TWN": "公共汽車",
+  "JPN": "バス",
+  "ITL": "Autobus"
+ },
+ {
+  "class_id": 6,
+  "ENG": "Train",
+  "TWN": "火車",
+  "JPN": "列車",
+  "ITL": "Treno"
+ },
+ {
+  "class_id": 7,
+  "ENG": "Truck",
+  "TWN": "貨車",
+  "JPN": "トラック",
+  "ITL": "Camion"
+ },
+ {
+  "class_id": 8,
+  "ENG": "Boat",
+  "TWN": "船",
+  "JPN": "ボート",
+  "ITL": "Barca"
+ },
+ {
+  "class_id": 9,
+  "ENG": "Traffic light",
+  "TWN": "紅綠燈",
+  "JPN": "信号機",
+  "ITL": "Semaforo"
+ },
+ {
+  "class_id": 10,
+  "ENG": "Firehydrant",
+  "TWN": "消防栓",
+  "JPN": "消火栓",
+  "ITL": "Idrante"
+ },
+ {
+  "class_id": 11,
+  "ENG": "Stopsign",
+  "TWN": "停止標誌",
+  "JPN": "一時停止標識",
+  "ITL": "Segnale di stop"
+ },
+ {
+  "class_id": 12,
+  "ENG": "Parking meter",
+  "TWN": "停車收費表",
+  "JPN": "パーキングメーター",
+  "ITL": "Parchimetro"
+ },
+ {
+  "class_id": 13,
+  "ENG": "Bench",
+  "TWN": "長凳",
+  "JPN": "ベンチ",
+  "ITL": "Panchina"
+ },
+ {
+  "class_id": 14,
+  "ENG": "Bird",
+  "TWN": "鳥",
+  "JPN": "鳥",
+  "ITL": "Uccello"
+ },
+ {
+  "class_id": 15,
+  "ENG": "Cat",
+  "TWN": "貓",
+  "JPN": "ネコ",
+  "ITL": "Gatto"
+ },
+ {
+  "class_id": 16,
+  "ENG": "Dog",
+  "TWN": "狗",
+  "JPN": "犬",
+  "ITL": "Cane"
+ },
+ {
+  "class_id": 17,
+  "ENG": "Cardboard",
+  "TWN": "瓦楞紙箱",
+  "JPN": "段ボール",
+  "ITL": "Cartone"
+ },
+ {
+  "class_id": 18,
+  "ENG": "Sheep",
+  "TWN": "羊",
+  "JPN": "羊",
+  "ITL": "Pecore"
+ },
+ {
+  "class_id": 19,
+  "ENG": "Plastic bag",
+  "TWN": "塑膠袋",
+  "JPN": "ビニール袋",
+  "ITL": "Sacchetto di plastica"
+ },
+ {
+  "class_id": 20,
+  "ENG": "Paper bag",
+  "TWN": "紙袋",
+  "JPN": "紙袋",
+  "ITL": "Busta di carta"
+ },
+ {
+  "class_id": 21,
+  "ENG": "Battery",
+  "TWN": "電池",
+  "JPN": "バッテリー",
+  "ITL": "Batteria"
+ },
+ {
+  "class_id": 22,
+  "ENG": "Drinking can",
+  "TWN": "飲料罐",
+  "JPN": "飲料缶",
+  "ITL": "Lattina per bere"
+ },
+ {
+  "class_id": 23,
+  "ENG": "Plastic box",
+  "TWN": "塑膠盒",
+  "JPN": "プラスチックの箱",
+  "ITL": "Scatola di plastica"
+ },
+ {
+  "class_id": 24,
+  "ENG": "Backpack",
+  "TWN": "背包",
+  "JPN": "バックパック",
+  "ITL": "Zaino"
+ },
+ {
+  "class_id": 25,
+  "ENG": "Umbrella",
+  "TWN": "雨傘",
+  "JPN": "傘",
+  "ITL": "Ombrello"
+ },
+ {
+  "class_id": 26,
+  "ENG": "Handbag",
+  "TWN": "手提包",
+  "JPN": "ハンドバッグ",
+  "ITL": "Borsetta"
+ },
+ {
+  "class_id": 27,
+  "ENG": "Tie",
+  "TWN": "領帶",
+  "JPN": "ネクタイ",
+  "ITL": "Cravatta"
+ },
+ {
+  "class_id": 28,
+  "ENG": "Suitcase",
+  "TWN": "行李箱",
+  "JPN": "スーツケース",
+  "ITL": "Valigia"
+ },
+ {
+  "class_id": 29,
+  "ENG": "Frisbee",
+  "TWN": "飛盤",
+  "JPN": "フリスビー",
+  "ITL": "Frisbee"
+ },
+ {
+  "class_id": 30,
+  "ENG": "Skis",
+  "TWN": "滑雪板",
+  "JPN": "スキー板",
+  "ITL": "Sci"
+ },
+ {
+  "class_id": 31,
+  "ENG": "Snowboard",
+  "TWN": "單板滑雪",
+  "JPN": "スノーボード",
+  "ITL": "Snowboard"
+ },
+ {
+  "class_id": 32,
+  "ENG": "Sports ball",
+  "TWN": "運動球",
+  "JPN": "スポーツボール",
+  "ITL": "Palla sportiva"
+ },
+ {
+  "class_id": 33,
+  "ENG": "Kite",
+  "TWN": "風箏",
+  "JPN": "凧",
+  "ITL": "Aquilone"
+ },
+ {
+  "class_id": 34,
+  "ENG": "Baseballbat",
+  "TWN": "棒球棒",
+  "JPN": "野球用バット",
+  "ITL": "Mazza da baseball"
+ },
+ {
+  "class_id": 35,
+  "ENG": "Baseballglove",
+  "TWN": "棒球手套",
+  "JPN": "野球グローブ",
+  "ITL": "Baseballglove"
+ },
+ {
+  "class_id": 36,
+  "ENG": "Skate board",
+  "TWN": "滑板",
+  "JPN": "スケートボード",
+  "ITL": "Tavola da skate"
+ },
+ {
+  "class_id": 37,
+  "ENG": "Surfboard",
+  "TWN": "衝浪板",
+  "JPN": "サーフボード",
+  "ITL": "Tavola da surf"
+ },
+ {
+  "class_id": 38,
+  "ENG": "Tennisracket",
+  "TWN": "網球拍",
+  "JPN": "テニスラケット",
+  "ITL": "Racchetta da tennis"
+ },
+ {
+  "class_id": 39,
+  "ENG": "Bottle",
+  "TWN": "瓶子",
+  "JPN": "ボトル",
+  "ITL": "Bottiglia"
+ },
+ {
+  "class_id": 40,
+  "ENG": "Wine glass",
+  "TWN": "酒杯",
+  "JPN": "ワイングラス",
+  "ITL": "Bicchiere di vino"
+ },
+ {
+  "class_id": 41,
+  "ENG": "Cup",
+  "TWN": "杯子",
+  "JPN": "カップ",
+  "ITL": "Tazza"
+ },
+ {
+  "class_id": 42,
+  "ENG": "Fork",
+  "TWN": "叉子",
+  "JPN": "フォーク",
+  "ITL": "Forchetta"
+ },
+ {
+  "class_id": 43,
+  "ENG": "Knife",
+  "TWN": "刀子",
+  "JPN": "ナイフ",
+  "ITL": "Coltello"
+ },
+ {
+  "class_id": 44,
+  "ENG": "Spoon",
+  "TWN": "匙子",
+  "JPN": "スプーン",
+  "ITL": "Cucchiaio"
+ },
+ {
+  "class_id": 45,
+  "ENG": "Bowl",
+  "TWN": "碗",
+  "JPN": "丼鉢",
+  "ITL": "Ciotola"
+ },
+ {
+  "class_id": 46,
+  "ENG": "Banana",
+  "TWN": "香蕉",
+  "JPN": "バナナ",
+  "ITL": "Banana"
+ },
+ {
+  "class_id": 47,
+  "ENG": "Apple",
+  "TWN": "蘋果",
+  "JPN": "林檎",
+  "ITL": "Mela"
+ },
+ {
+  "class_id": 48,
+  "ENG": "Sandwich",
+  "TWN": "三明治",
+  "JPN": "サンドイッチ",
+  "ITL": "Sandwich"
+ },
+ {
+  "class_id": 49,
+  "ENG": "Orange",
+  "TWN": "橙子",
+  "JPN": "オレンジ",
+  "ITL": "arancia"
+ },
+ {
+  "class_id": 50,
+  "ENG": "Broccoli",
+  "TWN": "花椰菜",
+  "JPN": "ブロッコリ",
+  "ITL": "broccoli"
+ },
+ {
+  "class_id": 51,
+  "ENG": "Carrot",
+  "TWN": "胡蘿蔔",
+  "JPN": "にんじん",
+  "ITL": "Carota"
+ },
+ {
+  "class_id": 52,
+  "ENG": "Hotdog",
+  "TWN": "熱狗",
+  "JPN": "ホットドッグ",
+  "ITL": "Hot dog"
+ },
+ {
+  "class_id": 53,
+  "ENG": "Pizza",
+  "TWN": "比薩",
+  "JPN": "ピザ",
+  "ITL": "Pizza"
+ },
+ {
+  "class_id": 54,
+  "ENG": "Donut",
+  "TWN": "甜甜圈",
+  "JPN": "ドーナツ",
+  "ITL": "Ciambella"
+ },
+ {
+  "class_id": 55,
+  "ENG": "Cake",
+  "TWN": "蛋糕",
+  "JPN": "ケーキ",
+  "ITL": "torta"
+ },
+ {
+  "class_id": 56,
+  "ENG": "Chair",
+  "TWN": "椅子",
+  "JPN": "椅子",
+  "ITL": "Sedia"
+ },
+ {
+  "class_id": 57,
+  "ENG": "Sofa",
+  "TWN": "沙發",
+  "JPN": "ソファー",
+  "ITL": "Divano"
+ },
+ {
+  "class_id": 58,
+  "ENG": "Pottedplant",
+  "TWN": "盆栽植物",
+  "JPN": "鉢植え",
+  "ITL": "Pianta in vaso"
+ },
+ {
+  "class_id": 59,
+  "ENG": "Bed",
+  "TWN": "床",
+  "JPN": "ベッド",
+  "ITL": "Letto"
+ },
+ {
+  "class_id": 60,
+  "ENG": "Diningtable",
+  "TWN": "餐桌",
+  "JPN": "ダイニングテーブル",
+  "ITL": "Tavolo da pranzo"
+ },
+ {
+  "class_id": 61,
+  "ENG": "Toilet",
+  "TWN": "馬桶",
+  "JPN": "トイレ",
+  "ITL": "Gabinetto"
+ },
+ {
+  "class_id": 62,
+  "ENG": "TVmonitor",
+  "TWN": "電視顯示器",
+  "JPN": "TVモニター",
+  "ITL": "TVmonitor"
+ },
+ {
+  "class_id": 63,
+  "ENG": "Laptop",
+  "TWN": "筆記型電腦",
+  "JPN": "ラップトップ",
+  "ITL": "Il computer portatile"
+ },
+ {
+  "class_id": 64,
+  "ENG": "Mouse",
+  "TWN": "滑鼠",
+  "JPN": "マウス",
+  "ITL": "Topo"
+ },
+ {
+  "class_id": 65,
+  "ENG": "Remote",
+  "TWN": "遙控器",
+  "JPN": "リモート",
+  "ITL": "A distanza"
+ },
+ {
+  "class_id": 66,
+  "ENG": "Keyboard",
+  "TWN": "鍵盤",
+  "JPN": "キーボード",
+  "ITL": "Tastiera"
+ },
+ {
+  "class_id": 67,
+  "ENG": "Cellphone",
+  "TWN": "手機",
+  "JPN": "携帯電話",
+  "ITL": "Cellulare"
+ },
+ {
+  "class_id": 68,
+  "ENG": "Microwave",
+  "TWN": "微波爐",
+  "JPN": "電子レンジ",
+  "ITL": "Microonde"
+ },
+ {
+  "class_id": 69,
+  "ENG": "Oven",
+  "TWN": "烤箱",
+  "JPN": "オーブン",
+  "ITL": "Forno"
+ },
+ {
+  "class_id": 70,
+  "ENG": "Toaster",
+  "TWN": "烤麵包機",
+  "JPN": "トースター",
+  "ITL": "Tostapane"
+ },
+ {
+  "class_id": 71,
+  "ENG": "Sink",
+  "TWN": "水槽",
+  "JPN": "シンク",
+  "ITL": "Lavello"
+ },
+ {
+  "class_id": 72,
+  "ENG": "Refrigerator",
+  "TWN": "冰箱",
+  "JPN": "冷蔵庫",
+  "ITL": "Frigorifero"
+ },
+ {
+  "class_id": 73,
+  "ENG": "Book",
+  "TWN": "書",
+  "JPN": "本",
+  "ITL": "Libro"
+ },
+ {
+  "class_id": 74,
+  "ENG": "Clock",
+  "TWN": "時鐘",
+  "JPN": "時計",
+  "ITL": "Orologio"
+ },
+ {
+  "class_id": 75,
+  "ENG": "Vase",
+  "TWN": "花瓶",
+  "JPN": "花瓶",
+  "ITL": "Vaso"
+ },
+ {
+  "class_id": 76,
+  "ENG": "Scissors",
+  "TWN": "剪刀",
+  "JPN": "はさみ",
+  "ITL": "Forbici"
+ },
+ {
+  "class_id": 77,
+  "ENG": "Teddybear",
+  "TWN": "泰迪熊",
+  "JPN": "テディベア",
+  "ITL": "Orsacchiotto di peluche"
+ },
+ {
+  "class_id": 78,
+  "ENG": "Hairdryer",
+  "TWN": "吹風機",
+  "JPN": "ヘアドライヤー",
+  "ITL": "Asciugacapelli"
+ },
+ {
+  "class_id": 79,
+  "ENG": "Tooth brush",
+  "TWN": "牙刷",
+  "JPN": "歯ブラシ",
+  "ITL": "Spazzolino"
+ },
+ {
+  "class_id": 80,
+  "ENG": "No mask",
+  "TWN": "沒戴口罩",
+  "JPN": "ファスクなし",
+  "ITL": "No fask"
+ },
+ {
+  "class_id": 81,
+  "ENG": "Half mask",
+  "TWN": "半戴口罩",
+  "JPN": "ハーフマスク",
+  "ITL": "Mezza maschera"
+ },
+ {
+  "class_id": 82,
+  "ENG": "Mask",
+  "TWN": "戴口罩",
+  "JPN": "マスク",
+  "ITL": "Maschera"
+ },
+ {
+  "class_id": 83,
+  "ENG": "Fire engine",
+  "TWN": "消防車",
+  "JPN": "消防車",
+  "ITL": "Autopompa antincendio"
+ },
+ {
+  "class_id": 84,
+  "ENG": "Sedan",
+  "TWN": "轎車",
+  "JPN": "セダン",
+  "ITL": "Berlina"
+ },
+ {
+  "class_id": 85,
+  "ENG": "Van",
+  "TWN": "廂形車",
+  "JPN": "ヴァン",
+  "ITL": "Van"
+ },
+ {
+  "class_id": 86,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 87,
+  "ENG": "Gate",
+  "TWN": "閘道",
+  "JPN": "ゲート",
+  "ITL": "cancello"
+ },
+ {
+  "class_id": 88,
+  "ENG": "TUK TUK",
+  "TWN": "嘟嘟車",
+  "JPN": "トゥクトゥク",
+  "ITL": "TUK TUK"
+ },
+ {
+  "class_id": 89,
+  "ENG": "Truck trailer",
+  "TWN": "聯結車",
+  "JPN": "トラックトレーラー",
+  "ITL": "Rimorchio per camion"
+ },
+ {
+  "class_id": 90,
+  "ENG": "Pickup truck",
+  "TWN": "皮卡車",
+  "JPN": "ピックアップトラック",
+  "ITL": "Camioncino"
+ },
+ {
+  "class_id": 91,
+  "ENG": "No helmet (face)",
+  "TWN": "沒戴安全帽",
+  "JPN": "ヘルメットなし",
+  "ITL": "Nessun casco"
+ },
+ {
+  "class_id": 92,
+  "ENG": "Helmet",
+  "TWN": "戴安全帽",
+  "JPN": "ヘルメット",
+  "ITL": "Casco"
+ },
+ {
+  "class_id": 93,
+  "ENG": "Vest",
+  "TWN": "工安背心",
+  "JPN": "ベスト",
+  "ITL": "Veste"
+ },
+ {
+  "class_id": 94,
+  "ENG": "Glass",
+  "TWN": "配戴眼鏡",
+  "JPN": "配戴眼鏡",
+  "ITL": "Nessun giubbotto"
+ },
+ {
+  "class_id": 95,
+  "ENG": "No vest",
+  "TWN": "沒帶工安背心",
+  "JPN": "ベストなし",
+  "ITL": "senza giubbotto"
+ },
+ {
+  "class_id": 96,
+  "ENG": "Robber mask",
+  "TWN": "強盜面具",
+  "JPN": "強盗マスク",
+  "ITL": "Maschera da ladro"
+ },
+ {
+  "class_id": 97,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 98,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 99,
+  "ENG": "Cigarette",
+  "TWN": "香菸",
+  "JPN": "シガレット",
+  "ITL": "Sigaretta"
+ },
+ {
+  "class_id": 100,
+  "ENG": "Coke",
+  "TWN": "可口可樂",
+  "JPN": "コークス",
+  "ITL": "Coca Cola"
+ },
+ {
+  "class_id": 101,
+  "ENG": "Sprite",
+  "TWN": "雪碧",
+  "JPN": "スプライト",
+  "ITL": "Sprite"
+ },
+ {
+  "class_id": 102,
+  "ENG": "Paper sheet",
+  "TWN": "薄紙張",
+  "JPN": "紙",
+  "ITL": "Carta"
+ },
+ {
+  "class_id": 103,
+  "ENG": "Police car",
+  "TWN": "警車",
+  "JPN": "警察車両",
+  "ITL": "Auto della polizia"
+ },
+ {
+  "class_id": 104,
+  "ENG": "Ambulance",
+  "TWN": "救護車",
+  "JPN": "救急車",
+  "ITL": "Ambulanza"
+ },
+ {
+  "class_id": 105,
+  "ENG": "Smoke detection",
+  "TWN": "偵煙",
+  "JPN": "スモッグ",
+  "ITL": "Rilevamento di fumo"
+ },
+ {
+  "class_id": 106,
+  "ENG": "Fire detection",
+  "TWN": "偵火",
+  "JPN": "火焰走照",
+  "ITL": "Rilevazione incendi"
+ },
+ {
+  "class_id": 107,
+  "ENG": "Smog",
+  "TWN": "排氣管排煙",
+  "JPN": "スモッグ",
+  "ITL": "Smog"
+ },
+ {
+  "class_id": 108,
+  "ENG": "Lamp smoke effect",
+  "TWN": "燈光煙霧效果",
+  "JPN": "スモッグ",
+  "ITL": "Smog"
+ },
+ {
+  "class_id": 109,
+  "ENG": "Box",
+  "TWN": "紙箱",
+  "JPN": "ボックス",
+  "ITL": "Scatola"
+ },
+ {
+  "class_id": 110,
+  "ENG": "Pantograph",
+  "TWN": "集電弓",
+  "JPN": "パンタグラフ",
+  "ITL": "Pantografo"
+ },
+ {
+  "class_id": 111,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 112,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 113,
+  "ENG": "Ladder",
+  "TWN": "樓梯",
+  "JPN": "はしご",
+  "ITL": "Scala"
+ },
+ {
+  "class_id": 114,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 115,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 116,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 117,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 118,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 119,
+  "ENG": "手",
+  "TWN": "Hand",
+  "JPN": "手",
+  "ITL": "Mano"
+ },
+ {
+  "class_id": 120,
+  "ENG": "Angry",
+  "TWN": "生氣",
+  "JPN": "怒っている",
+  "ITL": "Arrabbiato"
+ },
+ {
+  "class_id": 121,
+  "ENG": "Disgust",
+  "TWN": "噁心",
+  "JPN": "嫌悪",
+  "ITL": "Disgusto"
+ },
+ {
+  "class_id": 122,
+  "ENG": "Fear",
+  "TWN": "恐懼",
+  "JPN": "恐れ",
+  "ITL": "Paura"
+ },
+ {
+  "class_id": 123,
+  "ENG": "Happy",
+  "TWN": "高興",
+  "JPN": "ハッピー",
+  "ITL": "Contento"
+ },
+ {
+  "class_id": 124,
+  "ENG": "Sad",
+  "TWN": "難過",
+  "JPN": "悲しい",
+  "ITL": "Triste"
+ },
+ {
+  "class_id": 125,
+  "ENG": "Surprise",
+  "TWN": "驚訝",
+  "JPN": "驚き",
+  "ITL": "Sorpresa"
+ },
+ {
+  "class_id": 126,
+  "ENG": "Neutral",
+  "TWN": "無表情",
+  "JPN": "中性",
+  "ITL": "Neutro"
+ },
+ {
+  "class_id": 127,
+  "ENG": "Eye open",
+  "TWN": "睜眼"
+ },
+ {
+  "class_id": 128,
+  "ENG": "Eye close",
+  "TWN": "睡眼"
+ },
+ {
+  "class_id": 129,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 130,
+  "ENG": "Cloth",
+  "TWN": "衣服",
+  "JPN": "衣類",
+  "ITL": "Vestiario"
+ },
+ {
+  "class_id": 131,
+  "ENG": "Bulldozer",
+  "TWN": "推土車",
+  "JPN": "ブルドーザー",
+  "ITL": "Bulldozer"
+ },
+ {
+  "class_id": 132,
+  "ENG": "Stacker",
+  "TWN": "堆高機",
+  "JPN": "スタッカー",
+  "ITL": "che impila"
+ },
+ {
+  "class_id": 133,
+  "ENG": "Excavator",
+  "TWN": "挖土機",
+  "JPN": "掘削機",
+  "ITL": "Escavatore"
+ },
+ {
+  "class_id": 134,
+  "ENG": "Tanker",
+  "TWN": "油罐車",
+  "JPN": "タンクローリー",
+  "ITL": "Autocisterna"
+ },
+ {
+  "class_id": 135,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 136,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 137,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 138,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 139,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 140,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 141,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 142,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 143,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 144,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 145,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 146,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 147,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 148,
+  "ENG": "Tire",
+  "TWN": "輪胎",
+  "JPN": "タイヤ",
+  "ITL": "Pneumatico\npneumatico"
+ },
+ {
+  "class_id": 149,
+  "ENG": "Pen plastic stick",
+  "TWN": "筆或塑膠棒",
+  "JPN": "プラスチックの棒",
+  "ITL": "Penna o bastoncino di plastica"
+ },
+ {
+  "class_id": 150,
+  "ENG": "CoastGuard",
+  "TWN": "海岸警衛隊",
+  "JPN": "沿岸警備隊",
+  "ITL": "Guardia Costiera"
+ },
+ {
+  "class_id": 151,
+  "ENG": "Cargo",
+  "TWN": "遠洋貨輪",
+  "JPN": "海上貨物船",
+  "ITL": "Carico"
+ },
+ {
+  "class_id": 152,
+  "ENG": "Cruise",
+  "TWN": "郵輪",
+  "JPN": "クルーズ",
+  "ITL": "Crociera"
+ },
+ {
+  "class_id": 153,
+  "ENG": "Ferry ",
+  "TWN": "渡輪",
+  "JPN": "フェリー",
+  "ITL": "Traghetto"
+ },
+ {
+  "class_id": 154,
+  "ENG": "Freight",
+  "TWN": "貨運船",
+  "JPN": "貨物船",
+  "ITL": "Trasporto"
+ },
+ {
+  "class_id": 155,
+  "ENG": "Gondola",
+  "TWN": "貢多拉",
+  "JPN": "ゴンドラ",
+  "ITL": "Gondola"
+ },
+ {
+  "class_id": 156,
+  "ENG": "Inflatable",
+  "TWN": "充氣船",
+  "JPN": "インフレータブル",
+  "ITL": "Gonfiabile"
+ },
+ {
+  "class_id": 157,
+  "ENG": "Kayak",
+  "TWN": "皮艇",
+  "JPN": "カヤック",
+  "ITL": "Kayak"
+ },
+ {
+  "class_id": 158,
+  "ENG": "Sailboat",
+  "TWN": "帆船",
+  "JPN": "ヨット",
+  "ITL": "Barca a vela"
+ },
+ {
+  "class_id": 159,
+  "ENG": "Tug",
+  "TWN": "拖船",
+  "JPN": "タグボート",
+  "ITL": "Tirare"
+ },
+ {
+  "class_id": 160,
+  "ENG": "Warship",
+  "TWN": "軍艦",
+  "JPN": "軍艦",
+  "ITL": "Nave da guerra"
+ },
+ {
+  "class_id": 161,
+  "ENG": "Fishing",
+  "TWN": "漁船",
+  "JPN": "漁船",
+  "ITL": "Pesca"
+ },
+ {
+  "class_id": 162,
+  "ENG": "Carrier",
+  "TWN": "航空母艦",
+  "JPN": "空母",
+  "ITL": "Vettore"
+ },
+ {
+  "class_id": 163,
+  "ENG": "Yacht",
+  "TWN": "遊艇",
+  "JPN": "ヨット",
+  "ITL": "Yacht"
+ },
+ {
+  "class_id": 164,
+  "ENG": "Jetski",
+  "TWN": "水上摩托車",
+  "JPN": "ジェットスキー",
+  "ITL": "Jetski"
+ },
+ {
+  "class_id": 165,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 166,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 167,
+  "ENG": "Bear",
+  "TWN": "熊",
+  "JPN": "クマ",
+  "ITL": "Orso"
+ },
+ {
+  "class_id": 168,
+  "ENG": "Brown bear",
+  "TWN": "棕熊",
+  "JPN": "ヒグマ",
+  "ITL": "orso bruno"
+ },
+ {
+  "class_id": 169,
+  "ENG": "Bull",
+  "TWN": "公牛",
+  "JPN": "ブル",
+  "ITL": "Toro"
+ },
+ {
+  "class_id": 170,
+  "ENG": "Butterfly",
+  "TWN": "蝴蝶",
+  "JPN": "蝶",
+  "ITL": "La farfalla"
+ },
+ {
+  "class_id": 171,
+  "ENG": "Camel",
+  "TWN": "駱駝",
+  "JPN": "キャメル",
+  "ITL": "Cammello"
+ },
+ {
+  "class_id": 172,
+  "ENG": "Canary",
+  "TWN": "金絲雀",
+  "JPN": "カナリア",
+  "ITL": "Canarino"
+ },
+ {
+  "class_id": 173,
+  "ENG": "Caterpillar",
+  "TWN": "毛蟲",
+  "JPN": "キャタピラー",
+  "ITL": "bruco"
+ },
+ {
+  "class_id": 174,
+  "ENG": "Cattle",
+  "TWN": "牛",
+  "JPN": "牛",
+  "ITL": "Bestiame"
+ },
+ {
+  "class_id": 175,
+  "ENG": "Centipede",
+  "TWN": "蜈",
+  "JPN": "ムカデ",
+  "ITL": "Centopiedi"
+ },
+ {
+  "class_id": 176,
+  "ENG": "Cheetah",
+  "TWN": "獵豹",
+  "JPN": "チーター",
+  "ITL": "ghepardo"
+ },
+ {
+  "class_id": 177,
+  "ENG": "Chicken",
+  "TWN": "雞",
+  "JPN": "鶏",
+  "ITL": "Pollo"
+ },
+ {
+  "class_id": 178,
+  "ENG": "Crab",
+  "TWN": "螃蟹",
+  "JPN": "カニ",
+  "ITL": "Granchio"
+ },
+ {
+  "class_id": 179,
+  "ENG": "Crocodile",
+  "TWN": "鱷魚",
+  "JPN": "クロコダイル",
+  "ITL": "Coccodrillo"
+ },
+ {
+  "class_id": 180,
+  "ENG": "Deer",
+  "TWN": "鹿",
+  "JPN": "鹿",
+  "ITL": "Cervo"
+ },
+ {
+  "class_id": 181,
+  "ENG": "Duck",
+  "TWN": "鴨子",
+  "JPN": "アヒル",
+  "ITL": "Anatra"
+ },
+ {
+  "class_id": 182,
+  "ENG": "Eagle",
+  "TWN": "鷹",
+  "JPN": "鷲",
+  "ITL": "Aquila"
+ },
+ {
+  "class_id": 183,
+  "ENG": "Elephant",
+  "TWN": "大象",
+  "JPN": "象",
+  "ITL": "Elefante"
+ },
+ {
+  "class_id": 184,
+  "ENG": "Fish",
+  "TWN": "魚",
+  "JPN": "魚",
+  "ITL": "Pesce"
+ },
+ {
+  "class_id": 185,
+  "ENG": "Fox",
+  "TWN": "狐狸",
+  "JPN": "狐",
+  "ITL": "Volpe"
+ },
+ {
+  "class_id": 186,
+  "ENG": "Frog",
+  "TWN": "青蛙",
+  "JPN": "蛙",
+  "ITL": "Rana"
+ },
+ {
+  "class_id": 187,
+  "ENG": "Giraffe",
+  "TWN": "長頸鹿",
+  "JPN": "キリン",
+  "ITL": "Giraffa"
+ },
+ {
+  "class_id": 188,
+  "ENG": "Goat",
+  "TWN": "山羊",
+  "JPN": "ヤギ",
+  "ITL": "Capra"
+ },
+ {
+  "class_id": 189,
+  "ENG": "Goldfish",
+  "TWN": "金魚",
+  "JPN": "金魚",
+  "ITL": "pesce rosso"
+ },
+ {
+  "class_id": 190,
+  "ENG": "Goose",
+  "TWN": "鵝",
+  "JPN": "ガチョウ",
+  "ITL": "Oca"
+ },
+ {
+  "class_id": 191,
+  "ENG": "Hamster",
+  "TWN": "倉鼠",
+  "JPN": "ハムスター",
+  "ITL": "Criceto"
+ },
+ {
+  "class_id": 192,
+  "ENG": "Harbor seal",
+  "TWN": "海豹",
+  "JPN": "ゼニガタアザラシ",
+  "ITL": "foca del porto"
+ },
+ {
+  "class_id": 193,
+  "ENG": "Hedgehog",
+  "TWN": "刺猬",
+  "JPN": "ハリネズミ",
+  "ITL": "Riccio"
+ },
+ {
+  "class_id": 194,
+  "ENG": "Hippopotamus",
+  "TWN": "河馬",
+  "JPN": "カバ",
+  "ITL": "Ippopotamo"
+ },
+ {
+  "class_id": 195,
+  "ENG": "Horse",
+  "TWN": "馬",
+  "JPN": "馬",
+  "ITL": "Cavallo"
+ },
+ {
+  "class_id": 196,
+  "ENG": "Jaguar",
+  "TWN": "捷豹",
+  "JPN": "ジャガー",
+  "ITL": "Giaguaro"
+ },
+ {
+  "class_id": 197,
+  "ENG": "Jellyfish",
+  "TWN": "海蜇",
+  "JPN": "クラゲ",
+  "ITL": "Medusa"
+ },
+ {
+  "class_id": 198,
+  "ENG": "Kangaroo",
+  "TWN": "袋鼠",
+  "JPN": "カンガルー",
+  "ITL": "Canguro"
+ },
+ {
+  "class_id": 199,
+  "ENG": "Koala",
+  "TWN": "考拉",
+  "JPN": "コアラ",
+  "ITL": "Koala"
+ },
+ {
+  "class_id": 200,
+  "ENG": "Ladybug",
+  "TWN": "瓢蟲",
+  "JPN": "てんとう虫",
+  "ITL": "Coccinella"
+ },
+ {
+  "class_id": 201,
+  "ENG": "Leopard",
+  "TWN": "豹",
+  "JPN": "ヒョウ",
+  "ITL": "Leopardo"
+ },
+ {
+  "class_id": 202,
+  "ENG": "Lion",
+  "TWN": "獅子",
+  "JPN": "ライオン",
+  "ITL": "Leone"
+ },
+ {
+  "class_id": 203,
+  "ENG": "Lizard",
+  "TWN": "蜥蜴",
+  "JPN": "トカゲ",
+  "ITL": "Lucertola"
+ },
+ {
+  "class_id": 204,
+  "ENG": "Lynx",
+  "TWN": "山貓",
+  "JPN": "リンクス",
+  "ITL": "Lince"
+ },
+ {
+  "class_id": 205,
+  "ENG": "Magpie",
+  "TWN": "鵲",
+  "JPN": "マグパイ",
+  "ITL": "Gazza"
+ },
+ {
+  "class_id": 206,
+  "ENG": "Monkey",
+  "TWN": "猴",
+  "JPN": "猿",
+  "ITL": "Scimmia"
+ },
+ {
+  "class_id": 207,
+  "ENG": "Moths and butterflies",
+  "TWN": "飛蛾和蝴蝶",
+  "JPN": "蛾と蝶",
+  "ITL": "Falene e farfalle"
+ },
+ {
+  "class_id": 208,
+  "ENG": "Mouse",
+  "TWN": "鼠",
+  "JPN": "ねずみ",
+  "ITL": "Topo"
+ },
+ {
+  "class_id": 209,
+  "ENG": "Mule",
+  "TWN": "騾子",
+  "JPN": "ラバ",
+  "ITL": "Mulo"
+ },
+ {
+  "class_id": 210,
+  "ENG": "Ostrich",
+  "TWN": "鴕鳥",
+  "JPN": "ダチョウ",
+  "ITL": "Struzzo"
+ },
+ {
+  "class_id": 211,
+  "ENG": "Otter",
+  "TWN": "獺",
+  "JPN": "カワウソ",
+  "ITL": "lontra"
+ },
+ {
+  "class_id": 212,
+  "ENG": "Owl",
+  "TWN": "貓頭鷹",
+  "JPN": "フクロウ",
+  "ITL": "Gufo"
+ },
+ {
+  "class_id": 213,
+  "ENG": "Panda",
+  "TWN": "熊貓",
+  "JPN": "パンダ",
+  "ITL": "Panda"
+ },
+ {
+  "class_id": 214,
+  "ENG": "Parrot",
+  "TWN": "鸚鵡",
+  "JPN": "オウム",
+  "ITL": "Pappagallo"
+ },
+ {
+  "class_id": 215,
+  "ENG": "Penguin",
+  "TWN": "企鵝",
+  "JPN": "ペンギン",
+  "ITL": "Pinguino"
+ },
+ {
+  "class_id": 216,
+  "ENG": "Pig",
+  "TWN": "豬",
+  "JPN": "豚",
+  "ITL": "Maiale"
+ },
+ {
+  "class_id": 217,
+  "ENG": "Polar bear",
+  "TWN": "北極熊",
+  "JPN": "ホッキョクグマ",
+  "ITL": "Orso polare"
+ },
+ {
+  "class_id": 218,
+  "ENG": "Rabbit",
+  "TWN": "兔子",
+  "JPN": "うさぎ",
+  "ITL": "Coniglio"
+ },
+ {
+  "class_id": 219,
+  "ENG": "Raccoon",
+  "TWN": "狸",
+  "JPN": "ラクーン",
+  "ITL": "Procione"
+ },
+ {
+  "class_id": 220,
+  "ENG": "Raven",
+  "TWN": "掠奪",
+  "JPN": "カラス",
+  "ITL": "Corvo"
+ },
+ {
+  "class_id": 221,
+  "ENG": "Red panda",
+  "TWN": "小熊貓",
+  "JPN": "レッサーパンダ",
+  "ITL": "Panda rosso"
+ },
+ {
+  "class_id": 222,
+  "ENG": "Rhinoceros",
+  "TWN": "犀牛",
+  "JPN": "サイ",
+  "ITL": "Rinoceronte"
+ },
+ {
+  "class_id": 223,
+  "ENG": "Scorpion",
+  "TWN": "蠍",
+  "JPN": "サソリ",
+  "ITL": "Scorpione"
+ },
+ {
+  "class_id": 224,
+  "ENG": "Sea lion",
+  "TWN": "海獅",
+  "JPN": "アシカ",
+  "ITL": "Leone marino"
+ },
+ {
+  "class_id": 225,
+  "ENG": "Sea turtle",
+  "TWN": "海龜",
+  "JPN": "ウミガメ",
+  "ITL": "Tartaruga di mare"
+ },
+ {
+  "class_id": 226,
+  "ENG": "Seahorse",
+  "TWN": "海馬",
+  "JPN": "タツノオトシゴ",
+  "ITL": "Cavalluccio marino"
+ },
+ {
+  "class_id": 227,
+  "ENG": "Shark",
+  "TWN": "鯊魚",
+  "JPN": "鮫",
+  "ITL": "Squalo"
+ },
+ {
+  "class_id": 228,
+  "ENG": "Sheep",
+  "TWN": "羊",
+  "JPN": "羊",
+  "ITL": "Pecora"
+ },
+ {
+  "class_id": 229,
+  "ENG": "Shrimp",
+  "TWN": "蝦",
+  "JPN": "エビ",
+  "ITL": "Gambero"
+ },
+ {
+  "class_id": 230,
+  "ENG": "Snail",
+  "TWN": "蝸牛",
+  "JPN": "カタツムリ",
+  "ITL": "Lumaca"
+ },
+ {
+  "class_id": 231,
+  "ENG": "Snake",
+  "TWN": "蛇",
+  "JPN": "蛇",
+  "ITL": "Serpente"
+ },
+ {
+  "class_id": 232,
+  "ENG": "Sparrow",
+  "TWN": "麻雀",
+  "JPN": "スズメ",
+  "ITL": "Passero"
+ },
+ {
+  "class_id": 233,
+  "ENG": "Spider",
+  "TWN": "蜘蛛",
+  "JPN": "クモ",
+  "ITL": "Ragno"
+ },
+ {
+  "class_id": 234,
+  "ENG": "Squid",
+  "TWN": "烏賊",
+  "JPN": "イカ",
+  "ITL": "Calamaro"
+ },
+ {
+  "class_id": 235,
+  "ENG": "Squirrel",
+  "TWN": "松鼠",
+  "JPN": "リス",
+  "ITL": "Scoiattolo"
+ },
+ {
+  "class_id": 236,
+  "ENG": "Starfish",
+  "TWN": "海星",
+  "JPN": "ヒトデ",
+  "ITL": "Stella marina"
+ },
+ {
+  "class_id": 237,
+  "ENG": "Swan",
+  "TWN": "天鵝",
+  "JPN": "白鳥",
+  "ITL": "cigno"
+ },
+ {
+  "class_id": 238,
+  "ENG": "Tick",
+  "TWN": "打鉤",
+  "JPN": "ダニ",
+  "ITL": "Tic Tac"
+ },
+ {
+  "class_id": 239,
+  "ENG": "Tiger",
+  "TWN": "老虎",
+  "JPN": "虎",
+  "ITL": "Tigre"
+ },
+ {
+  "class_id": 240,
+  "ENG": "Tortoise",
+  "TWN": "烏龜",
+  "JPN": "カメ",
+  "ITL": "Tartaruga"
+ },
+ {
+  "class_id": 241,
+  "ENG": "Turkey",
+  "TWN": "火雞",
+  "JPN": "七面鳥",
+  "ITL": "tacchino"
+ },
+ {
+  "class_id": 242,
+  "ENG": "Turtle",
+  "TWN": "龜",
+  "JPN": "カメ",
+  "ITL": "Tartaruga"
+ },
+ {
+  "class_id": 243,
+  "ENG": "Whale",
+  "TWN": "鯨",
+  "JPN": "鯨",
+  "ITL": "Balena"
+ },
+ {
+  "class_id": 244,
+  "ENG": "Woodpecker",
+  "TWN": "啄木鳥",
+  "JPN": "キツツキ",
+  "ITL": "Picchio"
+ },
+ {
+  "class_id": 245,
+  "ENG": "Worm",
+  "TWN": "蟲",
+  "JPN": "いも虫",
+  "ITL": "Verme"
+ },
+ {
+  "class_id": 246,
+  "ENG": "Zebra",
+  "TWN": "斑馬",
+  "JPN": "シマウマ",
+  "ITL": "Zebra"
+ },
+ {
+  "class_id": 247,
+  "ENG": "Cat",
+  "TWN": "貓",
+  "JPN": "ネコ",
+  "ITL": "Gatto"
+ },
+ {
+  "class_id": 248,
+  "ENG": "Dog",
+  "TWN": "狗",
+  "JPN": "犬",
+  "ITL": "Cane"
+ },
+ {
+  "class_id": 300,
+  "ENG": "Nose",
+  "TWN": "鼻子",
+  "JPN": "鼻",
+  "ITL": "Naso"
+ },
+ {
+  "class_id": 301,
+  "ENG": "Left_eye",
+  "TWN": "左眼",
+  "JPN": "左目",
+  "ITL": "Occhio sinistro"
+ },
+ {
+  "class_id": 302,
+  "ENG": "Right_eye",
+  "TWN": "右眼",
+  "JPN": "右目",
+  "ITL": "Occhio destro"
+ },
+ {
+  "class_id": 303,
+  "ENG": "Left_ear",
+  "TWN": "左耳",
+  "JPN": "左耳",
+  "ITL": "Orecchio sinistro"
+ },
+ {
+  "class_id": 304,
+  "ENG": "Right_ear",
+  "TWN": "右耳",
+  "JPN": "右耳",
+  "ITL": "Orecchio destro"
+ },
+ {
+  "class_id": 305,
+  "ENG": "Left_shoulder",
+  "TWN": "左肩",
+  "JPN": "左肩",
+  "ITL": "Spalla sinistra"
+ },
+ {
+  "class_id": 306,
+  "ENG": "Right_shoulder",
+  "TWN": "右肩",
+  "JPN": "右肩",
+  "ITL": "Spalla destra"
+ },
+ {
+  "class_id": 307,
+  "ENG": "Left_elbow",
+  "TWN": "左手肘",
+  "JPN": "左ひじ",
+  "ITL": "Gomito sinistro"
+ },
+ {
+  "class_id": 308,
+  "ENG": "Right_elbow",
+  "TWN": "右手肘",
+  "JPN": "右ひじ",
+  "ITL": "Gomito destro"
+ },
+ {
+  "class_id": 309,
+  "ENG": "Left_wrist",
+  "TWN": "左手腕",
+  "JPN": "左手首",
+  "ITL": "Polso sinistro"
+ },
+ {
+  "class_id": 310,
+  "ENG": "Right_wrist",
+  "TWN": "右手腕",
+  "JPN": "右手首",
+  "ITL": "Polso destro"
+ },
+ {
+  "class_id": 311,
+  "ENG": "Hip",
+  "TWN": "臀部",
+  "JPN": "ヒップ",
+  "ITL": "Natiche"
+ },
+ {
+  "class_id": 312,
+  "ENG": "Body",
+  "TWN": "身體",
+  "JPN": "本体",
+  "ITL": "Corpo"
+ },
+ {
+  "class_id": 313,
+  "ENG": "Left_knee",
+  "TWN": "左膝",
+  "JPN": "左ひざ",
+  "ITL": "Ginocchio sinistro"
+ },
+ {
+  "class_id": 314,
+  "ENG": "Right_knee",
+  "TWN": "右膝",
+  "JPN": "右ひざ",
+  "ITL": "Ginocchio destro"
+ },
+ {
+  "class_id": 315,
+  "ENG": "Left_ankle",
+  "TWN": "左腳踝",
+  "JPN": "左足首",
+  "ITL": "Caviglia sinistra"
+ },
+ {
+  "class_id": 316,
+  "ENG": "Right_ankle",
+  "TWN": "右腳踝",
+  "JPN": "右足首",
+  "ITL": "Caviglia destra"
+ },
+ {
+  "class_id": 317,
+  "ENG": "Neck",
+  "TWN": "脖子",
+  "JPN": "首",
+  "ITL": "Collo"
+ },
+ {
+  "class_id": 500,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 501,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 502,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 503,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 504,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 505,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 506,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 507,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 508,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 509,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 510,
+  "ENG": "AstonMartin",
+  "TWN": "AstonMartin",
+  "JPN": "AstonMartin",
+  "ITL": "AstonMartin"
+ },
+ {
+  "class_id": 511,
+  "ENG": "Bentley",
+  "TWN": "賓利",
+  "JPN": "Bentley",
+  "ITL": "Bentley"
+ },
+ {
+  "class_id": 512,
+  "ENG": "Citroen",
+  "TWN": "雪鐵龍",
+  "JPN": "Citroen",
+  "ITL": "Citroen"
+ },
+ {
+  "class_id": 513,
+  "ENG": "Dodge",
+  "TWN": "道奇",
+  "JPN": "Dodge",
+  "ITL": "Dodge"
+ },
+ {
+  "class_id": 514,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 515,
+  "ENG": "Ferrari",
+  "TWN": "法拉利",
+  "JPN": "Ferrari",
+  "ITL": "Ferrari"
+ },
+ {
+  "class_id": 516,
+  "ENG": "GMC",
+  "TWN": "GMC",
+  "JPN": "GMC",
+  "ITL": "GMC"
+ },
+ {
+  "class_id": 517,
+  "ENG": "Honda",
+  "TWN": "本田",
+  "JPN": "Honda",
+  "ITL": "Honda"
+ },
+ {
+  "class_id": 518,
+  "ENG": "Infiniti",
+  "TWN": "Infiniti",
+  "JPN": "Infiniti",
+  "ITL": "Infiniti"
+ },
+ {
+  "class_id": 519,
+  "ENG": "Jaguar",
+  "TWN": "Jaguar",
+  "JPN": "Jaguar",
+  "ITL": "Jaguar"
+ },
+ {
+  "class_id": 520,
+  "ENG": "KIA",
+  "TWN": "KIA",
+  "JPN": "KIA",
+  "ITL": "KIA"
+ },
+ {
+  "class_id": 521,
+  "ENG": "Lamborghini",
+  "TWN": "藍寶堅尼",
+  "JPN": "Lamborghini",
+  "ITL": "Lamborghini"
+ },
+ {
+  "class_id": 522,
+  "ENG": "MercedesBenz",
+  "TWN": "賓士",
+  "JPN": "MercedesBenz",
+  "ITL": "MercedesBenz"
+ },
+ {
+  "class_id": 523,
+  "ENG": "Nissan",
+  "TWN": "日產",
+  "JPN": "Nissan",
+  "ITL": "Nissan"
+ },
+ {
+  "class_id": 524,
+  "ENG": "Opel",
+  "TWN": "歐寶",
+  "JPN": "Opel",
+  "ITL": "Opel"
+ },
+ {
+  "class_id": 525,
+  "ENG": "Peugeot",
+  "TWN": "Peugeot",
+  "JPN": "Peugeot",
+  "ITL": "Peugeot"
+ },
+ {
+  "class_id": 526,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 527,
+  "ENG": "Renault",
+  "TWN": "雷諾",
+  "JPN": "Renault",
+  "ITL": "Renault"
+ },
+ {
+  "class_id": 528,
+  "ENG": "Skoda",
+  "TWN": "Skoda",
+  "JPN": "Skoda",
+  "ITL": "Skoda"
+ },
+ {
+  "class_id": 529,
+  "ENG": "Tesla",
+  "TWN": "特斯拉",
+  "JPN": "Tesla",
+  "ITL": "Tesla"
+ },
+ {
+  "class_id": 530,
+  "ENG": "UD",
+  "TWN": "UD",
+  "JPN": "UD",
+  "ITL": "UD"
+ },
+ {
+  "class_id": 531,
+  "ENG": "Volkswagen",
+  "TWN": "福斯",
+  "JPN": "Volkswagen",
+  "ITL": "Volkswagen"
+ },
+ {
+  "class_id": 532,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 533,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 534,
+  "ENG": "Yugo",
+  "TWN": "Yugo",
+  "JPN": "Yugo",
+  "ITL": "Yugo"
+ },
+ {
+  "class_id": 535,
+  "ENG": "Zastava",
+  "TWN": "Zastava",
+  "JPN": "Zastava",
+  "ITL": "Zastava"
+ },
+ {
+  "class_id": 536,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 537,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 538,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 539,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 540,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 541,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 542,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 543,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 544,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 545,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 546,
+  "ENG": "Audi",
+  "TWN": "奧迪",
+  "JPN": "Audi",
+  "ITL": "Audi"
+ },
+ {
+  "class_id": 547,
+  "ENG": "BMW",
+  "TWN": "寶馬",
+  "JPN": "BMW",
+  "ITL": "BMW"
+ },
+ {
+  "class_id": 548,
+  "ENG": "Chevrolet",
+  "TWN": "雪弗蘭",
+  "JPN": "Chevrolet",
+  "ITL": "Chevrolet"
+ },
+ {
+  "class_id": 549,
+  "ENG": "Daihatsu",
+  "TWN": "Daihatsu",
+  "JPN": "Daihatsu",
+  "ITL": "Daihatsu"
+ },
+ {
+  "class_id": 550,
+  "ENG": "Dacia",
+  "TWN": "Dacia",
+  "JPN": "Dacia",
+  "ITL": "Dacia"
+ },
+ {
+  "class_id": 551,
+  "ENG": "Ford",
+  "TWN": "福特",
+  "JPN": "Ford",
+  "ITL": "Ford"
+ },
+ {
+  "class_id": 552,
+  "ENG": "Greyhound",
+  "TWN": "Greyhound",
+  "JPN": "Greyhound",
+  "ITL": "Greyhound"
+ },
+ {
+  "class_id": 553,
+  "ENG": "Hyundai",
+  "TWN": "現代",
+  "JPN": "Hyundai",
+  "ITL": "Hyundai"
+ },
+ {
+  "class_id": 554,
+  "ENG": "ISUZU",
+  "TWN": "ISUZU",
+  "JPN": "ISUZU",
+  "ITL": "ISUZU"
+ },
+ {
+  "class_id": 555,
+  "ENG": "Jeep",
+  "TWN": "吉普",
+  "JPN": "Jeep",
+  "ITL": "Jeep"
+ },
+ {
+  "class_id": 556,
+  "ENG": "KenWorth",
+  "TWN": "KenWorth",
+  "JPN": "KenWorth",
+  "ITL": "KenWorth"
+ },
+ {
+  "class_id": 557,
+  "ENG": "LandRover",
+  "TWN": "LandRover",
+  "JPN": "LandRover",
+  "ITL": "LandRover"
+ },
+ {
+  "class_id": 558,
+  "ENG": "Mahindra",
+  "TWN": "Mahindra",
+  "JPN": "Mahindra",
+  "ITL": "Mahindra"
+ },
+ {
+  "class_id": 559,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 560,
+  "ENG": "Oldsmobile",
+  "TWN": "Oldsmobile",
+  "JPN": "Oldsmobile",
+  "ITL": "Oldsmobile"
+ },
+ {
+  "class_id": 561,
+  "ENG": "Porsche",
+  "TWN": "保時捷",
+  "JPN": "Porsche",
+  "ITL": "Porsche"
+ },
+ {
+  "class_id": 562,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 563,
+  "ENG": "RollsRoyce",
+  "TWN": "RollsRoyce",
+  "JPN": "RollsRoyce",
+  "ITL": "RollsRoyce"
+ },
+ {
+  "class_id": 564,
+  "ENG": "Smart",
+  "TWN": "Smart",
+  "JPN": "Smart",
+  "ITL": "Smart"
+ },
+ {
+  "class_id": 565,
+  "ENG": "TOYOTA",
+  "TWN": "TOYOTA",
+  "JPN": "TOYOTA",
+  "ITL": "TOYOTA"
+ },
+ {
+  "class_id": 566,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 567,
+  "ENG": "VOLVO",
+  "TWN": "富豪",
+  "JPN": "VOLVO",
+  "ITL": "VOLVO"
+ },
+ {
+  "class_id": 568,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 569,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 570,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 571,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 572,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 573,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 574,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 575,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 576,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 577,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 578,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 579,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 580,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 581,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 582,
+  "ENG": "Acura",
+  "TWN": "Acura",
+  "JPN": "Acura",
+  "ITL": "Acura"
+ },
+ {
+  "class_id": 583,
+  "ENG": "Bugatti",
+  "TWN": "Bugatti",
+  "JPN": "Bugatti",
+  "ITL": "Bugatti"
+ },
+ {
+  "class_id": 584,
+  "ENG": "Chrysler",
+  "TWN": "Chrysler",
+  "JPN": "Chrysler",
+  "ITL": "Chrysler"
+ },
+ {
+  "class_id": 585,
+  "ENG": "DennisEagle",
+  "TWN": "DennisEagle",
+  "JPN": "DennisEagle",
+  "ITL": "DennisEagle"
+ },
+ {
+  "class_id": 586,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 587,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 588,
+  "ENG": "Genesis",
+  "TWN": "Genesis",
+  "JPN": "Genesis",
+  "ITL": "Genesis"
+ },
+ {
+  "class_id": 589,
+  "ENG": "Holden",
+  "TWN": "Holden",
+  "JPN": "Holden",
+  "ITL": "Holden"
+ },
+ {
+  "class_id": 590,
+  "ENG": "IVECO",
+  "TWN": "IVECO",
+  "JPN": "IVECO",
+  "ITL": "IVECO"
+ },
+ {
+  "class_id": 591,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 592,
+  "ENG": "Koenigsegg",
+  "TWN": "Koenigsegg",
+  "JPN": "Koenigsegg",
+  "ITL": "Koenigsegg"
+ },
+ {
+  "class_id": 593,
+  "ENG": "Lexus",
+  "TWN": "凌志",
+  "JPN": "Lexus",
+  "ITL": "Lexus"
+ },
+ {
+  "class_id": 594,
+  "ENG": "Mustang",
+  "TWN": "Mustang",
+  "JPN": "Mustang",
+  "ITL": "Mustang"
+ },
+ {
+  "class_id": 595,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 596,
+  "ENG": "Otokar",
+  "TWN": "Otokar",
+  "JPN": "Otokar",
+  "ITL": "Otokar"
+ },
+ {
+  "class_id": 597,
+  "ENG": "Pontiac",
+  "TWN": "龐迪亞克",
+  "JPN": "Pontiac",
+  "ITL": "Pontiac"
+ },
+ {
+  "class_id": 598,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 599,
+  "ENG": "Rover",
+  "TWN": "路虎",
+  "JPN": "Rover",
+  "ITL": "Rover"
+ },
+ {
+  "class_id": 600,
+  "ENG": "SsangYong",
+  "TWN": "雙龍",
+  "JPN": "SsangYong",
+  "ITL": "SsangYong"
+ },
+ {
+  "class_id": 601,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 602,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 603,
+  "ENG": "Viper",
+  "TWN": "Viper",
+  "JPN": "Viper",
+  "ITL": "Viper"
+ },
+ {
+  "class_id": 604,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 605,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 606,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 607,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 608,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 609,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 610,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 611,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 612,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 613,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 614,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 615,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 616,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 617,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 618,
+  "ENG": "AlfaRomeo",
+  "TWN": "愛快羅密歐",
+  "JPN": "AlfaRomeo",
+  "ITL": "AlfaRomeo"
+ },
+ {
+  "class_id": 619,
+  "ENG": "Buick",
+  "TWN": "別克",
+  "JPN": "Buick",
+  "ITL": "Buick"
+ },
+ {
+  "class_id": 620,
+  "ENG": "CMC",
+  "TWN": "CMC",
+  "JPN": "CMC",
+  "ITL": "CMC"
+ },
+ {
+  "class_id": 621,
+  "ENG": "DS_Automobiles",
+  "TWN": "DS_Automobiles",
+  "JPN": "DS_Automobiles",
+  "ITL": "DS_Automobiles"
+ },
+ {
+  "class_id": 622,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 623,
+  "ENG": "FIAT",
+  "TWN": "飛雅特",
+  "JPN": "FIAT",
+  "ITL": "FIAT"
+ },
+ {
+  "class_id": 624,
+  "ENG": "Gibson",
+  "TWN": "Gibson",
+  "JPN": "Gibson",
+  "ITL": "Gibson"
+ },
+ {
+  "class_id": 625,
+  "ENG": "Hino",
+  "TWN": "Hino",
+  "JPN": "Hino",
+  "ITL": "Hino"
+ },
+ {
+  "class_id": 626,
+  "ENG": "Irizar",
+  "TWN": "Irizar",
+  "JPN": "Irizar",
+  "ITL": "Irizar"
+ },
+ {
+  "class_id": 627,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 628,
+  "ENG": "KAMAZ",
+  "TWN": "KAMAZ",
+  "JPN": "KAMAZ",
+  "ITL": "KAMAZ"
+ },
+ {
+  "class_id": 629,
+  "ENG": "Lotus",
+  "TWN": "蓮花",
+  "JPN": "Lotus",
+  "ITL": "Lotus"
+ },
+ {
+  "class_id": 630,
+  "ENG": "MAZDA",
+  "TWN": "MAZDA",
+  "JPN": "MAZDA",
+  "ITL": "MAZDA"
+ },
+ {
+  "class_id": 631,
+  "ENG": "Mercury",
+  "TWN": "Mercury",
+  "JPN": "Mercury",
+  "ITL": "Mercury"
+ },
+ {
+  "class_id": 632,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 633,
+  "ENG": "Plymouth",
+  "TWN": "Plymouth",
+  "JPN": "Plymouth",
+  "ITL": "Plymouth"
+ },
+ {
+  "class_id": 634,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 635,
+  "ENG": "RAM",
+  "TWN": "RAM",
+  "JPN": "RAM",
+  "ITL": "RAM"
+ },
+ {
+  "class_id": 636,
+  "ENG": "SUBARU",
+  "TWN": "速霸陸",
+  "JPN": "SUBARU",
+  "ITL": "SUBARU"
+ },
+ {
+  "class_id": 637,
+  "ENG": "TATA",
+  "TWN": "TATA",
+  "JPN": "TATA",
+  "ITL": "TATA"
+ },
+ {
+  "class_id": 638,
+  "ENG": "SEAT",
+  "TWN": "SEAT",
+  "JPN": "SEAT",
+  "ITL": "SEAT"
+ },
+ {
+  "class_id": 639,
+  "ENG": "VauxhallAstra",
+  "TWN": "VauxhallAstra",
+  "JPN": "VauxhallAstra",
+  "ITL": "VauxhallAstra"
+ },
+ {
+  "class_id": 640,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 641,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 642,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 643,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 644,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 645,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 646,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 647,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 648,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 649,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 650,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 651,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 652,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 653,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 654,
+  "ENG": "Abarth",
+  "TWN": "Abarth",
+  "JPN": "Abarth",
+  "ITL": "Abarth"
+ },
+ {
+  "class_id": 655,
+  "ENG": "Borgward",
+  "TWN": "Borgward",
+  "JPN": "Borgward",
+  "ITL": "Borgward"
+ },
+ {
+  "class_id": 656,
+  "ENG": "Cadillac",
+  "TWN": "Cadillac",
+  "JPN": "Cadillac",
+  "ITL": "Cadillac"
+ },
+ {
+  "class_id": 657,
+  "ENG": "Datsun",
+  "TWN": "Datsun",
+  "JPN": "Datsun",
+  "ITL": "Datsun"
+ },
+ {
+  "class_id": 658,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 659,
+  "ENG": "Fisker",
+  "TWN": "Fisker",
+  "JPN": "Fisker",
+  "ITL": "Fisker"
+ },
+ {
+  "class_id": 660,
+  "ENG": "GWM",
+  "TWN": "GWM",
+  "JPN": "GWM",
+  "ITL": "GWM"
+ },
+ {
+  "class_id": 661,
+  "ENG": "Hummer",
+  "TWN": "悍馬",
+  "JPN": "Hummer",
+  "ITL": "Hummer"
+ },
+ {
+  "class_id": 662,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 663,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 664,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 665,
+  "ENG": "Luxgen",
+  "TWN": "Luxgen",
+  "JPN": "Luxgen",
+  "ITL": "Luxgen"
+ },
+ {
+  "class_id": 666,
+  "ENG": "McLaren",
+  "TWN": "McLaren",
+  "JPN": "McLaren",
+  "ITL": "McLaren"
+ },
+ {
+  "class_id": 667,
+  "ENG": "Mopar",
+  "TWN": "Mopar",
+  "JPN": "Mopar",
+  "ITL": "Mopar"
+ },
+ {
+  "class_id": 668,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 669,
+  "ENG": "Perodua",
+  "TWN": "Perodua",
+  "JPN": "Perodua",
+  "ITL": "Perodua"
+ },
+ {
+  "class_id": 670,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 671,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 672,
+  "ENG": "Suzuki",
+  "TWN": "Suzuki",
+  "JPN": "Suzuki",
+  "ITL": "Suzuki"
+ },
+ {
+  "class_id": 673,
+  "ENG": "Thunderbird",
+  "TWN": "Thunderbird",
+  "JPN": "Thunderbird",
+  "ITL": "Thunderbird"
+ },
+ {
+  "class_id": 674,
+  "ENG": "Setra",
+  "TWN": "Setra",
+  "JPN": "Setra",
+  "ITL": "Setra"
+ },
+ {
+  "class_id": 675,
+  "ENG": "Vanhool",
+  "TWN": "Vanhool",
+  "JPN": "Vanhool",
+  "ITL": "Vanhool"
+ },
+ {
+  "class_id": 676,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 677,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 678,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 679,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 680,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 681,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 682,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 683,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 684,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 685,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 686,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 687,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 688,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 689,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 690,
+  "ENG": "AustinHealey",
+  "TWN": "AustinHealey",
+  "JPN": "AustinHealey",
+  "ITL": "AustinHealey"
+ },
+ {
+  "class_id": 691,
+  "ENG": "BYD",
+  "TWN": "BYD",
+  "JPN": "BYD",
+  "ITL": "BYD"
+ },
+ {
+  "class_id": 692,
+  "ENG": "Corvette",
+  "TWN": "Corvette",
+  "JPN": "Corvette",
+  "ITL": "Corvette"
+ },
+ {
+  "class_id": 693,
+  "ENG": "Dacia",
+  "TWN": "Dacia",
+  "JPN": "Dacia",
+  "ITL": "Dacia"
+ },
+ {
+  "class_id": 694,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 695,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 696,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 697,
+  "ENG": "HSV",
+  "TWN": "HSV",
+  "JPN": "HSV",
+  "ITL": "HSV"
+ },
+ {
+  "class_id": 698,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 699,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 700,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 701,
+  "ENG": "Lincoln",
+  "TWN": "Lincoln",
+  "JPN": "Lincoln",
+  "ITL": "Lincoln"
+ },
+ {
+  "class_id": 702,
+  "ENG": "Mini",
+  "TWN": "Mini",
+  "JPN": "Mini",
+  "ITL": "Mini"
+ },
+ {
+  "class_id": 703,
+  "ENG": "Mack",
+  "TWN": "Mack",
+  "JPN": "Mack",
+  "ITL": "Mack"
+ },
+ {
+  "class_id": 704,
+  "ENG": "MobilVetta",
+  "TWN": "MobilVetta",
+  "JPN": "MobilVetta",
+  "ITL": "MobilVetta"
+ },
+ {
+  "class_id": 705,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 706,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 707,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 708,
+  "ENG": "SCANIA",
+  "TWN": "SCANIA",
+  "JPN": "SCANIA",
+  "ITL": "SCANIA"
+ },
+ {
+  "class_id": 709,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 710,
+  "ENG": "SWIFT",
+  "TWN": "SWIFT",
+  "JPN": "SWIFT",
+  "ITL": "SWIFT"
+ },
+ {
+  "class_id": 711,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 712,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 713,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 714,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 715,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 716,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 717,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 718,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 719,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 720,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 721,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 722,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 723,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 724,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 725,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 726,
+  "ENG": "Adria",
+  "TWN": "Adria",
+  "JPN": "Adria",
+  "ITL": "Adria"
+ },
+ {
+  "class_id": 727,
+  "ENG": "Bristol",
+  "TWN": "Bristol",
+  "JPN": "Bristol",
+  "ITL": "Bristol"
+ },
+ {
+  "class_id": 728,
+  "ENG": "Caetano",
+  "TWN": "Caetano",
+  "JPN": "Caetano",
+  "ITL": "Caetano"
+ },
+ {
+  "class_id": 729,
+  "ENG": "DAF",
+  "TWN": "DAF",
+  "JPN": "DAF",
+  "ITL": "DAF"
+ },
+ {
+  "class_id": 730,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 731,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 732,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 733,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 734,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 735,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 736,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 737,
+  "ENG": "Lancia",
+  "TWN": "蘭吉雅",
+  "JPN": "Lancia",
+  "ITL": "Lancia"
+ },
+ {
+  "class_id": 738,
+  "ENG": "Mitsubishi",
+  "TWN": "三菱",
+  "JPN": "Mitsubishi",
+  "ITL": "Mitsubishi"
+ },
+ {
+  "class_id": 739,
+  "ENG": "MG",
+  "TWN": "MG",
+  "JPN": "MG",
+  "ITL": "MG"
+ },
+ {
+  "class_id": 740,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 741,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 742,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 743,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 744,
+  "ENG": "Shelby",
+  "TWN": "Shelby",
+  "JPN": "Shelby",
+  "ITL": "Shelby"
+ },
+ {
+  "class_id": 745,
+  "ENG": "Sunbeam",
+  "TWN": "Sunbeam",
+  "JPN": "Sunbeam",
+  "ITL": "Sunbeam"
+ },
+ {
+  "class_id": 746,
+  "ENG": "SteyrMotors",
+  "TWN": "SteyrMotors",
+  "JPN": "SteyrMotors",
+  "ITL": "SteyrMotors"
+ },
+ {
+  "class_id": 747,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 748,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 749,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 750,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 751,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 752,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 753,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 754,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 755,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 756,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 757,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 758,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 759,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 760,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 761,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 762,
+  "ENG": "Austin",
+  "TWN": "Austin",
+  "JPN": "Austin",
+  "ITL": "Austin"
+ },
+ {
+  "class_id": 763,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 764,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 765,
+  "ENG": "Daewoo",
+  "TWN": "Daewoo",
+  "JPN": "Daewoo",
+  "ITL": "Daewoo"
+ },
+ {
+  "class_id": 766,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 767,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 768,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 769,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 770,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 771,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 772,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 773,
+  "ENG": "Lada",
+  "TWN": "Lada",
+  "JPN": "Lada",
+  "ITL": "Lada"
+ },
+ {
+  "class_id": 774,
+  "ENG": "Maserati",
+  "TWN": "Maserati",
+  "JPN": "Maserati",
+  "ITL": "Maserati"
+ },
+ {
+  "class_id": 775,
+  "ENG": "Morgan",
+  "TWN": "Morgan",
+  "JPN": "Morgan",
+  "ITL": "Morgan"
+ },
+ {
+  "class_id": 776,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 777,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 778,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 779,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 780,
+  "ENG": "Saturn",
+  "TWN": "Saturn",
+  "JPN": "Saturn",
+  "ITL": "Saturn"
+ },
+ {
+  "class_id": 781,
+  "ENG": "Spyker",
+  "TWN": "Spyker",
+  "JPN": "Spyker",
+  "ITL": "Spyker"
+ },
+ {
+  "class_id": 782,
+  "ENG": "ShuangHuan",
+  "TWN": "ShuangHuan",
+  "JPN": "ShuangHuan",
+  "ITL": "ShuangHuan"
+ },
+ {
+  "class_id": 783,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 784,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 785,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 786,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 787,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 788,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 789,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 790,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 791,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 792,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 793,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 794,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 795,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 796,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 797,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 798,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 799,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 800,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 801,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 802,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 803,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 804,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 805,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 806,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 807,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 808,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 809,
+  "ENG": "LDV",
+  "TWN": "LDV",
+  "JPN": "LDV",
+  "ITL": "LDV"
+ },
+ {
+  "class_id": 810,
+  "ENG": "Maxus",
+  "TWN": "Maxus",
+  "JPN": "Maxus",
+  "ITL": "Maxus"
+ },
+ {
+  "class_id": 811,
+  "ENG": "MAN",
+  "TWN": "MAN",
+  "JPN": "MAN",
+  "ITL": "MAN"
+ },
+ {
+  "class_id": 812,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 813,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 814,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 815,
+  "ENG": "Reserved",
+  "TWN": "Reserved",
+  "JPN": "Reserved",
+  "ITL": "Reserved"
+ },
+ {
+  "class_id": 816,
+  "ENG": "Scion",
+  "TWN": "Scion",
+  "JPN": "Scion",
+  "ITL": "Scion"
+ },
+ {
+  "class_id": 817,
+  "ENG": "SAAB",
+  "TWN": "SAAB",
+  "JPN": "SAAB",
+  "ITL": "SAAB"
+ },
+ {
+  "class_id": 818,
+  "ENG": "SANOS",
+  "TWN": "SANOS",
+  "JPN": "SANOS",
+  "ITL": "SANOS"
+ },
+ {
+  "class_id": 900,
+  "ENG": "Plate",
+  "TWN": "車牌",
+  "JPN": "ナンバープレート",
+  "ITL": "Targa"
+ },
+ {
+  "class_id": 996,
+  "ENG": "Lader object car",
+  "TWN": "雷達物件-車",
+  "JPN": "レーダーオブジェクトカート",
+  "ITL": "Oggetto radar - auto"
+ },
+ {
+  "class_id": 997,
+  "ENG": "Lader object human",
+  "TWN": "雷達物件-人",
+  "JPN": "レーダー",
+  "ITL": "Oggetto radar - persone"
+ },
+ {
+  "class_id": 999,
+  "ENG": "Unknow object",
+  "TWN": "未知物件",
+  "JPN": "不明なオブジェクト",
+  "ITL": "Oggetto sconosciuto"
+ },
+  {
+  "class_id": 1000,
+  "ENG": "ToF",
+  "TWN": "ToF",
+  "JPN": "ToF",
+  "ITL": "ToF"
+ }
+]
 }
