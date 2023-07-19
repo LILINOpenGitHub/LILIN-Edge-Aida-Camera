@@ -38,7 +38,7 @@ http://<serverIP:8592>/setconfig?ch=about_box&<unlocking key>
 Example: 
 Get license key
 
-http://192.168.0.200:8592/getconfig?ch=about_box&unlocking&nbsp&key=all
+[http://192.168.0.200:8592/getconfig?ch=about_box&unlocking key=all](http://192.168.0.200:8592/getconfig?ch=about_box&unlocking key=all)
 
 ```
 Syntax:
