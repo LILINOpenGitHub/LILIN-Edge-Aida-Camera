@@ -38,10 +38,19 @@ http://<serverIP:8592>/setconfig?ch=about_box&<unlocking key>
 Example: 
 Get license key
 
-http://192.168.0.200:8592/getconfig?ch=about_box&unlocking_key=all
+http://192.168.0.200:8592/getconfig?ch=about_box&unlocking key=all
 
 ![image](https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/images/edgeai3.jpg)
-	
+```
+Syntax:
+http://<serverIP:8592>/setconfig?ch=about_box
+```
+
+Example:
+Get all settings of the about box
+
+http://192.168.0.200:8592/getconfig?ch=about_box
+
 ### Query Aida server status
 Get Aida engine status including system ID, version, and unlocking key.
 
