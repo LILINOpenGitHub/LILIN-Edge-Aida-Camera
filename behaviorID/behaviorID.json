@@ -221,9 +221,9 @@
   "ID": "0x01000000",
   "behavior_id": "16777216",
   "ENG": "Missing or unattended object detection",
-  "TWN": "遺留物偵測 / 人員在床(ToF)",
-  "JPN": "遺失物の検出 / ベッドにいる人々(ToF)",
-  "ITL": "Rilevamento oggetto mancante / Persone a letto (ToF)"
+  "TWN": "遺留物偵測",
+  "JPN": "遺失物の検出",
+  "ITL": "Rilevamento oggetto mancante"
  },
  {
   "Trigger event": "TRIGGER_BG_LEARNING",
