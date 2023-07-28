@@ -40,6 +40,11 @@ http://<serverIP:8592>/setconfig?ch=about_box&<unlocking key>
 Syntax:
 http://<serverIP:8592>/getconfig?ch=about_box
 ```
+Example Curl:
+curl --user "admin:Pass1234" "http://192.168.26.65:8592/setconfig?ch=about_box&unlocking%20key=LQRjwOpWwk4sdRbA03eTzDvY8hjmMvkOPEJGETvI7dHAPE1i9CbUnDh1uSUX4x9BfcjbXrVqLSGM61lMa89WVgO2LKCr3lDd2aHgtdccF80="
+
+Make sure save the configuration using reload command.
+curl --user "admin:Pass1234" "http://192.168.26.65:8592/getconfig?reload=1"
 
 Example:
 Get all settings of the about box
