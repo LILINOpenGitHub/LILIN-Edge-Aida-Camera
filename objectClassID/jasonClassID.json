@@ -1865,6 +1865,90 @@
   "JPN": "首",
   "ITL": "Collo"
  },
+{
+  "class_id": 400,
+  "ENG": "Baseketball",
+  "TWN": "籃球",
+  "JPN": "バスケットボール",
+  "ITL": "Baseketball"
+ },
+ {
+  "class_id": 401,
+  "ENG": "Football",
+  "TWN": "足球",
+  "JPN": "フットボール",
+  "ITL": "Calcio"
+ },
+ {
+  "class_id": 402,
+  "ENG": "Valleyball",
+  "TWN": "排球",
+  "JPN": "バレーボール",
+  "ITL": "Pallavolo"
+ },
+ {
+  "class_id": 430,
+  "ENG": "camera",
+  "TWN": "攝影機",
+  "JPN": "カメラ",
+  "ITL": "Telecamera"
+ },
+ {
+  "class_id": 431,
+  "ENG": "barcode",
+  "TWN": "條碼",
+  "JPN": "バーコード",
+  "ITL": "Codice a barre"
+ },
+ {
+  "class_id": 432,
+  "ENG": "foam",
+  "TWN": "發泡棉",
+  "JPN": "泡沫",
+  "ITL": "Cotone espanso"
+ },
+ {
+  "class_id": 433,
+  "ENG": "box",
+  "TWN": "包裝盒",
+  "JPN": "梱包箱",
+  "ITL": "Confezione"
+ },
+ {
+  "class_id": 434,
+  "ENG": "dry_bag",
+  "TWN": "乾燥包",
+  "JPN": "ドライバッグ",
+  "ITL": "Borsa asciutta"
+ },
+ {
+  "class_id": 435,
+  "ENG": "nvr",
+  "TWN": "NVRDVR",
+  "JPN": "NVRDVR",
+  "ITL": "NVRDVR"
+ },
+ {
+  "class_id": 436,
+  "ENG": "qrcode",
+  "TWN": "QRCode",
+  "JPN": "QRコード",
+  "ITL": "QRCode"
+ },
+ {
+  "class_id": 437,
+  "ENG": "tray_empty",
+  "TWN": "空箱子",
+  "JPN": "空箱",
+  "ITL": "Scatola vuota"
+ },
+ {
+  "class_id": 438,
+  "ENG": "tray_something",
+  "TWN": "非空箱子",
+  "JPN": "空でない箱",
+  "ITL": "Scatola del veicolo"
+ },
  {
   "class_id": 500,
   "ENG": "Reserved",
