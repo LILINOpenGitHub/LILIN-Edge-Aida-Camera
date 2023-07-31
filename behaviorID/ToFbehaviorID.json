@@ -140,9 +140,9 @@
   "ID": "0x00008000",
   "behavior_id": "32768",
   "ENG": "No give way detection",
-  "TWN": "不禮讓行人 / 跌倒偵測(ToF)",
-  "JPN": "歩行者に道を譲らない / 落下検知(ToF)",
-  "ITL": "Nessun rilevamento di cedimenti / Rilevamento caduta (ToF)"
+  "TWN": "不禮讓行人",
+  "JPN": "歩行者に道を譲らない",
+  "ITL": "Nessun rilevamento di cedimenti"
  },
  {
   "Trigger event": "TRIGGER_MASK",
