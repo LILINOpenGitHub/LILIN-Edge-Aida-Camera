@@ -1930,24 +1930,24 @@
  },
  {
   "class_id": 436,
-  "ENG": "qrcode",
-  "TWN": "QRCode",
-  "JPN": "QRコード",
-  "ITL": "QRCode"
- },
- {
-  "class_id": 437,
   "ENG": "tray_empty",
   "TWN": "空箱子",
   "JPN": "空箱",
   "ITL": "Scatola vuota"
  },
  {
-  "class_id": 438,
+  "class_id": 437,
   "ENG": "tray_something",
   "TWN": "非空箱子",
   "JPN": "空でない箱",
   "ITL": "Scatola del veicolo"
+ },
+ {
+  "class_id": 438,
+  "ENG": "qrcode",
+  "TWN": "QRCode",
+  "JPN": "QRコード",
+  "ITL": "QRCode"
  },
  {
   "class_id": 500,
