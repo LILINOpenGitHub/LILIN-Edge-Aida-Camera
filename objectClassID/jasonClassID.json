@@ -834,13 +834,6 @@
   "ITL": "Reserved"
  },
  {
-  "class_id": 119,
-  "ENG": "手",
-  "TWN": "Hand",
-  "JPN": "手",
-  "ITL": "Mano"
- },
- {
   "class_id": 120,
   "ENG": "Angry",
   "TWN": "生氣",
@@ -1738,6 +1731,13 @@
   "TWN": "狗",
   "JPN": "犬",
   "ITL": "Cane"
+ },
+ {
+  "class_id": 250,
+  "ENG": "手",
+  "TWN": "Hand",
+  "JPN": "手",
+  "ITL": "Mano"
  },
  {
   "class_id": 300,
