@@ -1865,6 +1865,20 @@
   "JPN": "首",
   "ITL": "Collo"
  },
+  {
+  "class_id": 320,
+  "ENG": "Exhaust OK",
+  "TWN": "排氣管OK",
+  "JPN": "排気管OK",
+  "ITL": "Tubo di scarico OK"
+ },
+ {
+  "class_id": 321,
+  "ENG": "Exhaust NG",
+  "TWN": "排氣管NG",
+  "JPN": "排気管OK",
+  "ITL": "Tubo di scarico NG"
+ },
 {
   "class_id": 400,
   "ENG": "Baseketball",
