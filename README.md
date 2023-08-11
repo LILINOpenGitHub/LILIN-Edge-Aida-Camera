@@ -880,7 +880,7 @@ http://192.168.3.200:8592/getcounting?counter_id=5
 | ---  		|  ---  	|  
 | counter_id |  1~8 | 
 
-## Get counter names
+## Get counter's names
 After firmware Release 2.0.5.54, LILIN 7 series camera can support custom name.  A user is able to set custom counter name via web GUI, you can get the name via /get_counter_cust_name API. 
 Syntax
 ```
@@ -888,5 +888,5 @@ http://192.168.3.200:8592/get_counter_cust_name
 ```
 Example: Get the custom counter's names.
 ```
-http://192.168.3.200:8592/getcounting?counter_id=5
+http://192.168.3.200:8592/get_counter_cust_name
 ````
