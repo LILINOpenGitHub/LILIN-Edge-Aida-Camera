@@ -1,0 +1,108 @@
+{
+"Garbage":[
+ {
+  "class_id": 18,
+  "ENG": "Cardboard",
+  "TWN": "瓦楞紙板",
+  "JPN": "段ボール",
+  "ITL": "Cartone ondulato",
+  "AI Model": "Garbage"
+ },
+ {
+  "class_id": 19,
+  "ENG": "Plastic bag",
+  "TWN": "塑膠袋",
+  "JPN": "ビニール袋",
+  "ITL": "Sacchetto di plastica",
+  "AI Model": "Garbage"
+ },
+ {
+  "class_id": 20,
+  "ENG": "Paper bag",
+  "TWN": "紙袋",
+  "JPN": "紙袋",
+  "ITL": "Busta di carta",
+  "AI Model": "Garbage"
+ },
+ {
+  "class_id": 21,
+  "ENG": "Battery",
+  "TWN": "電池",
+  "JPN": "バッテリー",
+  "ITL": "Batteria",
+  "AI Model": "Garbage"
+ },
+ {
+  "class_id": 22,
+  "ENG": "Drinking can",
+  "TWN": "飲料罐",
+  "JPN": "飲料缶",
+  "ITL": "Lattina per bere",
+  "AI Model": "Garbage"
+ },
+ {
+  "class_id": 23,
+  "ENG": "Plastic box",
+  "TWN": "塑膠盒",
+  "JPN": "プラスチックの箱",
+  "ITL": "Scatola di plastica",
+  "AI Model": "Garbage"
+ },
+ {
+  "class_id": 99,
+  "ENG": "Cigarette",
+  "TWN": "香菸",
+  "JPN": "シガレット",
+  "ITL": "Sigaretta",
+  "AI Model": "Garbage"
+ },
+ {
+  "class_id": 102,
+  "ENG": "Paper sheet",
+  "TWN": "薄紙張",
+  "JPN": "紙",
+  "ITL": "Carta",
+  "AI Model": "Garbage"
+ },
+ {
+  "class_id": 130,
+  "ENG": "Cloth",
+  "TWN": "衣服",
+  "JPN": "衣類",
+  "ITL": "Vestiario",
+  "AI Model": "Garbage"
+ },
+ {
+  "class_id": 147,
+  "ENG": "Tin plate sheet",
+  "TWN": "錫箔紙類",
+  "JPN": "錫箔",
+  "ITL": "Carta stagnola",
+  "AI Model": "Garbage"
+ },
+ {
+  "class_id": 148,
+  "ENG": "Tire",
+  "TWN": "輪胎",
+  "JPN": "タイヤ",
+  "ITL": "Pneumatico",
+  "AI Model": "Garbage"
+ },
+ {
+  "class_id": 149,
+  "ENG": "Pen plastic stick",
+  "TWN": "塑膠管類",
+  "JPN": "プラスチックチューブ",
+  "ITL": "Tubo di plastica",
+  "AI Model": "Garbage"
+ },
+ {
+  "class_id": 272,
+  "ENG": "Foam",
+  "TWN": "保麗龍",
+  "JPN": "発泡スチレン",
+  "ITL": "Polistirolo",
+  "AI Model": "Garbage"
+ }
+]
+}
