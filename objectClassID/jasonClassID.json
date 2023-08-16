@@ -1740,6 +1740,13 @@
   "ITL": "Mano"
  },
  {
+  "class_id": 272,
+  "ENG": "Foam",
+  "TWN": "保麗龍",
+  "JPN": "発泡スチレン",
+  "ITL": "Polistirolo"
+ },
+ {
   "class_id": 300,
   "ENG": "Nose",
   "TWN": "鼻子",
