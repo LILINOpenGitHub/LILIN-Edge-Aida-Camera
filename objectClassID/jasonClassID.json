@@ -121,17 +121,17 @@
  },
  {
   "class_id": 17,
-  "ENG": "Cardboard",
-  "TWN": "瓦楞紙箱",
-  "JPN": "段ボール",
-  "ITL": "Cartone"
+  "ENG": "Horse",
+  "TWN": "馬",
+  "JPN": "うま",
+  "ITL": "Cavallo"
  },
  {
   "class_id": 18,
-  "ENG": "Sheep",
-  "TWN": "羊",
-  "JPN": "羊",
-  "ITL": "Pecore"
+  "ENG": "Cardboard",
+  "TWN": "瓦楞紙板",
+  "JPN": "段ボール",
+  "ITL": "Cartone ondulato"
  },
  {
   "class_id": 19,
