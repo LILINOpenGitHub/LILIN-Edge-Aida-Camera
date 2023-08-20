@@ -1873,6 +1873,13 @@
   "ITL": "Collo"
  },
   {
+  "class_id": 318,
+  "ENG": "Robber mask",
+  "TWN": "強盜面具",
+  "JPN": "強盗マスク",
+  "ITL": "Maschera da ladro"
+ },
+  {
   "class_id": 320,
   "ENG": "Exhaust OK",
   "TWN": "排氣管OK",
