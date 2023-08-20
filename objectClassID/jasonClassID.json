@@ -686,12 +686,12 @@
   "JPN": "Reserved",
   "ITL": "Reserved"
  },
- {
+{
   "class_id": 98,
-  "ENG": "Reserved",
-  "TWN": "Reserved",
-  "JPN": "Reserved",
-  "ITL": "Reserved"
+  "ENG": "Stroller",
+  "TWN": "嬰兒車",
+  "JPN": "ベビーカー",
+  "ITL": "Passeggino"
  },
  {
   "class_id": 99,
