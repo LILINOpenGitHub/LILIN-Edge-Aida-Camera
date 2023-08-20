@@ -969,26 +969,26 @@
   "JPN": "Reserved",
   "ITL": "Reserved"
  },
- {
+  {
   "class_id": 140,
-  "ENG": "Reserved",
-  "TWN": "Reserved",
-  "JPN": "Reserved",
-  "ITL": "Reserved"
+  "ENG": "Male",
+  "TWN": "男性",
+  "JPN": "男",
+  "ITL": "Maschia"
  },
  {
   "class_id": 141,
-  "ENG": "Reserved",
-  "TWN": "Reserved",
-  "JPN": "Reserved",
-  "ITL": "Reserved"
+  "ENG": "Female",
+  "TWN": "女性",
+  "JPN": "女",
+  "ITL": "Femmina"
  },
  {
   "class_id": 142,
-  "ENG": "Reserved",
-  "TWN": "Reserved",
-  "JPN": "Reserved",
-  "ITL": "Reserved"
+  "ENG": "Third",
+  "TWN": "第三性",
+  "JPN": "第三のセックス",
+  "ITL": "Terzo sesso"
  },
  {
   "class_id": 143,
