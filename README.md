@@ -261,7 +261,10 @@ http://<serverIP:8592>/getalarmmotion
 Syntax: 
 ws://<serverIP:8592>/getalarmmotion
 ```
-	
+
+```
+Syntax: 
+curl -v http://admin:Pass1234@127.0.0.1:8592/getalarmmotion
 ```
 --myboundary
 \r\n
