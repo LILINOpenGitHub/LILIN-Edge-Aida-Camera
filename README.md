@@ -264,7 +264,7 @@ ws://<serverIP:8592>/getalarmmotion
 
 ```
 Syntax: 
-curl -v http://admin:Pass1234@127.0.0.1:8592/getalarmmotion
+curl --verbose --get --http0.9 --user "admin:Pass1234" http://192.168.0.200:8592/getalarmmotion
 ```
 --myboundary
 \r\n
