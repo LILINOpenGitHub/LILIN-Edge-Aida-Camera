@@ -201,7 +201,7 @@
  {
   "Trigger event": "TRIGGER_BLOCK_LIST",
   "ID": "0x00400000",
-  "behavior_id": "‭4194304‬",
+  "behavior_id": "4194304‬",
   "ENG": "Denied access for ANPR/LPR",
   "TWN": "車牌辨識黑名單偵測",
   "JPN": "ナンバープレート認識ブラックリスト検出",
