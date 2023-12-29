@@ -55,8 +55,8 @@ http://192.168.0.200:8592/getconfig?ch=about_box
 ### Query Aida server status
 Get Aida engine status including system ID, version, and unlocking key.
 
-```
 Syntax:
+```
 http://<serverIP:8592>/server
 ```
 
@@ -780,7 +780,6 @@ http://<serverIP:8592>/snap
 To display video with watermark OSD, the API is 
 
 ![image]([https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/images/osd1.jpg])
-![image](https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/images/r7084-me5kh.gif)
 ```
 Syntax:
 http://<serverIP:8592>/setosd
