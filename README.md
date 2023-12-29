@@ -109,28 +109,30 @@ For alarm detection zone, the view setting is at 889 x 500.  The detection zone 
 ![image](https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/images/edgeai2.jpg)
 	
 ### Get configurations for Aida engine 
-```
+
 Syntax: 
+```
 http://<serverIP:8592>/getconfig?ch=all
 ```
-
-```
 Syntax: 
+```
 http://<serverIP:8592>/getconfig?ch=<ch_id>&detection_zone=<zone ID>
 ```
 Example:
+```
 http://192.168.0.200:8592/getconfig?ch=1&detection_zone=0&trigger_events=0
-
+```
 Example:
+```
 http://192.168.0.200:8592/getconfig?ch=1&detection_zone=0
-
 ```
 Syntax:
+```
 http://<serverIP:8592>/getconfig?ch=<ch_id>&detection_zone=all
 ```
 
-```
 Syntax:
+```
 /getconfig?detection_zone=all
 ```
 The setting of detection_zone
