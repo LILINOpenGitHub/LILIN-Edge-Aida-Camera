@@ -261,7 +261,7 @@ Example:
 Manufacture default including license key 
 ```
 http://192.168.0.200:8592/system?default=all
-
+```
 #  Get recognition results
 Get run-time recognition results.  Both HTTP based and websocket are supported.
 
@@ -301,7 +301,7 @@ CamTime: <TimeStamp>\r\n
 {
 "AiEngine":<JSON>
 }
-```
+
 
 | Parameter	| Value  | Description | 
 | --- |  --- |  --- | 
