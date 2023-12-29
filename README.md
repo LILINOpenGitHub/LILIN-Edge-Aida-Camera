@@ -831,7 +831,6 @@ Parameters of watermark OSD:
 # Watermark OSD with timer
 ```
 http://192.168.3.200:8592/setosdtime?osdtime=0~6
-
 ```
 
 {
