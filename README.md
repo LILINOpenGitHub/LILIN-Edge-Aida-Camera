@@ -31,13 +31,13 @@ The default camera’s HTTP port number is at http://192.168.0.200:80.  Use LILI
 ### License keys
 
 ### Set license key
-```
 Syntax:
+```
 http://<serverIP:8592>/setconfig?ch=about_box&<unlocking key>
 ```
 ### Get license key 
-```
 Syntax:
+```
 http://<serverIP:8592>/getconfig?ch=about_box
 ```
 Example Curl: <BR>
