@@ -793,7 +793,7 @@ http://<serverIP:8592>/snap
 # Watermark OSD
 To display video with watermark OSD, the API is 
 
-![image]([https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/images/osd1.jpg])
+![image](https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/images/osd1.jpg)
 
 Syntax:
 ```
