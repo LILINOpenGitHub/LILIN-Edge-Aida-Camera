@@ -217,13 +217,15 @@ http://192.168.0.200:8592/getconfig?coldobjects=all
 
 ###  Set cold object areas 
 If you experience false detection of an object, you are able to decrease the recognition rate of the object at the specific area.  We name it as cold object areas.  There are up to 8 objects can be stored in the configuration for suppress the recognition of the object.
-```
+
 Syntax:
+```
 http://<serverIP:8592>/setconfig?coldobjects&x=1900&y=4&w=2&h=2&Object=car
 ```
 Example:
+```
 http://192.168.0.200:8592/setconfig?coldobjects&x=3&y=3&w=2&h=2&Object=bicycle
-
+```
 ### Tripwire
 For setting about the tripwire, please set “enable_direction1” and “direction1”.
  
@@ -237,40 +239,44 @@ For setting about the tripwire, please set “enable_direction1” and “direct
 
 ###  Save and reload configurations for Aida engine (GYNet.exe) 
 Once the configurations are set, call the reload CGI to make the settings active.
+
+Syntax:
 ```
-Syntax: 
 http://<serverIP:8592>/getconfig?reload=1
 ```
 ### Factory default
 Set default settings of a camera including event setting, detection zone setting and HTTP post.
-```
+
 Syntax: 
+```
 http://<serverIP:8592>/system?default=1
 ```
-Example: 
+Example:
+
 Manufacture default without license key
-
+```
 http://192.168.0.200:8592/system?default=1
-
+```
 Example: 
 Manufacture default including license key 
-
+```
 http://192.168.0.200:8592/system?default=all
 
 #  Get recognition results
 Get run-time recognition results.  Both HTTP based and websocket are supported.
-```
+
 Syntax: 
+```
 http://<serverIP:8592>/getalarmmotion
 ```
 
+Syntax:
 ```
-Syntax: 
 ws://<serverIP:8592>/getalarmmotion
 ```
 
+Syntax:
 ```
-Syntax: 
 curl --verbose --get --http0.9 --user "admin:Pass1234" http://192.168.0.200:8592/getalarmmotion
 ```
 --myboundary
