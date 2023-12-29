@@ -784,8 +784,9 @@ Content-Type: image/jpeg
 ```
 
 # JPEG snapshot
-```
+
 Syntax:
+```
 http://<serverIP:8592>/snap
 ```
 
@@ -793,18 +794,21 @@ http://<serverIP:8592>/snap
 To display video with watermark OSD, the API is 
 
 ![image]([https://github.com/LILINOpenGitHub/LILIN-Edge-Aida-Camera/blob/main/images/osd1.jpg])
-```
+
 Syntax:
+```
 http://<serverIP:8592>/setosd
 ```
 # Watermark OSD Example #1
-```
+
 Example #1:
+```
 http://192.168.0.200:8592/setosd?x=50&y=50&w=350&h=250&color=0&size=28&sec=10&text=Person, 80%<BR>Black<BR>ABC123<BR>Test
 ```
 # Watermark OSD Example #2
-```
+
 Example #2
+```
 192.168.3.200:8592/setosd?id=0&x=200&y=300&w=400&h=300&color=1&size=17&ms=10000&bg=50&outline=0&text=ship,80%<BR>Black<BR>ABC123<BR>ABCDEFGHI
 ```
 Parameters of watermark OSD:
