@@ -13,73 +13,37 @@
   "Trigger event": "TRIGGER_PARKING_VIOLATION",
   "ID": "0x00000004",
   "behavior_id": "4",
-  "ENG": "Person long-time staying",
-  "TWN": "人員久進不出",
-  "JPN": "長期間人の出入りができない",
-  "ITL": "La persona resta dentro"
+  "ENG": "Detection with dwell",
+  "TWN": "禁區限時偵測",
+  "JPN": "滞在時間検知",
+  "ITL": "Rilevamento con permanenza"
  },
  {
   "Trigger event": "TRIGGER_GO_STRAIGHT",
   "ID": "0x00000008",
   "behavior_id": "8",
-  "ENG": "Personnel in & out",
-  "TWN": "人員進出偵測",
-  "JPN": "人員の出入り",
-  "ITL": "Personale dentro e fuori"
- },
- {
-  "Trigger event": "TRIGGER_WRONG_WAY",
-  "ID": "0x00000040",
-  "behavior_id": "64",
-  "ENG": "Wrong way detection",
-  "TWN": "逆向偵測 / 進入偵測",
-  "JPN": "進入禁止",
-  "ITL": "Senso vietato"
- },
- {
-  "Trigger event": "TRIGGER_SPEED_HIGH",
-  "ID": "0x00002000",
-  "behavior_id": "8192",
-  "ENG": "Over speed detection",
-  "TWN": "超速偵測",
-  "JPN": "速度検出",
-  "ITL": "Rilevamento della velocità"
- },
- {
-  "Trigger event": "TRIGGER_SPEED_LOW",
-  "ID": "0x00004000",
-  "behavior_id": "16384",
-  "ENG": "Lower speed detection",
-  "TWN": "低速偵測",
-  "JPN": "低速検出",
-  "ITL": "Rilevamento a bassa velocità"
+  "ENG": "Tripwire / Person inside",
+  "TWN": "警戒線 / 人員久進不出",
+  "JPN": "コルドン検出 / 長い間中に閉じ込められている",
+  "ITL": "Linea di allerta / Persona all'interno"
  },
  {
   "Trigger event": "TRIGGER_DISTANCE_VIOLATION",
   "ID": "0x00040000",
   "behavior_id": "262144",
-  "ENG": "Wake up",
-  "TWN": "人員起床",
-  "JPN": "スタッフが立ち上がる",
-  "ITL": "Il personale si alza"
- },
- {
-  "Trigger event": "TRIGGER_MISSING_UNATTENDED",
-  "ID": "0x01000000",
-  "behavior_id": "16777216",
-  "ENG": "Missing or unattended object detection",
-  "TWN": "遺留物偵測",
-  "JPN": "遺失物の検出",
-  "ITL": "Rilevamento oggetto mancante"
+  "ENG": "Distance violation",
+  "TWN": "距離違規偵測",
+  "JPN": "距離違反検出",
+  "ITL": "Violazione della distanza"
  },
  {
   "Trigger event": "TRIGGER_TAMPERING",
   "ID": "0x04000000",
   "behavior_id": "67108864",
-  "ENG": "Tampering detection",
-  "TWN": "防破壞偵測",
-  "JPN": "改ざん検出",
-  "ITL": "Rilevamento manomissioni"
+  "ENG": "Wake up",
+  "TWN": "人員起床",
+  "JPN": "スタッフが立ち上がる",
+  "ITL": "Il personale si alza"
  },
  {
   "Trigger event": "TRIGGER_HIGHT_VIOLATION",
@@ -107,24 +71,6 @@
   "TWN": "人員離床",
   "JPN": "人々はベッドから離れる",
   "ITL": "Le persone lasciano il letto"
- },
- {
-  "Trigger event": "TRIGGER_ALL_OBJECTS",
-  "ID": "0x40000000",
-  "behavior_id": "1073741824",
-  "ENG": "All objects detection (AND)",
-  "TWN": "物種同時存在偵測 (AND)",
-  "JPN": "すべてのオブジェクトの検出 (AND)",
-  "ITL": "Ril. di tutti gli oggetti (AND)"
- },
- {
-  "Trigger event": "TRIGGER_LACK_OF_ANY_OBJECT",
-  "ID": "0x80000000",
-  "behavior_id": "2147483648",
-  "ENG": "Lack of any object detection (NAND)",
-  "TWN": "缺少任一物種同時存在偵測 (NAND)",
-  "JPN": "オブジェクト検出の欠如 (NAND)",
-  "ITL": "Mancanza di qualsiasi ril. di oggetti (NAND)"
  }
 ]
 }
