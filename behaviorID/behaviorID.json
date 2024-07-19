@@ -23,8 +23,8 @@
   "ID": "0x00000004",
   "behavior_id": "4",
   "ENG": "Zone with dwell / parking violation",
-  "TWN": "違停偵測 / 在床偵測(ToF)",
-  "JPN": "駐車違反 / ベッド内検知(ToF)",
+  "TWN": "違停偵測",
+  "JPN": "駐車違反",
   "ITL": "Infrazione divieto sosta /Nel rilevamento del letto (ToF)"
  },
  {
