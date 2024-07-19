@@ -25,7 +25,7 @@
   "ENG": "Zone with dwell / parking violation",
   "TWN": "違停偵測",
   "JPN": "駐車違反",
-  "ITL": "Infrazione divieto sosta /Nel rilevamento del letto (ToF)"
+  "ITL": "Infrazione divieto sosta"
  },
  {
   "Trigger event": "TRIGGER_GO_STRAIGHT",
@@ -140,9 +140,9 @@
   "ID": "0x00008000",
   "behavior_id": "32768",
   "ENG": "No give way detection",
-  "TWN": "不禮讓行人 / 跌倒偵測(ToF)",
-  "JPN": "歩行者に道を譲らない / 落下検知(ToF)",
-  "ITL": "Nessun rilevamento di cedimenti / Rilevamento caduta (ToF)"
+  "TWN": "不禮讓行人",
+  "JPN": "歩行者に道を譲らない",
+  "ITL": "Nessun rilevamento di cedimenti"
  },
  {
   "Trigger event": "TRIGGER_MASK",
@@ -266,9 +266,9 @@
   "ID": "0x20000000",
   "behavior_id": "536870912",
   "ENG": "Object removal",
-  "TWN": "遺失物 / 人員離床 (ToF)",
-  "JPN": "改ざん検出 / 人々はベッドから離れる (ToF)",
-  "ITL": "Ril. Manomissioni / Le persone lasciano il letto (ToF)"
+  "TWN": "遺失物",
+  "JPN": "改ざん検出",
+  "ITL": "Ril. Manomissioni"
  },
  {
   "Trigger event": "TRIGGER_ALL_OBJECTS",
