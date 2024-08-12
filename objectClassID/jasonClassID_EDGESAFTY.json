@@ -1,0 +1,102 @@
+{
+"LILINObject":[
+ {
+  "class_id": 0,
+  "ENG": "Person",
+  "TWN": "人",
+  "JPN": "人",
+  "ITL": "Persona"
+ },
+ {
+  "class_id": 24,
+  "ENG": "Backpack",
+  "TWN": "背包",
+  "JPN": "バックパック",
+  "ITL": "Zaino"
+ },
+ {
+  "class_id": 26,
+  "ENG": "Handbag",
+  "TWN": "手提包",
+  "JPN": "ハンドバッグ",
+  "ITL": "Borsetta"
+ },
+ {
+  "class_id": 28,
+  "ENG": "Suitcase",
+  "TWN": "行李箱",
+  "JPN": "スーツケース",
+  "ITL": "Valigia"
+ },
+ {
+  "class_id": 43,
+  "ENG": "Knife",
+  "TWN": "刀子",
+  "JPN": "ナイフ",
+  "ITL": "Coltello"
+ },
+ {
+  "class_id": 91,
+  "ENG": "No helmet (face)",
+  "TWN": "沒戴安全帽",
+  "JPN": "ヘルメットなし",
+  "ITL": "Nessun casco"
+ },
+ {
+  "class_id": 92,
+  "ENG": "Helmet",
+  "TWN": "戴安全帽",
+  "JPN": "ヘルメット",
+  "ITL": "Casco"
+ },
+ {
+  "class_id": 93,
+  "ENG": "Vest",
+  "TWN": "工安背心",
+  "JPN": "ベスト",
+  "ITL": "Veste"
+ },
+ {
+  "class_id": 94,
+  "ENG": "Glass",
+  "TWN": "配戴眼鏡",
+  "JPN": "配戴眼鏡",
+  "ITL": "Nessun giubbotto"
+ },
+ {
+  "class_id": 95,
+  "ENG": "No vest",
+  "TWN": "沒帶工安背心",
+  "JPN": "ベストなし",
+  "ITL": "senza giubbotto"
+ },
+ {
+  "class_id": 96,
+  "ENG": "Gun",
+  "TWN": "槍",
+  "JPN": "銃",
+  "ITL": "Pistola"
+ },
+{
+  "class_id": 97,
+  "ENG": "Stroller",
+  "TWN": "嬰兒車",
+  "JPN": "ベビーカー",
+  "ITL": "Passeggino"
+ },
+ {
+  "class_id": 98,
+  "ENG": "Robber_mask",
+  "TWN": "搶匪面罩",
+  "JPN": "搶匪面罩",
+  "ITL": "Robber_mask"
+ },
+ {
+  "class_id": 99,
+  "ENG": "Cigarette",
+  "TWN": "香菸",
+  "JPN": "シガレット",
+  "ITL": "Sigaretta"
+ },
+]
+}

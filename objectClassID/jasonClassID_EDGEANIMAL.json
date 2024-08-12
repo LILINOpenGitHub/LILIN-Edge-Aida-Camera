@@ -1,0 +1,578 @@
+{
+"LILINObject":[
+ {
+  "class_id": 167,
+  "ENG": "Bear",
+  "TWN": "熊",
+  "JPN": "クマ",
+  "ITL": "Orso"
+ },
+ {
+  "class_id": 168,
+  "ENG": "Brown bear",
+  "TWN": "棕熊",
+  "JPN": "ヒグマ",
+  "ITL": "orso bruno"
+ },
+ {
+  "class_id": 169,
+  "ENG": "Bull",
+  "TWN": "公牛",
+  "JPN": "ブル",
+  "ITL": "Toro"
+ },
+ {
+  "class_id": 170,
+  "ENG": "Butterfly",
+  "TWN": "蝴蝶",
+  "JPN": "蝶",
+  "ITL": "La farfalla"
+ },
+ {
+  "class_id": 171,
+  "ENG": "Camel",
+  "TWN": "駱駝",
+  "JPN": "キャメル",
+  "ITL": "Cammello"
+ },
+ {
+  "class_id": 172,
+  "ENG": "Canary",
+  "TWN": "金絲雀",
+  "JPN": "カナリア",
+  "ITL": "Canarino"
+ },
+ {
+  "class_id": 173,
+  "ENG": "Caterpillar",
+  "TWN": "毛蟲",
+  "JPN": "キャタピラー",
+  "ITL": "bruco"
+ },
+ {
+  "class_id": 174,
+  "ENG": "Cattle",
+  "TWN": "牛",
+  "JPN": "牛",
+  "ITL": "Bestiame"
+ },
+ {
+  "class_id": 175,
+  "ENG": "Centipede",
+  "TWN": "蜈",
+  "JPN": "ムカデ",
+  "ITL": "Centopiedi"
+ },
+ {
+  "class_id": 176,
+  "ENG": "Cheetah",
+  "TWN": "獵豹",
+  "JPN": "チーター",
+  "ITL": "ghepardo"
+ },
+ {
+  "class_id": 177,
+  "ENG": "Chicken",
+  "TWN": "雞",
+  "JPN": "鶏",
+  "ITL": "Pollo"
+ },
+ {
+  "class_id": 178,
+  "ENG": "Crab",
+  "TWN": "螃蟹",
+  "JPN": "カニ",
+  "ITL": "Granchio"
+ },
+ {
+  "class_id": 179,
+  "ENG": "Crocodile",
+  "TWN": "鱷魚",
+  "JPN": "クロコダイル",
+  "ITL": "Coccodrillo"
+ },
+ {
+  "class_id": 180,
+  "ENG": "Deer",
+  "TWN": "鹿",
+  "JPN": "鹿",
+  "ITL": "Cervo"
+ },
+ {
+  "class_id": 181,
+  "ENG": "Duck",
+  "TWN": "鴨子",
+  "JPN": "アヒル",
+  "ITL": "Anatra"
+ },
+ {
+  "class_id": 182,
+  "ENG": "Eagle",
+  "TWN": "鷹",
+  "JPN": "鷲",
+  "ITL": "Aquila"
+ },
+ {
+  "class_id": 183,
+  "ENG": "Elephant",
+  "TWN": "大象",
+  "JPN": "象",
+  "ITL": "Elefante"
+ },
+ {
+  "class_id": 184,
+  "ENG": "Fish",
+  "TWN": "魚",
+  "JPN": "魚",
+  "ITL": "Pesce"
+ },
+ {
+  "class_id": 185,
+  "ENG": "Fox",
+  "TWN": "狐狸",
+  "JPN": "狐",
+  "ITL": "Volpe"
+ },
+ {
+  "class_id": 186,
+  "ENG": "Frog",
+  "TWN": "青蛙",
+  "JPN": "蛙",
+  "ITL": "Rana"
+ },
+ {
+  "class_id": 187,
+  "ENG": "Giraffe",
+  "TWN": "長頸鹿",
+  "JPN": "キリン",
+  "ITL": "Giraffa"
+ },
+ {
+  "class_id": 188,
+  "ENG": "Goat",
+  "TWN": "山羊",
+  "JPN": "ヤギ",
+  "ITL": "Capra"
+ },
+ {
+  "class_id": 189,
+  "ENG": "Goldfish",
+  "TWN": "金魚",
+  "JPN": "金魚",
+  "ITL": "pesce rosso"
+ },
+ {
+  "class_id": 190,
+  "ENG": "Goose",
+  "TWN": "鵝",
+  "JPN": "ガチョウ",
+  "ITL": "Oca"
+ },
+ {
+  "class_id": 191,
+  "ENG": "Hamster",
+  "TWN": "倉鼠",
+  "JPN": "ハムスター",
+  "ITL": "Criceto"
+ },
+ {
+  "class_id": 192,
+  "ENG": "Harbor seal",
+  "TWN": "海豹",
+  "JPN": "ゼニガタアザラシ",
+  "ITL": "foca del porto"
+ },
+ {
+  "class_id": 193,
+  "ENG": "Hedgehog",
+  "TWN": "刺猬",
+  "JPN": "ハリネズミ",
+  "ITL": "Riccio"
+ },
+ {
+  "class_id": 194,
+  "ENG": "Hippopotamus",
+  "TWN": "河馬",
+  "JPN": "カバ",
+  "ITL": "Ippopotamo"
+ },
+ {
+  "class_id": 195,
+  "ENG": "Horse",
+  "TWN": "馬",
+  "JPN": "馬",
+  "ITL": "Cavallo"
+ },
+ {
+  "class_id": 196,
+  "ENG": "Jaguar",
+  "TWN": "捷豹",
+  "JPN": "ジャガー",
+  "ITL": "Giaguaro"
+ },
+ {
+  "class_id": 197,
+  "ENG": "Jellyfish",
+  "TWN": "海蜇",
+  "JPN": "クラゲ",
+  "ITL": "Medusa"
+ },
+ {
+  "class_id": 198,
+  "ENG": "Kangaroo",
+  "TWN": "袋鼠",
+  "JPN": "カンガルー",
+  "ITL": "Canguro"
+ },
+ {
+  "class_id": 199,
+  "ENG": "Koala",
+  "TWN": "考拉",
+  "JPN": "コアラ",
+  "ITL": "Koala"
+ },
+ {
+  "class_id": 200,
+  "ENG": "Ladybug",
+  "TWN": "瓢蟲",
+  "JPN": "てんとう虫",
+  "ITL": "Coccinella"
+ },
+ {
+  "class_id": 201,
+  "ENG": "Leopard",
+  "TWN": "豹",
+  "JPN": "ヒョウ",
+  "ITL": "Leopardo"
+ },
+ {
+  "class_id": 202,
+  "ENG": "Lion",
+  "TWN": "獅子",
+  "JPN": "ライオン",
+  "ITL": "Leone"
+ },
+ {
+  "class_id": 203,
+  "ENG": "Lizard",
+  "TWN": "蜥蜴",
+  "JPN": "トカゲ",
+  "ITL": "Lucertola"
+ },
+ {
+  "class_id": 204,
+  "ENG": "Lynx",
+  "TWN": "山貓",
+  "JPN": "リンクス",
+  "ITL": "Lince"
+ },
+ {
+  "class_id": 205,
+  "ENG": "Magpie",
+  "TWN": "鵲",
+  "JPN": "マグパイ",
+  "ITL": "Gazza"
+ },
+ {
+  "class_id": 206,
+  "ENG": "Monkey",
+  "TWN": "猴",
+  "JPN": "猿",
+  "ITL": "Scimmia"
+ },
+ {
+  "class_id": 207,
+  "ENG": "Moths and butterflies",
+  "TWN": "飛蛾和蝴蝶",
+  "JPN": "蛾と蝶",
+  "ITL": "Falene e farfalle"
+ },
+ {
+  "class_id": 208,
+  "ENG": "Mouse",
+  "TWN": "鼠",
+  "JPN": "ねずみ",
+  "ITL": "Topo"
+ },
+ {
+  "class_id": 209,
+  "ENG": "Mule",
+  "TWN": "騾子",
+  "JPN": "ラバ",
+  "ITL": "Mulo"
+ },
+ {
+  "class_id": 210,
+  "ENG": "Ostrich",
+  "TWN": "鴕鳥",
+  "JPN": "ダチョウ",
+  "ITL": "Struzzo"
+ },
+ {
+  "class_id": 211,
+  "ENG": "Otter",
+  "TWN": "獺",
+  "JPN": "カワウソ",
+  "ITL": "lontra"
+ },
+ {
+  "class_id": 212,
+  "ENG": "Owl",
+  "TWN": "貓頭鷹",
+  "JPN": "フクロウ",
+  "ITL": "Gufo"
+ },
+ {
+  "class_id": 213,
+  "ENG": "Panda",
+  "TWN": "熊貓",
+  "JPN": "パンダ",
+  "ITL": "Panda"
+ },
+ {
+  "class_id": 214,
+  "ENG": "Parrot",
+  "TWN": "鸚鵡",
+  "JPN": "オウム",
+  "ITL": "Pappagallo"
+ },
+ {
+  "class_id": 215,
+  "ENG": "Penguin",
+  "TWN": "企鵝",
+  "JPN": "ペンギン",
+  "ITL": "Pinguino"
+ },
+ {
+  "class_id": 216,
+  "ENG": "Pig",
+  "TWN": "豬",
+  "JPN": "豚",
+  "ITL": "Maiale"
+ },
+ {
+  "class_id": 217,
+  "ENG": "Polar bear",
+  "TWN": "北極熊",
+  "JPN": "ホッキョクグマ",
+  "ITL": "Orso polare"
+ },
+ {
+  "class_id": 218,
+  "ENG": "Rabbit",
+  "TWN": "兔子",
+  "JPN": "うさぎ",
+  "ITL": "Coniglio"
+ },
+ {
+  "class_id": 219,
+  "ENG": "Raccoon",
+  "TWN": "狸",
+  "JPN": "ラクーン",
+  "ITL": "Procione"
+ },
+ {
+  "class_id": 220,
+  "ENG": "Raven",
+  "TWN": "掠奪",
+  "JPN": "カラス",
+  "ITL": "Corvo"
+ },
+ {
+  "class_id": 221,
+  "ENG": "Red panda",
+  "TWN": "小熊貓",
+  "JPN": "レッサーパンダ",
+  "ITL": "Panda rosso"
+ },
+ {
+  "class_id": 222,
+  "ENG": "Rhinoceros",
+  "TWN": "犀牛",
+  "JPN": "サイ",
+  "ITL": "Rinoceronte"
+ },
+ {
+  "class_id": 223,
+  "ENG": "Scorpion",
+  "TWN": "蠍",
+  "JPN": "サソリ",
+  "ITL": "Scorpione"
+ },
+ {
+  "class_id": 224,
+  "ENG": "Sea lion",
+  "TWN": "海獅",
+  "JPN": "アシカ",
+  "ITL": "Leone marino"
+ },
+ {
+  "class_id": 225,
+  "ENG": "Sea turtle",
+  "TWN": "海龜",
+  "JPN": "ウミガメ",
+  "ITL": "Tartaruga di mare"
+ },
+ {
+  "class_id": 226,
+  "ENG": "Seahorse",
+  "TWN": "海馬",
+  "JPN": "タツノオトシゴ",
+  "ITL": "Cavalluccio marino"
+ },
+ {
+  "class_id": 227,
+  "ENG": "Shark",
+  "TWN": "鯊魚",
+  "JPN": "鮫",
+  "ITL": "Squalo"
+ },
+ {
+  "class_id": 228,
+  "ENG": "Sheep",
+  "TWN": "羊",
+  "JPN": "羊",
+  "ITL": "Pecora"
+ },
+ {
+  "class_id": 229,
+  "ENG": "Shrimp",
+  "TWN": "蝦",
+  "JPN": "エビ",
+  "ITL": "Gambero"
+ },
+ {
+  "class_id": 230,
+  "ENG": "Snail",
+  "TWN": "蝸牛",
+  "JPN": "カタツムリ",
+  "ITL": "Lumaca"
+ },
+ {
+  "class_id": 231,
+  "ENG": "Snake",
+  "TWN": "蛇",
+  "JPN": "蛇",
+  "ITL": "Serpente"
+ },
+ {
+  "class_id": 232,
+  "ENG": "Sparrow",
+  "TWN": "麻雀",
+  "JPN": "スズメ",
+  "ITL": "Passero"
+ },
+ {
+  "class_id": 233,
+  "ENG": "Spider",
+  "TWN": "蜘蛛",
+  "JPN": "クモ",
+  "ITL": "Ragno"
+ },
+ {
+  "class_id": 234,
+  "ENG": "Squid",
+  "TWN": "烏賊",
+  "JPN": "イカ",
+  "ITL": "Calamaro"
+ },
+ {
+  "class_id": 235,
+  "ENG": "Squirrel",
+  "TWN": "松鼠",
+  "JPN": "リス",
+  "ITL": "Scoiattolo"
+ },
+ {
+  "class_id": 236,
+  "ENG": "Starfish",
+  "TWN": "海星",
+  "JPN": "ヒトデ",
+  "ITL": "Stella marina"
+ },
+ {
+  "class_id": 237,
+  "ENG": "Swan",
+  "TWN": "天鵝",
+  "JPN": "白鳥",
+  "ITL": "cigno"
+ },
+ {
+  "class_id": 238,
+  "ENG": "Tick",
+  "TWN": "打鉤",
+  "JPN": "ダニ",
+  "ITL": "Tic Tac"
+ },
+ {
+  "class_id": 239,
+  "ENG": "Tiger",
+  "TWN": "老虎",
+  "JPN": "虎",
+  "ITL": "Tigre"
+ },
+ {
+  "class_id": 240,
+  "ENG": "Tortoise",
+  "TWN": "烏龜",
+  "JPN": "カメ",
+  "ITL": "Tartaruga"
+ },
+ {
+  "class_id": 241,
+  "ENG": "Turkey",
+  "TWN": "火雞",
+  "JPN": "七面鳥",
+  "ITL": "tacchino"
+ },
+ {
+  "class_id": 242,
+  "ENG": "Turtle",
+  "TWN": "龜",
+  "JPN": "カメ",
+  "ITL": "Tartaruga"
+ },
+ {
+  "class_id": 243,
+  "ENG": "Whale",
+  "TWN": "鯨",
+  "JPN": "鯨",
+  "ITL": "Balena"
+ },
+ {
+  "class_id": 244,
+  "ENG": "Woodpecker",
+  "TWN": "啄木鳥",
+  "JPN": "キツツキ",
+  "ITL": "Picchio"
+ },
+ {
+  "class_id": 245,
+  "ENG": "Worm",
+  "TWN": "蟲",
+  "JPN": "いも虫",
+  "ITL": "Verme"
+ },
+ {
+  "class_id": 246,
+  "ENG": "Zebra",
+  "TWN": "斑馬",
+  "JPN": "シマウマ",
+  "ITL": "Zebra"
+ },
+ {
+  "class_id": 247,
+  "ENG": "Cat",
+  "TWN": "貓",
+  "JPN": "ネコ",
+  "ITL": "Gatto"
+ },
+ {
+  "class_id": 248,
+  "ENG": "Dog",
+  "TWN": "狗",
+  "JPN": "犬",
+  "ITL": "Cane"
+ },
+]
+}

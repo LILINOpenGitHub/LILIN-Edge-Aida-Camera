@@ -1,0 +1,109 @@
+{
+"LILINObject":[
+ {
+  "class_id": 150,
+  "ENG": "CoastGuard",
+  "TWN": "海岸警衛隊",
+  "JPN": "沿岸警備隊",
+  "ITL": "Guardia Costiera"
+ },
+ {
+  "class_id": 151,
+  "ENG": "Cargo",
+  "TWN": "遠洋貨輪",
+  "JPN": "海上貨物船",
+  "ITL": "Carico"
+ },
+ {
+  "class_id": 152,
+  "ENG": "Cruise",
+  "TWN": "郵輪",
+  "JPN": "クルーズ",
+  "ITL": "Crociera"
+ },
+ {
+  "class_id": 153,
+  "ENG": "Ferry ",
+  "TWN": "渡輪",
+  "JPN": "フェリー",
+  "ITL": "Traghetto"
+ },
+ {
+  "class_id": 154,
+  "ENG": "Freight",
+  "TWN": "貨運船",
+  "JPN": "貨物船",
+  "ITL": "Trasporto"
+ },
+ {
+  "class_id": 155,
+  "ENG": "Gondola",
+  "TWN": "貢多拉",
+  "JPN": "ゴンドラ",
+  "ITL": "Gondola"
+ },
+ {
+  "class_id": 156,
+  "ENG": "Inflatable",
+  "TWN": "充氣船",
+  "JPN": "インフレータブル",
+  "ITL": "Gonfiabile"
+ },
+ {
+  "class_id": 157,
+  "ENG": "Kayak",
+  "TWN": "皮艇",
+  "JPN": "カヤック",
+  "ITL": "Kayak"
+ },
+ {
+  "class_id": 158,
+  "ENG": "Sailboat",
+  "TWN": "帆船",
+  "JPN": "ヨット",
+  "ITL": "Barca a vela"
+ },
+ {
+  "class_id": 159,
+  "ENG": "Tug",
+  "TWN": "拖船",
+  "JPN": "タグボート",
+  "ITL": "Tirare"
+ },
+ {
+  "class_id": 160,
+  "ENG": "Warship",
+  "TWN": "軍艦",
+  "JPN": "軍艦",
+  "ITL": "Nave da guerra"
+ },
+ {
+  "class_id": 161,
+  "ENG": "Fishing",
+  "TWN": "漁船",
+  "JPN": "漁船",
+  "ITL": "Pesca"
+ },
+ {
+  "class_id": 162,
+  "ENG": "Carrier",
+  "TWN": "航空母艦",
+  "JPN": "空母",
+  "ITL": "Vettore"
+ },
+ {
+  "class_id": 163,
+  "ENG": "Yacht",
+  "TWN": "遊艇",
+  "JPN": "ヨット",
+  "ITL": "Yacht"
+ },
+ {
+  "class_id": 164,
+  "ENG": "Jetski",
+  "TWN": "水上摩托車",
+  "JPN": "ジェットスキー",
+  "ITL": "Jetski"
+ },
+]
+}

@@ -1,0 +1,46 @@
+{
+"LILINObject":[
+  {
+  "class_id": 105,
+  "ENG": "Smoke detection",
+  "TWN": "偵煙",
+  "JPN": "スモッグ",
+  "ITL": "Rilevamento di fumo"
+ },
+ {
+  "class_id": 106,
+  "ENG": "Fire detection",
+  "TWN": "偵火",
+  "JPN": "火焰走照",
+  "ITL": "Rilevazione incendi"
+ },
+ {
+  "class_id": 107,
+  "ENG": "Smog",
+  "TWN": "排氣管排煙",
+  "JPN": "スモッグ",
+  "ITL": "Smog"
+ },
+ {
+  "class_id": 108,
+  "ENG": "Lamp smoke effect",
+  "TWN": "燈光煙霧效果",
+  "JPN": "スモッグ",
+  "ITL": "Smog"
+ },
+  {
+  "class_id": 320,
+  "ENG": "Exhaust OK",
+  "TWN": "排氣管OK",
+  "JPN": "排気管OK",
+  "ITL": "Tubo di scarico OK"
+ },
+ {
+  "class_id": 321,
+  "ENG": "Exhaust NG",
+  "TWN": "排氣管NG",
+  "JPN": "排気管NG",
+  "ITL": "Tubo di scarico NG"
+ },
+]
+}
