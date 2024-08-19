@@ -1,5 +1,5 @@
 {
-"LILINObject":[
+"LILINAnimalObject":[
  {
   "class_id": 167,
   "ENG": "Bear",
@@ -8,25 +8,11 @@
   "ITL": "Orso"
  },
  {
-  "class_id": 168,
-  "ENG": "Brown bear",
-  "TWN": "棕熊",
-  "JPN": "ヒグマ",
-  "ITL": "orso bruno"
- },
- {
   "class_id": 169,
   "ENG": "Bull",
   "TWN": "公牛",
   "JPN": "ブル",
   "ITL": "Toro"
- },
- {
-  "class_id": 170,
-  "ENG": "Butterfly",
-  "TWN": "蝴蝶",
-  "JPN": "蝶",
-  "ITL": "La farfalla"
  },
  {
   "class_id": 171,
@@ -43,25 +29,11 @@
   "ITL": "Canarino"
  },
  {
-  "class_id": 173,
-  "ENG": "Caterpillar",
-  "TWN": "毛蟲",
-  "JPN": "キャタピラー",
-  "ITL": "bruco"
- },
- {
   "class_id": 174,
   "ENG": "Cattle",
   "TWN": "牛",
   "JPN": "牛",
   "ITL": "Bestiame"
- },
- {
-  "class_id": 175,
-  "ENG": "Centipede",
-  "TWN": "蜈",
-  "JPN": "ムカデ",
-  "ITL": "Centopiedi"
  },
  {
   "class_id": 176,
@@ -76,13 +48,6 @@
   "TWN": "雞",
   "JPN": "鶏",
   "ITL": "Pollo"
- },
- {
-  "class_id": 178,
-  "ENG": "Crab",
-  "TWN": "螃蟹",
-  "JPN": "カニ",
-  "ITL": "Granchio"
  },
  {
   "class_id": 179,
@@ -134,13 +99,6 @@
   "ITL": "Volpe"
  },
  {
-  "class_id": 186,
-  "ENG": "Frog",
-  "TWN": "青蛙",
-  "JPN": "蛙",
-  "ITL": "Rana"
- },
- {
   "class_id": 187,
   "ENG": "Giraffe",
   "TWN": "長頸鹿",
@@ -155,25 +113,11 @@
   "ITL": "Capra"
  },
  {
-  "class_id": 189,
-  "ENG": "Goldfish",
-  "TWN": "金魚",
-  "JPN": "金魚",
-  "ITL": "pesce rosso"
- },
- {
   "class_id": 190,
   "ENG": "Goose",
   "TWN": "鵝",
   "JPN": "ガチョウ",
   "ITL": "Oca"
- },
- {
-  "class_id": 191,
-  "ENG": "Hamster",
-  "TWN": "倉鼠",
-  "JPN": "ハムスター",
-  "ITL": "Criceto"
  },
  {
   "class_id": 192,
@@ -225,20 +169,6 @@
   "ITL": "Canguro"
  },
  {
-  "class_id": 199,
-  "ENG": "Koala",
-  "TWN": "考拉",
-  "JPN": "コアラ",
-  "ITL": "Koala"
- },
- {
-  "class_id": 200,
-  "ENG": "Ladybug",
-  "TWN": "瓢蟲",
-  "JPN": "てんとう虫",
-  "ITL": "Coccinella"
- },
- {
   "class_id": 201,
   "ENG": "Leopard",
   "TWN": "豹",
@@ -258,13 +188,6 @@
   "TWN": "蜥蜴",
   "JPN": "トカゲ",
   "ITL": "Lucertola"
- },
- {
-  "class_id": 204,
-  "ENG": "Lynx",
-  "TWN": "山貓",
-  "JPN": "リンクス",
-  "ITL": "Lince"
  },
  {
   "class_id": 205,
@@ -309,13 +232,6 @@
   "ITL": "Struzzo"
  },
  {
-  "class_id": 211,
-  "ENG": "Otter",
-  "TWN": "獺",
-  "JPN": "カワウソ",
-  "ITL": "lontra"
- },
- {
   "class_id": 212,
   "ENG": "Owl",
   "TWN": "貓頭鷹",
@@ -351,13 +267,6 @@
   "ITL": "Maiale"
  },
  {
-  "class_id": 217,
-  "ENG": "Polar bear",
-  "TWN": "北極熊",
-  "JPN": "ホッキョクグマ",
-  "ITL": "Orso polare"
- },
- {
   "class_id": 218,
   "ENG": "Rabbit",
   "TWN": "兔子",
@@ -374,16 +283,9 @@
  {
   "class_id": 220,
   "ENG": "Raven",
-  "TWN": "掠奪",
+  "TWN": "烏鴉",
   "JPN": "カラス",
   "ITL": "Corvo"
- },
- {
-  "class_id": 221,
-  "ENG": "Red panda",
-  "TWN": "小熊貓",
-  "JPN": "レッサーパンダ",
-  "ITL": "Panda rosso"
  },
  {
   "class_id": 222,
@@ -391,13 +293,6 @@
   "TWN": "犀牛",
   "JPN": "サイ",
   "ITL": "Rinoceronte"
- },
- {
-  "class_id": 223,
-  "ENG": "Scorpion",
-  "TWN": "蠍",
-  "JPN": "サソリ",
-  "ITL": "Scorpione"
  },
  {
   "class_id": 224,
@@ -442,13 +337,6 @@
   "ITL": "Gambero"
  },
  {
-  "class_id": 230,
-  "ENG": "Snail",
-  "TWN": "蝸牛",
-  "JPN": "カタツムリ",
-  "ITL": "Lumaca"
- },
- {
   "class_id": 231,
   "ENG": "Snake",
   "TWN": "蛇",
@@ -461,20 +349,6 @@
   "TWN": "麻雀",
   "JPN": "スズメ",
   "ITL": "Passero"
- },
- {
-  "class_id": 233,
-  "ENG": "Spider",
-  "TWN": "蜘蛛",
-  "JPN": "クモ",
-  "ITL": "Ragno"
- },
- {
-  "class_id": 234,
-  "ENG": "Squid",
-  "TWN": "烏賊",
-  "JPN": "イカ",
-  "ITL": "Calamaro"
  },
  {
   "class_id": 235,
@@ -496,13 +370,6 @@
   "TWN": "天鵝",
   "JPN": "白鳥",
   "ITL": "cigno"
- },
- {
-  "class_id": 238,
-  "ENG": "Tick",
-  "TWN": "打鉤",
-  "JPN": "ダニ",
-  "ITL": "Tic Tac"
  },
  {
   "class_id": 239,
@@ -547,13 +414,6 @@
   "ITL": "Picchio"
  },
  {
-  "class_id": 245,
-  "ENG": "Worm",
-  "TWN": "蟲",
-  "JPN": "いも虫",
-  "ITL": "Verme"
- },
- {
   "class_id": 246,
   "ENG": "Zebra",
   "TWN": "斑馬",
@@ -576,3 +436,4 @@
  },
 ]
 }
+
