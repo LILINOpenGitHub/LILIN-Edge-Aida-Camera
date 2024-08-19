@@ -1,5 +1,5 @@
 {
-"LILINObject":[
+"LILINFireSmakeObject":[
   {
   "class_id": 105,
   "ENG": "Smoke detection",
@@ -27,20 +27,6 @@
   "TWN": "燈光煙霧效果",
   "JPN": "スモッグ",
   "ITL": "Smog"
- },
-  {
-  "class_id": 320,
-  "ENG": "Exhaust OK",
-  "TWN": "排氣管OK",
-  "JPN": "排気管OK",
-  "ITL": "Tubo di scarico OK"
- },
- {
-  "class_id": 321,
-  "ENG": "Exhaust NG",
-  "TWN": "排氣管NG",
-  "JPN": "排気管NG",
-  "ITL": "Tubo di scarico NG"
- },
+ }
 ]
 }
