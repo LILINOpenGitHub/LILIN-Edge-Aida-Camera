@@ -1,5 +1,5 @@
 {
-"LILINObject":[
+"LILINTrafficObject":[
  {
   "class_id": 0,
   "ENG": "Person",
@@ -43,13 +43,6 @@
   "ITL": "Autobus"
  },
  {
-  "class_id": 6,
-  "ENG": "Train",
-  "TWN": "火車",
-  "JPN": "列車",
-  "ITL": "Treno"
- },
- {
   "class_id": 7,
   "ENG": "Truck",
   "TWN": "貨車",
@@ -57,81 +50,11 @@
   "ITL": "Camion"
  },
  {
-  "class_id": 8,
-  "ENG": "Boat",
-  "TWN": "船",
-  "JPN": "ボート",
-  "ITL": "Barca"
- },
- {
-  "class_id": 10,
-  "ENG": "Firehydrant",
-  "TWN": "消防栓",
-  "JPN": "消火栓",
-  "ITL": "Idrante"
- },
- {
-  "class_id": 12,
-  "ENG": "Parking meter",
-  "TWN": "停車收費表",
-  "JPN": "パーキングメーター",
-  "ITL": "Parchimetro"
- },
- {
-  "class_id": 13,
-  "ENG": "Bench",
-  "TWN": "長凳",
-  "JPN": "ベンチ",
-  "ITL": "Panchina"
- },
- {
-  "class_id": 14,
-  "ENG": "Bird",
-  "TWN": "鳥",
-  "JPN": "鳥",
-  "ITL": "Uccello"
- },
- {
-  "class_id": 15,
-  "ENG": "Cat",
-  "TWN": "貓",
-  "JPN": "ネコ",
-  "ITL": "Gatto"
- },
- {
-  "class_id": 16,
-  "ENG": "Dog",
-  "TWN": "狗",
-  "JPN": "犬",
-  "ITL": "Cane"
- },
- {
   "class_id": 83,
   "ENG": "Fire engine",
   "TWN": "消防車",
   "JPN": "消防車",
   "ITL": "Autopompa antincendio"
- },
- {
-  "class_id": 84,
-  "ENG": "Sedan",
-  "TWN": "轎車",
-  "JPN": "セダン",
-  "ITL": "Berlina"
- },
- {
-  "class_id": 85,
-  "ENG": "Van",
-  "TWN": "廂形車",
-  "JPN": "ヴァン",
-  "ITL": "Van"
- },
- {
-  "class_id": 87,
-  "ENG": "Gate",
-  "TWN": "閘道",
-  "JPN": "ゲート",
-  "ITL": "cancello"
  },
  {
   "class_id": 88,
@@ -146,13 +69,6 @@
   "TWN": "聯結車",
   "JPN": "トラックトレーラー",
   "ITL": "Rimorchio per camion"
- },
- {
-  "class_id": 90,
-  "ENG": "Pickup truck",
-  "TWN": "皮卡車",
-  "JPN": "ピックアップトラック",
-  "ITL": "Camioncino"
  },
   {
   "class_id": 131,
