@@ -910,3 +910,12 @@ Example: Get the custom counter's names.
 ```
 http://192.168.3.200:8592/get_counter_cust_name
 ````
+
+## Modify HTTP Post Content
+The following Curl commend modify the Post Host IP address:
+
+Windows Version Curl
+curl -X POST -H "Content-Type: application/json" -d "{\"notification\":{\"http_post_events\":[{},{},{},{},{\"post_protocol\":\"HTTP\",\"post_event_method\":\"GET\",\"post_event_name\":\"LVT Notification\",\"post_host_ip\":\"192.168.0.222\",\"post_host_port\":\"80\",\"post_timeout\":\"5\",\"post_url\":\"/LVTDetection?event=intrusion^&scene=^<^|zone_id^|^>^&object=^<^|name^|^>\",\"post_username\":\"admin\",\"post_password\":\"pass\",\"post_customized_header\":\"\"},{},{},{},{}]}}" "http://admin:Pass1234@192.168.3.77:8592/seteventsfile"
+
+Linux Version Curl
+curl -X POST -H "Content-Type: application/json" -d '{"notification":{"http_post_events":[{},{},{},{},{"post_protocol":"HTTP","post_event_method": "GET","post_event_name": "LVT Notification","post_host_ip": "192.168.0.222","post_host_port": "80","post_timeout": "5","post_url": "/LVTDetection?event=intrusion&scene=<|zone_id|>&object=<|name|>","post_username": "admin","post_password": "pass","post_customized_header": ""},{},{},{},{}]}}' "http://admin:Pass1234@192.168.3.77:8592/seteventsfile"
