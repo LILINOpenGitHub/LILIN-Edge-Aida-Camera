@@ -13,28 +13,19 @@
   "Trigger event": "TRIGGER_PARKING_VIOLATION",
   "ID": "0x00000004",
   "behavior_id": "4",
-  "ENG": "Detection with dwell",
-  "TWN": "禁區限時偵測",
-  "JPN": "滞在時間検知",
-  "ITL": "Rilevamento con permanenza"
+  "ENG": "Detection with dwell / Person inside",
+  "TWN": "禁區限時偵測 / 人員久進不出",
+  "JPN": "滞在時間検知 / 長い間中に閉じ込められている",
+  "ITL": "Rilevamento con permanenza / Persona all'interno"
  },
  {
   "Trigger event": "TRIGGER_GO_STRAIGHT",
   "ID": "0x00000008",
   "behavior_id": "8",
-  "ENG": "Tripwire / Person inside",
-  "TWN": "警戒線 / 人員久進不出",
-  "JPN": "コルドン検出 / 長い間中に閉じ込められている",
-  "ITL": "Linea di allerta / Persona all'interno"
- },
- {
-  "Trigger event": "TRIGGER_DISTANCE_VIOLATION",
-  "ID": "0x00040000",
-  "behavior_id": "262144",
-  "ENG": "Distance violation",
-  "TWN": "距離違規偵測",
-  "JPN": "距離違反検出",
-  "ITL": "Violazione della distanza"
+  "ENG": "Tripwire with height",
+  "TWN": "警戒線高度偵測",
+  "JPN": "警戒線高度検出",
+  "ITL": "Rilevamento dell'altezza della linea di allarme"
  },
  {
   "Trigger event": "TRIGGER_TAMPERING",
