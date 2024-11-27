@@ -55,15 +55,6 @@
   "ITL": "Le persone cadono"
  },
  {
-  "Trigger event": "TRIGGER_QUEUING_VIOLATION",
-  "ID": "0x10000000",
-  "behavior_id": "268435456",
-  "ENG": "Caring mode",
-  "TWN": "看護模式",
-  "JPN": "看護モード",
-  "ITL": "Modalità infermieristica"
- },
- {
   "Trigger event": "TRIGGER_MISSING_OBJECT_DETECTION",
   "ID": "0x20000000",
   "behavior_id": "536870912",
