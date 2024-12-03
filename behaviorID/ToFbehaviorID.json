@@ -4,37 +4,37 @@
   "Trigger event": "TRIGGER_ZONE_VIOLATION",
   "ID": "0x00000001",
   "behavior_id": "1",
-  "ENG": "Person in bed",
-  "TWN": "在床偵測",
-  "JPN": "ベッド内検知",
-  "ITL": "Nel rilevamento del letto"
+  "ENG": "In-bed",
+  "TWN": "人員在床",
+  "JPN": "ベッド内の人員",
+  "ITL": "Personale a letto"
  },
  {
   "Trigger event": "TRIGGER_PARKING_VIOLATION",
   "ID": "0x00000004",
   "behavior_id": "4",
-  "ENG": "Detection with dwell / Person inside",
-  "TWN": "禁區限時偵測 / 人員久進不出",
-  "JPN": "滞在時間検知 / 長い間中に閉じ込められている",
-  "ITL": "Rilevamento con permanenza / Persona all'interno"
+  "ENG": "Person inside",
+  "TWN": "人員久進不出",
+  "JPN": "長い間中に閉じ込められている",
+  "ITL": "Persona all'interno"
  },
  {
   "Trigger event": "TRIGGER_GO_STRAIGHT",
   "ID": "0x00000008",
   "behavior_id": "8",
-  "ENG": "Tripwire with height",
-  "TWN": "警戒線高度偵測",
-  "JPN": "警戒線高度検出",
-  "ITL": "Rilevamento dell'altezza della linea di allarme"
+  "ENG": "Personnel entry count (Zone1) / Personnel exit count (Zone2)",
+  "TWN": "人員進入計數 (警戒區1) / 人員離開計數 (警戒區2)",
+  "JPN": "人員入室カウンター (ゾーン1) / 人員退出カウンター (ゾーン2)",
+  "ITL": "Conteggio dell'accesso del personale (Zone1) / Conteggio dell'uscita del personale (Zone2)"
  },
  {
   "Trigger event": "TRIGGER_TAMPERING",
   "ID": "0x04000000",
   "behavior_id": "67108864",
-  "ENG": "Wake up",
+  "ENG": "Wake-up detection",
   "TWN": "人員起床",
-  "JPN": "スタッフが立ち上がる",
-  "ITL": "Il personale si alza"
+  "JPN": "人員起床",
+  "ITL": "Rilevamento del risveglio"
  },
  {
   "Trigger event": "TRIGGER_HIGHT_VIOLATION",
@@ -42,8 +42,8 @@
   "behavior_id": "134217728",
   "ENG": "People fall",
   "TWN": "人員跌倒",
-  "JPN": "人々は落ちる",
-  "ITL": "Le persone cadono"
+  "JPN": "人員の転倒",
+  "ITL": "Rilevamento delle cadute del personale"
  },
  {
   "Trigger event": "TRIGGER_MISSING_OBJECT_DETECTION",
@@ -51,8 +51,8 @@
   "behavior_id": "536870912",
   "ENG": "Bed leaving",
   "TWN": "人員離床",
-  "JPN": "人々はベッドから離れる",
-  "ITL": "Le persone lasciano il letto"
+  "JPN": "ベッドからの人員離脱",
+  "ITL": "Uscita del personale dal letto"
  }
 ]
 }
