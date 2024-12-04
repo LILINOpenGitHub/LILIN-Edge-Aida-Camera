@@ -80,6 +80,8 @@ Parameter
 | 		| 7: Pose:  Human detection 		| (reserved) |
 |		| 8: ANPR AI Number plate recognition | |
 | 		| 9: Car logos | GYNet_LOG_Label.names	|
+|               | 104: ToF                              |            |
+|               | 105: Face recognition                 |      |
 | LicenseStatus	| 1: Invalid license 			| 	|
 | 		| 2: Licensed				| 	|
 | 		| 3: License mismatch the system ID 	| 	|
