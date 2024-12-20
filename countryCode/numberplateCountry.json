@@ -102,11 +102,5 @@
             "Description (Eng)": "Canada",
             "Description (Chi)": "加拿大"
         },
-        {
-            "area_id (hex)": "0x08000000",
-            "area ": "CNT",
-            "Description (Eng)": "Container",
-            "Description (Chi)": "貨櫃辨識"
-        }
     ]
 }
