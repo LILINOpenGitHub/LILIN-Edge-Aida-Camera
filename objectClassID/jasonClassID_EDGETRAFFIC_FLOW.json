@@ -29,13 +29,6 @@
             "ITL": "Moto"
         },
         {
-            "class_id": 4,
-            "ENG": "Aeroplane",
-            "TWN": "飛機",
-            "JPN": "飛行機",
-            "ITL": "Aereo"
-        },
-        {
             "class_id": 5,
             "ENG": "Bus",
             "TWN": "公共汽車",
@@ -49,54 +42,5 @@
             "JPN": "トラック",
             "ITL": "Camion"
         },
-        {
-            "class_id": 83,
-            "ENG": "Fire engine",
-            "TWN": "消防車",
-            "JPN": "消防車",
-            "ITL": "Autopompa antincendio"
-        },
-        {
-            "class_id": 88,
-            "ENG": "TUK TUK",
-            "TWN": "嘟嘟車",
-            "JPN": "トゥクトゥク",
-            "ITL": "TUK TUK"
-        },
-        {
-            "class_id": 89,
-            "ENG": "Truck trailer",
-            "TWN": "聯結車",
-            "JPN": "トラックトレーラー",
-            "ITL": "Rimorchio per camion"
-        },
-        {
-            "class_id": 131,
-            "ENG": "Bulldozer",
-            "TWN": "推土車",
-            "JPN": "ブルドーザー",
-            "ITL": "Bulldozer"
-        },
-        {
-            "class_id": 132,
-            "ENG": "Stacker",
-            "TWN": "堆高機",
-            "JPN": "スタッカー",
-            "ITL": "che impila"
-        },
-        {
-            "class_id": 133,
-            "ENG": "Excavator",
-            "TWN": "挖土機",
-            "JPN": "掘削機",
-            "ITL": "Escavatore"
-        },
-        {
-            "class_id": 134,
-            "ENG": "Tanker",
-            "TWN": "油罐車",
-            "JPN": "タンクローリー",
-            "ITL": "Autocisterna"
-        }
     ]
 }
