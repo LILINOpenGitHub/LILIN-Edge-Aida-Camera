@@ -1,4 +1,5 @@
 [
+    "LILINMaskObject":[
     {
         "class_id": 80,
         "ENG": "No mask (face)",
@@ -27,4 +28,5 @@
         "JPN": "配戴眼鏡",
         "ITL": "Nessun giubbotto"
     },
+  ]      
 ]
