@@ -15,13 +15,6 @@
   "ITL": "Rilevazione incendi"
  },
  {
-  "class_id": 107,
-  "ENG": "Smog",
-  "TWN": "排氣管排煙",
-  "JPN": "スモッグ",
-  "ITL": "Smog"
- },
- {
   "class_id": 108,
   "ENG": "Lamp smoke effect",
   "TWN": "燈光煙霧效果",
