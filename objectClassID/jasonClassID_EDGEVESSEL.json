@@ -50,13 +50,6 @@
   "ITL": "Gonfiabile"
  },
  {
-  "class_id": 157,
-  "ENG": "Kayak",
-  "TWN": "皮艇",
-  "JPN": "カヤック",
-  "ITL": "Kayak"
- },
- {
   "class_id": 158,
   "ENG": "Sailboat",
   "TWN": "帆船",
@@ -97,13 +90,6 @@
   "TWN": "遊艇",
   "JPN": "ヨット",
   "ITL": "Yacht"
- },
- {
-  "class_id": 164,
-  "ENG": "Jetski",
-  "TWN": "水上摩托車",
-  "JPN": "ジェットスキー",
-  "ITL": "Jetski"
  },
 ]
 }
