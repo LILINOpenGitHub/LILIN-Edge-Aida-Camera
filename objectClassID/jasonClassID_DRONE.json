@@ -1,4 +1,4 @@
-﻿{
+{
     "AIDronePlane": [
         {
             "class_id": 136,
@@ -20,6 +20,6 @@
             "TWN": "軍機",
             "JPN": "軍用機",
             "ITL": "Aerei militari"
-        },
-    ],
+        }
+    ]
 }
