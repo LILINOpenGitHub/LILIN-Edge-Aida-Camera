@@ -28,12 +28,5 @@
             "JPN": "ベスト",
             "ITL": "Veste"
         },
-        {
-            "class_id": 95,
-            "ENG": "No vest",
-            "TWN": "沒帶工安背心",
-            "JPN": "ベストなし",
-            "ITL": "senza giubbotto"
-        }
     ]
 }
