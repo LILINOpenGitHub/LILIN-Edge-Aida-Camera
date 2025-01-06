@@ -2,14 +2,14 @@
 "LILINFireSmakeObject":[
   {
   "class_id": 105,
-  "ENG": "Smoke detection",
+  "ENG": "Smoke",
   "TWN": "偵煙",
   "JPN": "スモッグ",
   "ITL": "Rilevamento di fumo"
  },
  {
   "class_id": 106,
-  "ENG": "Fire detection",
+  "ENG": "Fire",
   "TWN": "偵火",
   "JPN": "火焰走照",
   "ITL": "Rilevazione incendi"
@@ -19,7 +19,7 @@
   "ENG": "Lamp smoke effect",
   "TWN": "燈光煙霧效果",
   "JPN": "スモッグ",
-  "ITL": "Smog"
+  "ITL": "Lampada fumo"
  }
 ]
 }
