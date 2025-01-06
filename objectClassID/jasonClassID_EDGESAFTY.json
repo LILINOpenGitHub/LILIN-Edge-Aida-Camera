@@ -1,60 +1,60 @@
 {
-"LILINHelmatObject":[
- {
-  "class_id": 0,
-  "ENG": "Person",
-  "TWN": "人",
-  "JPN": "人",
-  "ITL": "Persona"
- },
- {
-  "class_id": 91,
-  "ENG": "No helmet (face)",
-  "TWN": "沒戴安全帽",
-  "JPN": "ヘルメットなし",
-  "ITL": "Nessun casco"
- },
- {
-  "class_id": 92,
-  "ENG": "Helmet",
-  "TWN": "戴安全帽",
-  "JPN": "ヘルメット",
-  "ITL": "Casco"
- },
- {
-  "class_id": 93,
-  "ENG": "Vest",
-  "TWN": "工安背心",
-  "JPN": "ベスト",
-  "ITL": "Veste"
- },
- {
-  "class_id": 94,
-  "ENG": "Glass",
-  "TWN": "配戴眼鏡",
-  "JPN": "配戴眼鏡",
-  "ITL": "Nessun giubbotto"
- },
- {
-  "class_id": 95,
-  "ENG": "No vest",
-  "TWN": "沒帶工安背心",
-  "JPN": "ベストなし",
-  "ITL": "senza giubbotto"
- },
- {
-  "class_id": "97",
-  "ENG": "Wheelchair",
-  "TWN": "輪椅",
-  "JPN": "車椅子",
-  "ITL ": "Sedia a rotelle ",
- },
- {
-  "class_id": 98,
-  "ENG": "Robber_mask",
-  "TWN": "搶匪面罩",
-  "JPN": "搶匪面罩",
-  "ITL": "Robber_mask"
- }
-]
+    "LILINHelmatObject": [
+        {
+            "class_id": 0,
+            "ENG": "Person",
+            "TWN": "人",
+            "JPN": "人",
+            "ITL": "Persona"
+        },
+        {
+            "class_id": 91,
+            "ENG": "No helmet (face)",
+            "TWN": "沒戴安全帽",
+            "JPN": "ヘルメットなし",
+            "ITL": "Nessun casco"
+        },
+        {
+            "class_id": 92,
+            "ENG": "Helmet",
+            "TWN": "戴安全帽",
+            "JPN": "ヘルメット",
+            "ITL": "Casco"
+        },
+        {
+            "class_id": 93,
+            "ENG": "Vest",
+            "TWN": "工安背心",
+            "JPN": "ベスト",
+            "ITL": "Veste"
+        },
+        {
+            "class_id": 94,
+            "ENG": "Glass",
+            "TWN": "配戴眼鏡",
+            "JPN": "配戴眼鏡",
+            "ITL": "Nessun giubbotto"
+        },
+        {
+            "class_id": 95,
+            "ENG": "No vest",
+            "TWN": "沒帶工安背心",
+            "JPN": "ベストなし",
+            "ITL": "senza giubbotto"
+        },
+        {
+            "class_id": "97",
+            "ENG": "Wheelchair",
+            "TWN": "輪椅",
+            "JPN": "車椅子",
+            "ITL": "Sedia a rotelle"
+        },
+        {
+            "class_id": 98,
+            "ENG": "Robber_mask",
+            "TWN": "搶匪面罩",
+            "JPN": "搶匪面罩",
+            "ITL": "Robber_mask"
+        }
+    ]
 }
