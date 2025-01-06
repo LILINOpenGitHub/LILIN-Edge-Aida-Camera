@@ -4,31 +4,27 @@
         "ENG": "No mask (face)",
         "TWN": "沒戴口罩",
         "JPN": "ファスクなし",
-        "ITL ": "Nessun maschera",
-        "": ""
+        "ITL": "Nessun maschera",
     },
     {
         "class_id": "81",
         "ENG": "Half mask",
         "TWN": "半戴口罩",
         "JPN": "ハーフマスク",
-        "ITL ": "Mezza maschera ",
-        "": ""
+        "ITL": "Mezza maschera",
     },
     {
         "class_id": "82",
         "ENG": "Mask",
         "TWN": "戴口罩",
         "JPN": "マスク",
-        "ITL ": "Maschera ",
-        "": ""
+        "ITL": "Maschera",
     },
     {
         "class_id": "94",
         "ENG": "Glass",
         "TWN": "配戴眼鏡",
         "JPN": "配戴眼鏡",
-        "ITL ": "Nessun giubbotto ",
-        "": ""
+        "ITL": "Nessun giubbotto",
     },
 ]
