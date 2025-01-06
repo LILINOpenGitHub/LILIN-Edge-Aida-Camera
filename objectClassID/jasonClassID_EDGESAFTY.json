@@ -29,32 +29,11 @@
             "ITL": "Veste"
         },
         {
-            "class_id": 94,
-            "ENG": "Glass",
-            "TWN": "配戴眼鏡",
-            "JPN": "配戴眼鏡",
-            "ITL": "Nessun giubbotto"
-        },
-        {
             "class_id": 95,
             "ENG": "No vest",
             "TWN": "沒帶工安背心",
             "JPN": "ベストなし",
             "ITL": "senza giubbotto"
         },
-        {
-            "class_id": "97",
-            "ENG": "Wheelchair",
-            "TWN": "輪椅",
-            "JPN": "車椅子",
-            "ITL": "Sedia a rotelle"
-        },
-        {
-            "class_id": 98,
-            "ENG": "Robber_mask",
-            "TWN": "搶匪面罩",
-            "JPN": "搶匪面罩",
-            "ITL": "Robber_mask"
-        }
     ]
 }
