@@ -24,7 +24,7 @@
         "ID": "0x00002000",
         "behavior_id": "8,192",
         "ENG": "Max speed detection",
-        "TWN": "超速偵測",
+        "TWN": "最大速度偵測",
         "JPN": "最高速度検出",
         "ITL ": "Rilevamento della velocità ",
         "": ""
@@ -34,7 +34,7 @@
         "ID": "0x00004000",
         "behavior_id": "16,384",
         "ENG": "Min speed detection",
-        "TWN": "低速偵測",
+        "TWN": "最低速度偵測",
         "JPN": "最低速度検出",
         "ITL ": "Rilevamento a bassa velocità ",
         "": ""
