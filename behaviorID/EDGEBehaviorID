@@ -1,0 +1,92 @@
+[
+    {
+        "Trigger event": "TRIGGER_ZONE_VIOLATION",
+        "ID": "0x00000001",
+        "behavior_id": " 1 ",
+        "ENG": "Prohibit zone",
+        "TWN": "禁區偵測",
+        "JPN": "ゾーン検出の禁止",
+        "ITL ": "Violazione della zona ",
+        "": ""
+    },
+    {
+        "Trigger event": "TRIGGER_PARKING_VIOLATION",
+        "ID": "0x00000004",
+        "behavior_id": " 4 ",
+        "ENG": "Zone with dwell / parking violation",
+        "TWN": "禁區限時偵測 / 違規停車",
+        "JPN": "ガードゾーンの時間検出 / 駐車場の検出",
+        "ITL ": "Infrazione divieto sosta ",
+        "": ""
+    },
+    {
+        "Trigger event": "TRIGGER_SPEED_HIGH",
+        "ID": "0x00002000",
+        "behavior_id": " 8,192 ",
+        "ENG": "Max speed detection",
+        "TWN": "超速偵測",
+        "JPN": "最高速度検出",
+        "ITL ": "Rilevamento della velocità ",
+        "": ""
+    },
+    {
+        "Trigger event": "TRIGGER_SPEED_LOW",
+        "ID": "0x00004000",
+        "behavior_id": " 16,384 ",
+        "ENG": "Min speed detection",
+        "TWN": "低速偵測",
+        "JPN": "最低速度検出",
+        "ITL ": "Rilevamento a bassa velocità ",
+        "": ""
+    },
+    {
+        "Trigger event": "TRIGGER_MASK",
+        "ID": "0x00010000",
+        "behavior_id": " 65,536 ",
+        "ENG": "Mask wearing detection",
+        "TWN": "口罩偵測",
+        "JPN": "マスク検出",
+        "ITL ": "Rilevamento dell'uso della maschera ",
+        "": ""
+    },
+    {
+        "Trigger event": "TRIGGER_NO_MASK_VIOLATION",
+        "ID": "0x00020000",
+        "behavior_id": " 131,072 ",
+        "ENG": "No Mask wearing detection",
+        "TWN": "沒戴口罩偵測",
+        "JPN": "マスクなしの検出",
+        "ITL ": "Nessun rilevamento dell'uso della maschera ",
+        "": ""
+    },
+    {
+        "Trigger event": "TRIGGER_HELMET",
+        "ID": "0x00080000",
+        "behavior_id": " 524,288 ",
+        "ENG": "Helmet wearing",
+        "TWN": "有戴安全帽偵測",
+        "JPN": "ヘルメット検出を着用してください",
+        "ITL ": "Indossare il casco ",
+        "": ""
+    },
+    {
+        "Trigger event": "TRIGGER_NO_HELMET_VIOLATION",
+        "ID": "0x00100000",
+        "behavior_id": " 1,048,576 ",
+        "ENG": "No helmet wearing",
+        "TWN": "沒戴安全帽偵測",
+        "JPN": "ヘルメット検出を着用していない",
+        "ITL ": "Nessun casco da indossare ",
+        "": ""
+    },
+    {
+        "Trigger event": "TRIGGER_ALLOW_LIST",
+        "ID": "0x00200000",
+        "behavior_id": " ‭2097152‬ ",
+        "ENG": "LPR allowed list detection in zone",
+        "TWN": "白名單警戒區偵測",
+        "JPN": "LPRはゾーンでのリスト検出を許可しました",
+        "ITL ": "Accesso consentito per ANPR/LPR ",
+        "": ""
+    }
+]
