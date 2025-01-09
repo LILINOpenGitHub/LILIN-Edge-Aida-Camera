@@ -13,19 +13,19 @@
             "Trigger event": "TRIGGER_PARKING_VIOLATION",
             "ID": "0x00000004",
             "behavior_id": "4",
-            "ENG": "Zone with dwell \/ parking violation",
+            "ENG": "Zone with dwell / parking violation",
             "TWN": "違停偵測",
-            "JPN": "ガードゾーンの時間検出 \/ 駐車場の検出",
+            "JPN": "ガードゾーンの時間検出 / 駐車場の検出",
             "ITL": "Zona vietata a tempo"
         },
         {
             "Trigger event": "TRIGGER_GO_STRAIGHT",
             "ID": "0x00000008",
             "behavior_id": "8",
-            "ENG": "Tripwire \/ Traffic flow",
-            "TWN": "警戒線 \/ 直行偵測",
-            "JPN": "コルドン検出 \/ トラフィック検出",
-            "ITL": "Zone avanzate di allarme \/ Gestione traffico"
+            "ENG": "Tripwire / Traffic flow",
+            "TWN": "警戒線 / 直行偵測",
+            "JPN": "コルドン検出 / トラフィック検出",
+            "ITL": "Zone avanzate di allarme / Gestione traffico"
         },
         {
             "Trigger event": "TRIGGER_SPEED_HIGH",
@@ -141,7 +141,7 @@
             "behavior_id": "536870912",
             "ENG": "AI missing object detection",
             "TWN": "AI遺失物偵測",
-            "JPN": "AIの欠落オブジェクトの検出\n人々はベッドから離れる (ToF)",
+            "JPN": "AIの欠落オブジェクトの検出",
             "ITL": "Ril. di oggetti mancanti AI"
         },
         {
