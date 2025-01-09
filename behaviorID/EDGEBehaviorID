@@ -13,9 +13,9 @@
             "Trigger event": "TRIGGER_PARKING_VIOLATION",
             "ID": "0x00000004",
             "behavior_id": "4",
-            "ENG": "Zone with dwell \/ parking violation",
-            "TWN": "禁區限時偵測 \/ 違規停車",
-            "JPN": "ガードゾーンの時間検出 \/ 駐車場の検出",
+            "ENG": "Zone with dwell / parking violation",
+            "TWN": "禁區限時偵測 / 違規停車",
+            "JPN": "ガードゾーンの時間検出 / 駐車場の検出",
             "ITL": "Infrazione divieto sosta"
         },
         {
