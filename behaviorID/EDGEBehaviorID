@@ -75,7 +75,7 @@
         {
             "Trigger event": "TRIGGER_ALLOW_LIST",
             "ID": "0x00200000",
-            "behavior_id": "‭2097152‬",
+            "behavior_id": "‭2097152‬‬",
             "ENG": "LPR allowed list detection in zone",
             "TWN": "白名單警戒區偵測",
             "JPN": "LPRはゾーンでのリスト検出を許可しました",
@@ -84,7 +84,7 @@
         {
             "Trigger event": "TRIGGER_BLOCK_LIST",
             "ID": "0x00400000",
-            "behavior_id": "4194304‬",
+            "behavior_id": "‭4194304‬‬",
             "ENG": "LPR denial list detection in zone",
             "TWN": "黑名單警戒區偵測",
             "JPN": "ゾーンでのLPR拒否リストの検出",
