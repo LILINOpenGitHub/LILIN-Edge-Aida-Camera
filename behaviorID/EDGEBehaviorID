@@ -6,8 +6,7 @@
         "ENG": "Prohibit zone",
         "TWN": "禁區偵測",
         "JPN": "ゾーン検出の禁止",
-        "ITL ": "Violazione della zona ",
-        "": ""
+        "ITL ": "Violazione della zona"
     },
     {
         "Trigger event": "TRIGGER_PARKING_VIOLATION",
@@ -16,8 +15,7 @@
         "ENG": "Zone with dwell / parking violation",
         "TWN": "禁區限時偵測 / 違規停車",
         "JPN": "ガードゾーンの時間検出 / 駐車場の検出",
-        "ITL ": "Infrazione divieto sosta ",
-        "": ""
+        "ITL ": "Infrazione divieto sosta"
     },
     {
         "Trigger event": "TRIGGER_SPEED_HIGH",
@@ -26,7 +24,7 @@
         "ENG": "Max speed detection",
         "TWN": "最大速度偵測",
         "JPN": "最高速度検出",
-        "ITL ": "Rilevamento della velocità ",
+        "ITL ": "Rilevamento della velocità",
         "": ""
     },
     {
@@ -36,7 +34,7 @@
         "ENG": "Min speed detection",
         "TWN": "最低速度偵測",
         "JPN": "最低速度検出",
-        "ITL ": "Rilevamento a bassa velocità ",
+        "ITL ": "Rilevamento a bassa velocità",
         "": ""
     },
     {
@@ -46,8 +44,7 @@
         "ENG": "Mask wearing detection",
         "TWN": "口罩偵測",
         "JPN": "マスク検出",
-        "ITL ": "Rilevamento dell'uso della maschera ",
-        "": ""
+        "ITL ": "Rilevamento dell'uso della maschera"
     },
     {
         "Trigger event": "TRIGGER_NO_MASK_VIOLATION",
@@ -56,8 +53,7 @@
         "ENG": "No Mask wearing detection",
         "TWN": "沒戴口罩偵測",
         "JPN": "マスクなしの検出",
-        "ITL ": "Nessun rilevamento dell'uso della maschera ",
-        "": ""
+        "ITL ": "Nessun rilevamento dell'uso della maschera "
     },
     {
         "Trigger event": "TRIGGER_HELMET",
@@ -66,8 +62,7 @@
         "ENG": "Helmet wearing",
         "TWN": "有戴安全帽偵測",
         "JPN": "ヘルメット検出を着用してください",
-        "ITL ": "Indossare il casco ",
-        "": ""
+        "ITL ": "Indossare il casco "
     },
     {
         "Trigger event": "TRIGGER_NO_HELMET_VIOLATION",
@@ -76,8 +71,7 @@
         "ENG": "No helmet wearing",
         "TWN": "沒戴安全帽偵測",
         "JPN": "ヘルメット検出を着用していない",
-        "ITL ": "Nessun casco da indossare ",
-        "": ""
+        "ITL ": "Nessun casco da indossare"
     },
     {
         "Trigger event": "TRIGGER_ALLOW_LIST",
@@ -86,7 +80,6 @@
         "ENG": "LPR allowed list detection in zone",
         "TWN": "白名單警戒區偵測",
         "JPN": "LPRはゾーンでのリスト検出を許可しました",
-        "ITL ": "Accesso consentito per ANPR/LPR ",
-        "": ""
+        "ITL ": "Accesso consentito per ANPR/LPR "
     }
 ]
