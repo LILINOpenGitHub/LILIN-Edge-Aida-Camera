@@ -22,7 +22,7 @@
     {
         "Trigger event": "TRIGGER_SPEED_HIGH",
         "ID": "0x00002000",
-        "behavior_id": " 8,192 ",
+        "behavior_id": "8,192",
         "ENG": "Max speed detection",
         "TWN": "超速偵測",
         "JPN": "最高速度検出",
