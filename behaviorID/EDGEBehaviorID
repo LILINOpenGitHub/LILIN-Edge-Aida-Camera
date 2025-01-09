@@ -103,7 +103,7 @@
             "Trigger event": "TRIGGER_GUEST_LIST",
             "ID": "0x00800000",
             "behavior_id": "8388608",
-            "ENG": "Guest LPR detection",
+            "ENG": "LPR visitor list detection in zone",
             "TWN": "訪客車牌偵測",
             "JPN": "ゲストナンバープレート認識",
             "ITL": "Riconoscimento targa ospite"
