@@ -88,7 +88,7 @@
             "ENG": "LPR allowed list detection in zone",
             "TWN": "白名單警戒區偵測",
             "JPN": "LPRはゾーンでのリスト検出を許可しました",
-            "ITL": "Accesso consentito per ANPR\/LPR"
+            "ITL": "Accesso consentito per LPR"
         },
         {
             "Trigger event": "TRIGGER_BLOCK_LIST",
@@ -97,7 +97,7 @@
             "ENG": "LPR denial list detection in zone",
             "TWN": "黑名單警戒區偵測",
             "JPN": "ゾーンでのLPR拒否リストの検出",
-            "ITL": "Accesso negato per ANPR\/LPR"
+            "ITL": "Accesso negato per LPR"
         },
         {
             "Trigger event": "TRIGGER_GUEST_LIST",
@@ -162,4 +162,5 @@
             "JPN": "オブジェクト検出の欠如 (NAND)",
             "ITL": "Mancanza di qualsiasi ril. di oggetti (NAND)"
         }
- 
+    ]
+}
