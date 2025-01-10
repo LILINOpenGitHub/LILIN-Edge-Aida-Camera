@@ -46,42 +46,6 @@
             "ITL": "Ril. della velocità minima"
         },
         {
-            "Trigger event": "TRIGGER_MASK",
-            "ID": "0x00010000",
-            "behavior_id": "65536",
-            "ENG": "Mask wearing detection",
-            "TWN": "口罩偵測",
-            "JPN": "マスク検出",
-            "ITL": "Rilevamento dell'uso della maschera"
-        },
-        {
-            "Trigger event": "TRIGGER_NO_MASK_VIOLATION",
-            "ID": "0x00020000",
-            "behavior_id": "131072",
-            "ENG": "No Mask wearing detection",
-            "TWN": "沒戴口罩偵測",
-            "JPN": "マスクなしの検出",
-            "ITL": "Nessun rilevamento dell'uso della maschera"
-        },
-        {
-            "Trigger event": "TRIGGER_HELMET",
-            "ID": "0x00080000",
-            "behavior_id": "524288",
-            "ENG": "Helmet wearing",
-            "TWN": "有戴安全帽偵測",
-            "JPN": "ヘルメット検出を着用してください",
-            "ITL": "Indossare il casco"
-        },
-        {
-            "Trigger event": "TRIGGER_NO_HELMET_VIOLATION",
-            "ID": "0x00100000",
-            "behavior_id": "1048576",
-            "ENG": "No helmet wearing",
-            "TWN": "沒戴安全帽偵測",
-            "JPN": "ヘルメット検出を着用していない",
-            "ITL": "Nessun casco da indossare"
-        },
-        {
             "Trigger event": "TRIGGER_ALLOW_LIST",
             "ID": "0x00200000",
             "behavior_id": "2097152",
