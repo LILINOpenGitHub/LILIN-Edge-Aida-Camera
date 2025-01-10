@@ -94,7 +94,7 @@
             "Trigger event": "TRIGGER_QUEUING_VIOLATION",
             "ID": "0x10000000",
             "behavior_id": "268435456",
-            "ENG": "Density violation",
+            "ENG": "Density detection",
             "TWN": "密度偵測",
             "JPN": "キューイング検出",
             "ITL": "Rilevamento delle code"
