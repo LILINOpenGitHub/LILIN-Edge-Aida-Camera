@@ -13,17 +13,17 @@
             "Trigger event": "TRIGGER_PARKING_VIOLATION",
             "ID": "0x00000004",
             "behavior_id": "4",
-            "ENG": "Zone with dwell \/ Parking violation",
+            "ENG": "Zone with dwell / Parking violation",
             "TWN": "違停偵測 ",
-            "JPN": "ガードゾーンの時間検出 \/ 駐車場の検出",
+            "JPN": "ガードゾーンの時間検出 / 駐車場の検出",
             "ITL": "Zona vietata a tempo"
         },
         {
             "Trigger event": "TRIGGER_GO_STRAIGHT",
             "ID": "0x00000008",
             "behavior_id": "8",
-            "ENG": "Tripwire \/ Traffic flow",
-            "TWN": "警戒線 \/ 直行偵測",
+            "ENG": "Tripwire / Traffic flow",
+            "TWN": "警戒線 / 直行偵測",
             "JPN": "コルドン検出 \/ トラフィック検出",
             "ITL": "Zone avanzate di allarme \/ Gestione traffico"
         },
