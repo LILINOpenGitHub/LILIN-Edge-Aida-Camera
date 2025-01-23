@@ -232,6 +232,13 @@
   "ITL": "Struzzo"
  },
  {
+  "class_id": 211,
+  "ENG": "Otter",
+  "TWN": "海獺",
+  "JPN": "カワウソ",
+  "ITL": "lontra"
+ },
+ {
   "class_id": 212,
   "ENG": "Owl",
   "TWN": "貓頭鷹",
