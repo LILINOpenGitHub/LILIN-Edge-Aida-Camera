@@ -4,7 +4,7 @@
             "Trigger event": "TRIGGER_ZONE_VIOLATION",
             "ID": "0x00000001",
             "behavior_id": "1",
-            "ENG": "Prohibit zone",
+            "ENG": "Intrusion detection",
             "TWN": "禁區偵測",
             "JPN": "ゾーン検出の禁止",
             "ITL": "Violazione della zona"
@@ -13,7 +13,7 @@
             "Trigger event": "TRIGGER_PARKING_VIOLATION",
             "ID": "0x00000004",
             "behavior_id": "4",
-            "ENG": "Zone with dwell / Parking violation",
+            "ENG": "Loitering detection",
             "TWN": "違停偵測 ",
             "JPN": "ガードゾーンの時間検出 / 駐車場の検出",
             "ITL": "Zona vietata a tempo"
@@ -22,7 +22,7 @@
             "Trigger event": "TRIGGER_GO_STRAIGHT",
             "ID": "0x00000008",
             "behavior_id": "8",
-            "ENG": "Tripwire / Traffic flow",
+            "ENG": "Line-crossing detection",
             "TWN": "警戒線 / 直行偵測",
             "JPN": "コルドン検出 \/ トラフィック検出",
             "ITL": "Zone avanzate di allarme \/ Gestione traffico"
