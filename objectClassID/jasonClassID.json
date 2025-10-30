@@ -2,7 +2,7 @@
 "LILINObject":[
  {
   "class_id": 0,
-  "ENG": "Person",
+  "ENG": "Human",
   "TWN": "人",
   "JPN": "人",
   "ITL": "Persona"
@@ -16,7 +16,7 @@
  },
  {
   "class_id": 2,
-  "ENG": "Car",
+  "ENG": "Vehicle",
   "TWN": "汽車",
   "JPN": "車",
   "ITL": "Macchina"
@@ -4247,3 +4247,4 @@
  }
 ]
 }
+
