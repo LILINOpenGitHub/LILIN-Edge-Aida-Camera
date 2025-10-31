@@ -17,7 +17,7 @@
         {
             "class_id": 2,
             "ENG": "Vehicle",
-            "TWN": "汽車",
+            "TWN": "車",
             "JPN": "車",
             "ITL": "Macchina"
         },
@@ -44,4 +44,5 @@
         }
     ]
 }
+
 
