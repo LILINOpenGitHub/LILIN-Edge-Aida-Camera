@@ -168,12 +168,19 @@ http://<serverIP:8592>/setconfig?ch=1&count_zone=<zone_num>
 ```
 Examples:
 
-The following API enables the zone #1, zone #2, and zone #3:
-
-http://192.168.0.200:80/airelay/setconfig?ch=1&count_zone=1
+The following API enables the zone #2, and zone #3:
+```
 http://192.168.0.200:80/airelay/setconfig?ch=1&count_zone=2
+```
+```
+http://192.168.0.200:8592/setconfig?ch=1&count_zone=2
+```
+```
 http://192.168.0.200:80/airelay/setconfig?ch=1&count_zone=3"
-
+```
+```
+http://192.168.0.200:8592/airelay/setconfig?ch=1&count_zone=3"
+```
 Syntax: 
 ```
 http://<serverIP:8592>/setconfig?ch=all
